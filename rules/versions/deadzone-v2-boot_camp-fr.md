@@ -39,10 +39,10 @@ Nous vous recommandons d’éviter de laisser des zonesde 3 x 3 cubes sans aucun
 
 Souvenez-vous que vous pouvez construire des bâtiments à plusieurs niveaux, pouvant être reliés entre eux par des passerelles au-dessus du sol !
 
-Les décors ajoutent une troisième dimension au champ de bataille et impliquent que l’on joue dans des cubes, plutôt que dans des cases.
+Les décors ajoutent une troisième dimension au champ de bataille et impliquent que l’on joue dans des **cubes**, plutôt que dans des cases.
 Les règles de Deadzone utilisent le terme cube afin de vous rappeler que vous combattez dans un espace en trois dimensions.
 
-Une série de cubes empilés les uns sur les autres constituent un empilement.
+Une série de cubes empilés les uns sur les autres constituent un **empilement**.
 Chaque niveau est numéroté, en désignant le plus bas comme le niveau 1, celui du dessus, le niveau 2, et ainsi de suite.
 Afin d’être le plus impartial possible, vous pouvez demander l’aide d’un troisième joueur pour installer les décors.
 Vous pouvez également proposer à un des deux joueurs de positionner les décors, puis permettre à l’autre joueur de tourner le plateau et choisir le côté où il veut placer son Groupe de Combat.
@@ -75,7 +75,11 @@ Lorsque vous avez placé un total de huit pions (y compris ceux qui ont été d�
 
 ## Recon et Déploiement
 Afin de déterminer quel joueur déploiera son Groupe de Combat en premier, les deux joueurs effectue un :
+
+
 **Test de Recon (X) à 5 dés**
+
+
 Pour comprendre comment cela fonctionne, consultez l’encadré Jet de Dés, en page 9.
 Les jets de dés constituent un concept clé du jeu, et cela deviendra rapidement pour vous comme une seconde nature.
 
@@ -86,7 +90,7 @@ En cas d’égalité, relancez.
 Le vainqueur du test de Recon décide celui qui sera le **premier joueur**.
 Le premier joueur choisit sa zone de déploiement, déploie ses figurines et aura l’initiative au premier Tour.
 
-Les figurines *Non-Véhicules* peuvent être déployées à n’importe quel niveau.
+Les figurines _Non-Véhicules_ peuvent être déployées à n’importe quel niveau.
 Les véhicules, quant à eux, devront être déployés au niveau 1 (au niveau du sol).
 
 Ensuite, l’adversaire déploie toutes ses figurines dans sa zone de déploiement.
@@ -113,3 +117,61 @@ Il est possible que les deux joueurs dépassent ce total dans le même Round.
 Dans ce cas, le joueur ayant le plus grand nombre de PV gagne.
 En cas d’égalité, la partie continue jusqu’à ce qu’un des deux joueurs ait 1 PV de plus que son adversaire, à la fin d’un Round.
 Au cours de la partie, on tient compte des PV en utilisant des pions PV, et le total de PV gagnés par chaque camp n’est pas gardé secret.
+
+
+# Jets de Dés
+Certaines actions et événements de jeu requièrent un jet de dés afin de connaître leur degré de réussite.
+
+Ces jets sont appelés **Tests**, et sont toujours affichés dans un format qui vous informe sur :
+- **Le Nombre de dés** à lancer lors de ce test.
+- **Le Score à obtenir** : il s’agira de la valeur d’une des caractéristiques du personnage, ou de l’armée effectuant l’action, ou tout simplement d’une valeur chiffrée à atteindre.
+- **Le nombre de Succès requis** (chiffre entre parenthèses) pour réussir l’action.
+
+Si celui-ci est un (X), cela signifie que les deux joueurs doivent lancer les dés, et que le nombre de succès obtenu par chaque joueur est comparé.
+Celui qui obtient le plus de succès gagne le test.
+Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
+
+
+_Exemple 1_
+
+Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés.
+Chaque résultat de 4 ou plus compte comme un succès, et dans ce cas, un seul succès est requis pour accomplir l’action.
+
+
+_Exemple 2_
+
+Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez lancer 3 dés.
+Vous tentez d’égaler ou dépasser la valeur de Combat de votre personnage.
+Comparez ensuite le nombre de succès que vous avez obtenu à ceux de votre adversaire (il a lancé son propre test pour tenter de se défendre) afin de savoir qui l’emporte.
+La différence entre le nombre de succès peut aussi avoir un effet lors de certains tests.
+
+
+## Faire un Test
+1) Prenez le nombre de dés indiqués.
+Appliquez tout modificateur au nombre de dés à lancer, comme indiqué dans la description de l’action.
+
+_**Important !**_
+_Les Modificateurs influent **toujours** sur le nombre de dés à lancer.
+Ils ne modifient **jamais** la caractéristique ciblée par le test, ou la valeur que vous devez atteindre._
+
+Si les modificateurs réduisent le nombre de dés à 0 ou moins, alors vous ne pouvez pas effectuer ce test.
+On compte que vous avez obtenu zéro succès lors de ce test.
+
+2) Lancez tous les dés en même temps
+
+3) a. Chaque dé est lu séparément
+
+b. Si vous égalez ou dépassez la valeur de la caractéristique ou de la valeur chiffrée à atteindre, vous obtenez un succès.
+Sinon, le résultat de ce dé est un échec.
+
+c. Chaque dé obtenant un 8 compte un succès **ET** vous permet de lancer un dé supplémentaire.
+Si vous obtenez un autre 8 avec un dé supplémentaire, vous obtenez encore un autre dé.
+Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un résultat autre que 8.
+
+4) Additionnez le nombre de succès pour obtenir votre total et déterminer le résultat du test comme décrit dans l’action.
+
+
+## Caractéristique nulle
+Si une figurine a une valeur de « - » dans la caractéristique requise pour un test, alors elle ne peut pas tenter d’effectuer cette action.
+Si une figurine a une valeur de « - » dans une caractéristique qu’elle doit utiliser lors d’un test, et quelques soient les modificateurs, aucun dé n’est lancé et on considère qu’elle a obtenu zéro succès.
+
