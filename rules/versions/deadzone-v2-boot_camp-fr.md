@@ -9,7 +9,7 @@ Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 
 
 ## Choisir une Mission
-S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction Patrouille, décrite en page 12.
+S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_, décrite en page 12.
 
 Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions en page 40, et les règles de campagnes, page 98.
 
@@ -52,7 +52,7 @@ Vous pouvez également proposer à un des deux joueurs de positionner les décor
 
 ### Objectifs
 Chaque mission indique l’emplacement des objectifs.
-Dans la mission Patrouille par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus).
+Dans la mission _Patrouille_ par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus).
 Vous utiliserez une carte comme celle ci-dessus pour placer les 4 objectifs.
 S’il y a un décor dans l’une des cases désignées, placez le marqueur à l’intérieur de celui-ci ou sur le niveau le plus élevé de l’empilement.
 
@@ -132,14 +132,12 @@ Celui qui obtient le plus de succès gagne le test.
 Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
 
 
-_Exemple 1_
-
+## _Exemple 1_
 Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés.
 Chaque résultat de 4 ou plus compte comme un succès, et dans ce cas, un seul succès est requis pour accomplir l’action.
 
 
-_Exemple 2_
-
+## _Exemple 2_
 Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez lancer 3 dés.
 Vous tentez d’égaler ou dépasser la valeur de Combat de votre personnage.
 Comparez ensuite le nombre de succès que vous avez obtenu à ceux de votre adversaire (il a lancé son propre test pour tenter de se défendre) afin de savoir qui l’emporte.
