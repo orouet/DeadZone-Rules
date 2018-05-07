@@ -329,9 +329,27 @@ Vous gagnez des PV de la façon suivante :
 * En Contrôlant un objectif : Vous devez avoir les seules figurines dans ce cube.
 Vous gagnez 1 ou 2 PV (selon l’objectif) à la fin de chaque Round où vous le contrôlez.
 Les PV sont gagnés par objectif contrôlé, et non par figurine sur l’objectif.
-* En Récupérant des Informations (1 PV par pion Info, qui est l’un des objets a récupérer).
+* En Récupérant des Informations (1 PV par pion _Info_, qui est l’un des objets a récupérer).
 
 Pensez à comptabiliser les PV marqués par chaque joueur en utilisant les pions de PV durant la partie, et montrez-les fièrement sur le plateau pour faire monter la pression !
 
 Bonne chance !
+
+
+## Profil
+Chaque type de figurine possède son propre profil (une liste de caractéristiques) qui détermine ses compétences en tir, en combat, et ainsi de suite.
+Le profil présente plusieurs informations à propos de la figurine :
+
+**Nom :** le nom de ce type de figurine.
+
+**Type :** les figurines sont classées en différentes catégories :
+* **Leader (L) :** les commandants d’une faction.
+* **Troupe (T) :** rang et profil de base.
+* **Spécialiste (S) :** figurines avec un armement, un entraînement ou un équipement spécifique.
+* **Personnage (P) :** un personnage nommé.
+* **Véhicule (V) :** unités de soutien mécanisé.
+
+**Points :** Le coût en points pour incorporer un seul de ce type de figurine dans votre Groupe de Combat.
+
+**PV :** le nombre de PV gagnés par votre adversaire s’il tue cette figurine.
 
