@@ -159,12 +159,12 @@ On compte que vous avez obtenu zéro succès lors de ce test.
 
 3) a. Chaque dé est lu séparément
 
-... b. Si vous égalez ou dépassez la valeur de la caractéristique ou de la valeur chiffrée à atteindre, vous obtenez un succès.
-... Sinon, le résultat de ce dé est un échec.
+3) b. Si vous égalez ou dépassez la valeur de la caractéristique ou de la valeur chiffrée à atteindre, vous obtenez un succès.
+Sinon, le résultat de ce dé est un échec.
 
-... c. Chaque dé obtenant un 8 compte un succès **ET** vous permet de lancer un dé supplémentaire.
-... Si vous obtenez un autre 8 avec un dé supplémentaire, vous obtenez encore un autre dé.
-... Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un résultat autre que 8.
+3) c. Chaque dé obtenant un 8 compte un succès **ET** vous permet de lancer un dé supplémentaire.
+Si vous obtenez un autre 8 avec un dé supplémentaire, vous obtenez encore un autre dé.
+Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un résultat autre que 8.
 
 4) Additionnez le nombre de succès pour obtenir votre total et déterminer le résultat du test comme décrit dans l’action.
 
