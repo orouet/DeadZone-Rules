@@ -210,3 +210,41 @@ Ils seront disponibles pour être dépensés durant les Tours du Round que vous 
 Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation.
 Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés.
 Référez-vous au tableau sur la page suivante pour plus de détails sur la manière de les utiliser.
+
+
+## Jouer un Tour
+Le joueur qui effectue son Tour a l’_**Initiative**_.  
+Lors de votre Tour, vous pourrez activer une seule figurine, en suivant ces étapes :
+
+a) Choisissez une figurine qui n’a pas encore été activée durant ce Round.
+b) Effectuez une _**action longue**_, ou jusqu’à _**deux actions courtes**_.
+c) _**Marquez**_ la figurine en plaçant un pion d’activation à côté d’elle.
+
+
+**Cas Particuliers :**  
+_Ne rien faire :_ Vous pouvez choisir de ne rien faire avec une figurine durant un Tour, si vous le souhaitez.
+Vous devrez toutefois la marquer comme activée.
+Ensuite votre Tour s’arrête.
+
+_Passer :_ S’il vous reste moins de figurines à activer que votre adversaire, vous pouvez choisir de lui passer l’Initiative, sans activer qui que ce soit.
+Si toutes vos figurines ont été activées, vous n’aurez pas d’autre choix que de passer.
+Dans ce cas, le reste du Round verra votre adversaire garder l’Initiative, et jouera ses Tours successivement jusqu’à ce que toutes ses figurines aient été activées.
+
+_Dés de Commandement :_ certains Dés de Commandement permettent à une figurine d’avoir une action supplémentaire de Déplacement, de Tir ou de Combat.
+Ce sont des actions dites «gratuites», et elles ne comptent pas dans la limite des deux actions courtes ou une action longue d’une figurine active.
+
+
+## Fin du Round
+Lorsque toutes les figurines ont été activées, le Round est terminé.
+Suivez les étapes suivantes :
+
+a) Donnez les PV appropriés au joueur qui possède la(les) seule(s) figurine(s) présente(s) dans un cube contenant un objectif.
+Comptez chaque objectif une seule fois, et non une fois par figurine dans le cube.
+Notez que les cubes avec objectifs peuvent rapporter des PV à chaque Round, du moment que les conditions sont remplies.
+
+b) Calculez les PV de chaque joueur pour déterminer si l’un deux a remporté la bataille.
+
+c) Si la bataille n’est pas terminée, retirez les pions d’activation des figurines et débutez un nouveau Round avec un Test de Commandement.
+Il est possible que l’Initiative change de joueur en fin de Round.
+Le joueur ayant terminé d’activer ses figurines en premier durant ce Round commencera le prochain Round avec l’Initiative (et jouera donc le premier Tour).
+
