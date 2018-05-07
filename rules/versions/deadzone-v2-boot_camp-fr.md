@@ -254,6 +254,7 @@ Le joueur ayant terminé d’activer ses figurines en premier durant ce Round co
 
 ### +1 Activation
 ![Activation](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-model.jpg?raw=true)
+
 **Quoi :** Activer une seconde figurine qui n’a pas encore été activée.  
 **Quand :** Après avoir terminé l’activation d’une de vos figurines.
 Vous ne pouvez dépenser qu’un seul résultat +1 Activation par Tour.
@@ -261,12 +262,14 @@ Sauf si précisé par une capacité d’une figurine ou par une règle spéciale
 
 ### Dé
 ![Dé](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-dice.jpg?raw=true)
+
 **Quoi :** Ajoutez +1 Dé à n’importe quel test de Tir, Combat ou Survie.  
 **Quand :** Vous pouvez dépenser un résultat Dé lorsque vous effectuez un test de Tir, de Combat ou de Survie, y compris durant le Tour de votre adversaire (par exemple, sur un test de Survie durant une action de Tir contre une de vos figurines).
 Vous pouvez dépenser autant de résultats Dé que vous le souhaitez sur un même test, mais vous devez déterminer leur nombre avant de lancer le moindre dé.
 
 ### Déplacement
 ![Déplacement](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-move.jpg?raw=true)
+
 **Quoi :** La figurine active gagne une action de Déplacement gratuite.
 Ce Déplacement est limité à un seul cube, quelle que soit la Vitesse de la figurine.
 Ce Déplacement suit les règles normales de déplacement.  
@@ -276,6 +279,7 @@ Il peut être utilisé sur une figurine ayant déjà effectué une action de Dé
 
 ### Tir
 ![Tir](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-shoot.jpg?raw=true)
+
 **Quoi :** La figurine active gagne une action de Tir gratuite.  
 **Quand :** Vous ne pouvez dépenser qu’un seul résultat Tir par activation.
 Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue.
@@ -283,6 +287,7 @@ Il peut être utilisé sur une figurine ayant déjà effectué une action de de 
 
 ### Combat
 ![Combat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-fight.jpg?raw=true)
+
 **Quoi :** La figurine active gagne une action de Combat gratuite.  
 **Quand :** Vous ne pouvez dépenser qu’un seul résultat Combat par activation.
 Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue.
@@ -290,6 +295,7 @@ Il peut être utilisé sur une figurine ayant déjà effectué une action de Com
 
 ### Splat Mantic ! (Spécial)
 ![Splat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-splat.jpg?raw=true)
+
 **Quoi :** Activer la capacité spéciale de votre armée.
 Les effets sont différents pour chaque armée et sont expliqués dans chaque liste d’armée.
 Les effets d’un résultat Spécial ne comptent pas dans les restrictions du nombre d’actions par Tour, sauf si cela est spécifiquement précisé.  
