@@ -1,11 +1,12 @@
 # MISE EN PLACE
 
 Afin de mettre en place une partie de Deadzone, suivez ces étapes :
+
 1) Choisir une mission
 2) Sélection des Groupes de Combat
 3) Installer le Champ de Bataille
 4) Placer les Objets et les Objectifs
-5 Recon et Déploiement
+5) Recon et Déploiement
 
 
 ## Choisir une Mission
@@ -133,11 +134,9 @@ Si celui-ci est un (X), cela signifie que les deux joueurs doivent lancer les d�
 Celui qui obtient le plus de succès gagne le test.
 Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
 
-
 _Exemple 1_  
 Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés.
 Chaque résultat de 4 ou plus compte comme un succès, et dans ce cas, un seul succès est requis pour accomplir l’action.
-
 
 _Exemple 2_  
 Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez lancer 3 dés.
@@ -222,7 +221,6 @@ b) Effectuez une _**action longue**_, ou jusqu’à _**deux actions courtes**_.
 
 c) _**Marquez**_ la figurine en plaçant un pion d’activation à côté d’elle.
 
-
 **Cas Particuliers :**  
 _Ne rien faire :_ Vous pouvez choisir de ne rien faire avec une figurine durant un Tour, si vous le souhaitez.
 Vous devrez toutefois la marquer comme activée.
@@ -247,7 +245,51 @@ Notez que les cubes avec objectifs peuvent rapporter des PV à chaque Round, du 
 b) Calculez les PV de chaque joueur pour déterminer si l’un deux a remporté la bataille.
 
 c) Si la bataille n’est pas terminée, retirez les pions d’activation des figurines et débutez un nouveau Round avec un Test de Commandement.
+
 Il est possible que l’Initiative change de joueur en fin de Round.
 Le joueur ayant terminé d’activer ses figurines en premier durant ce Round commencera le prochain Round avec l’Initiative (et jouera donc le premier Tour).
 
 
+## Dés de commandement
+
+### +1 figurine
+**Quoi :** Activer une seconde figurine qui n’a pas encore été activée.  
+**Quand :** Après avoir terminé l’activation d’une de vos figurines.
+Vous ne pouvez dépenser qu’un seul résultat +1 Activation par Tour.
+Sauf si précisé par une capacité d’une figurine ou par une règle spéciale de l’Armée, vous ne pouvez activer que deux figurines au maximum par Tour avant de devoir passer l’Initiative à votre adversaire.
+
+### Dé
+**Quoi :** Ajoutez +1 Dé à n’importe quel test de Tir, Combat ou Survie.  
+**Quand :** Vous pouvez dépenser un résultat Dé lorsque vous effectuez un test de Tir, de Combat ou de Survie, y compris durant le Tour de votre adversaire (par exemple, sur un test de Survie durant une action de Tir contre une de vos figurines).
+Vous pouvez dépenser autant de résultats Dé que vous le souhaitez sur un même test, mais vous devez déterminer leur nombre avant de lancer le moindre dé.
+
+### Déplacement
+**Quoi :** La figurine active gagne une action de Déplacement gratuite.
+Ce Déplacement est limité à un seul cube, quelle que soit la Vitesse de la figurine.
+Ce Déplacement suit les règles normales de déplacement.  
+**Quand :** Vous ne pouvez dépenser qu’un seul résultat Déplacement par activation.
+Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue.
+Il peut être utilisé sur une figurine ayant déjà effectué une action de Déplacement ou de Sprint.
+
+### Tir
+**Quoi :** La figurine active gagne une action de Tir gratuite.  
+**Quand :** Vous ne pouvez dépenser qu’un seul résultat Tir par activation.
+Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue.
+Il peut être utilisé sur une figurine ayant déjà effectué une action de de Tir.
+
+### Combat
+**Quoi :** La figurine active gagne une action de Combat gratuite.  
+**Quand :** Vous ne pouvez dépenser qu’un seul résultat Combat par activation.
+Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue.
+Il peut être utilisé sur une figurine ayant déjà effectué une action de Combat.
+
+### Splat
+**Quoi :** Activer la capacité spéciale de votre armée.
+Les effets sont différents pour chaque armée et sont expliqués dans chaque liste d’armée.
+Les effets d’un résultat Spécial ne comptent pas dans les restrictions du nombre d’actions par Tour, sauf si cela est spécifiquement précisé.  
+**Quand :** Sauf si précisé dans la présentation d’une capacité d’une figurine, vous ne pouvez dépenser qu’un seul résultat Spécial par activation.
+Les règles pour les capacités requérant un résultat Spécial préciseront le moment où vous pourrez dépenser le(s) dé(s) pour utiliser cette capacité.
+Le Leader sélectionné pour un Groupe de Combat déterminera les règles du résultat Spécial.
+Même si le Leader meurt ou s’il est retiré du jeu, les résultats Spécial pourront toujours être dépensés de cette manière.
+
+_**Note :** Une figurine ne peut utiliser qu’**un seul** résultat Déplacement, Tir **ou** Combat durant son activation._
