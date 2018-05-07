@@ -380,3 +380,12 @@ Les armes PC ne peuvent être utilisées qu’en Combat.
 * Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle.
 Voir page 28.
 
+**Capacités :** toutes compétences spéciales que la figurine peut avoir.
+Voir page 28.
+
+**Options d’armement :** Il s’agit des catégories d’armes que la figurine est autorisée à acheter.
+Voir page 46.
+
+**Options de Campagne :** Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne.
+Voir page 104.
+
