@@ -389,3 +389,11 @@ Voir page 46.
 **Options de Campagne :** Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne.
 Voir page 104.
 
+
+## Groupe de Combat Prédéfinis
+Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter.
+Utilisez la mission Patrouille décrite en page 12, et servez-vous de ces deux forces pour découvrir le jeu.
+
+Vous aurez besoin de consulter la section des Capacités (page 28), pour la capacité Tacticien (page 34) ainsi que des capacités d’armes, tels que Tir Rapide (page 33) et Ça Brûle ! (page 31).
+
+
