@@ -50,6 +50,8 @@ Vous pouvez également proposer à un des deux joueurs de positionner les décor
 
 ## Placer les Objets et les Objectifs
 
+![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
+
 ### Objectifs
 Chaque mission indique l’emplacement des objectifs.
 Dans la mission _Patrouille_ par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus).
@@ -170,4 +172,20 @@ Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un
 ## Caractéristique nulle
 Si une figurine a une valeur de « - » dans la caractéristique requise pour un test, alors elle ne peut pas tenter d’effectuer cette action.
 Si une figurine a une valeur de « - » dans une caractéristique qu’elle doit utiliser lors d’un test, et quelques soient les modificateurs, aucun dé n’est lancé et on considère qu’elle a obtenu zéro succès.
+
+
+# JOUER UNE PARTIE
+Deadzone est joué en séries de **Rounds**.  
+Un Round commence toujours par un **Test de Commandement**.
+Un Round est divisé en une alternance de **Tours** de joueur.
+Durant un Tour, un joueur va pouvoir effectuer quelque chose avec la figurine de son choix.
+Chaque figurine ne peut agir qu’une seule fois durant un Round.
+Elle est alors appelée **Figurine Active**.
+Lorsque toutes les figurines du champ de bataille ont agi (ont été activées), le Round est terminé.
+
+Un Round est organisé comme suit :
+1. Test de Commandement
+2. Jouer alternativement les Tours
+3. Fin du Round
+
 
