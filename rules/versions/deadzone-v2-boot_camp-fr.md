@@ -307,3 +307,31 @@ Même si le Leader meurt ou s’il est retiré du jeu, les résultats Spécial p
 _**Note :** Une figurine ne peut utiliser qu’**un seul** résultat Déplacement, Tir **ou** Combat durant son activation._
 
 
+## Vos première parties
+Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain.
+Utilisez la mission _Patrouille_ détaillée ci-contre.
+
+Ne vous souciez pas des objets durant votre première partie.
+Une fois que vous vous serez familiarisés avec les actions, les jets de dés et les déplacements, vous pourrez alors ajouter de nouveaux éléments.
+Les règles pour les objets sont présentées en page 36, dès que vous vous sentirez prêts.
+
+
+## Mission de Patrouille Standard
+Préparez la partie comme décrit en page 6 de ce livre en utilisant la carte suivante :
+
+![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
+
+Vous devez marquer 12 PV pour remporter la mission.
+
+Vous gagnez des PV de la façon suivante :
+
+* En Éliminant une figurine ennemie (la valeur de PV d’une figurine est indiquée sur son profil).
+* En Contrôlant un objectif : Vous devez avoir les seules figurines dans ce cube.
+Vous gagnez 1 ou 2 PV (selon l’objectif) à la fin de chaque Round où vous le contrôlez.
+Les PV sont gagnés par objectif contrôlé, et non par figurine sur l’objectif.
+* En Récupérant des Informations (1 PV par pion Info, qui est l’un des objets a récupérer).
+
+Pensez à comptabiliser les PV marqués par chaque joueur en utilisant les pions de PV durant la partie, et montrez-les fièrement sur le plateau pour faire monter la pression !
+
+Bonne chance !
+
