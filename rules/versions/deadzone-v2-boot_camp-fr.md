@@ -1,11 +1,11 @@
 # MISE EN PLACE
 
 Afin de mettre en place une partie de Deadzone, suivez ces étapes :
-1. Choisir une mission
-2. Sélection des Groupes de Combat
-3. Installer le Champ de Bataille
-4. Placer les Objets et les Objectifs
-5. Recon et Déploiement
+1) Choisir une mission
+2) Sélection des Groupes de Combat
+3) Installer le Champ de Bataille
+4) Placer les Objets et les Objectifs
+5 Recon et Déploiement
 
 
 ## Choisir une Mission
@@ -175,12 +175,12 @@ Si une figurine a une valeur de « - » dans une caractéristique qu’elle doit
 
 
 # JOUER UNE PARTIE
-Deadzone est joué en séries de **Rounds**.  
-Un Round commence toujours par un **Test de Commandement**.
-Un Round est divisé en une alternance de **Tours** de joueur.
+Deadzone est joué en séries de _**Rounds**_.  
+Un Round commence toujours par un _**Test de Commandement**_.
+Un Round est divisé en une alternance de _**Tours**_ de joueur.
 Durant un Tour, un joueur va pouvoir effectuer quelque chose avec la figurine de son choix.
 Chaque figurine ne peut agir qu’une seule fois durant un Round.
-Elle est alors appelée **Figurine Active**.
+Elle est alors appelée _**Figurine Active**_.
 Lorsque toutes les figurines du champ de bataille ont agi (ont été activées), le Round est terminé.
 
 Un Round est organisé comme suit :
@@ -189,3 +189,24 @@ Un Round est organisé comme suit :
 3. Fin du Round
 
 
+## Test de Commandement
+Les _**Dés de Commandement**_ représentent l’entraînement et la cohésion d’une force de combat correctement dirigée, et peuvent amener à d’extraordinaires moments d’inspiration, de ruse ou de chance durant une bataille.
+
+Au début de _**chaque**_ Round, avant de débuter le moindre Tour, chaque joueur lance ses Dés de Commandement.
+
+1) **Lancer**  
+Lancer 3 Dés de Commandement simultanément.
+2) **Relancer**  
+Après avoir lancé les dés, et en commençant par le joueur ayant l’initiative, vous pouvez **relancer une seule fois** autant de dés que vous le souhaitez.
+Si vous relancer des dés, vous devez conserver les nouveaux résultats obtenus.
+
+_**Important :**_
+_s’il reste moins de la moitié de votre Groupe de Combat (en nombre de figurines) sur le champ de bataille au début d’un Round, vous perdez la possibilité de relancer votre test de commandement._
+
+2) **Réserver**  
+Placez ensuite vos Dés de Commandement près du bord de votre côté du plateau.
+Ils seront disponibles pour être dépensés durant les Tours du Round que vous allez jouer, afin d’améliorer les actions de votre Groupe de Combat.
+
+Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation.
+Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés.
+Référez-vous au tableau sur la page suivante pour plus de détails sur la manière de les utiliser.
