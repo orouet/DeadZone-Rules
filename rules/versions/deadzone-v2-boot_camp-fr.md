@@ -134,12 +134,12 @@ Celui qui obtient le plus de succès gagne le test.
 Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
 
 
-## _Exemple 1_
+_Exemple 1_  
 Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés.
 Chaque résultat de 4 ou plus compte comme un succès, et dans ce cas, un seul succès est requis pour accomplir l’action.
 
 
-## _Exemple 2_
+_Exemple 2_  
 Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez lancer 3 dés.
 Vous tentez d’égaler ou dépasser la valeur de Combat de votre personnage.
 Comparez ensuite le nombre de succès que vous avez obtenu à ceux de votre adversaire (il a lancé son propre test pour tenter de se défendre) afin de savoir qui l’emporte.
