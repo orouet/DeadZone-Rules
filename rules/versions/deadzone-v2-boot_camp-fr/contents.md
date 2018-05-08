@@ -18,11 +18,11 @@ Introduction
 + Jouer un Tour
 + Fin du Round
 
-### [Vos premières parties](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#vos-premieres-parties)
+### [Jouer une partie](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jouer-une-partie)
 + Profil
 + Groupes de Combat Prédéfinis
 
-### Actions
+### [Actions](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#actions)
 + Se Déplacer
 + Sprint
 + Décors et Déplacement
@@ -31,7 +31,7 @@ Introduction
 + Action Spéciale
 + Se Relever
 
-### Dégâts
+### [Dégâts](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#degats)
 
 
 ## Règles Additionnelles
