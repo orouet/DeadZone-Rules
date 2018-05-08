@@ -2,7 +2,7 @@
 
 Introduction
 
-## Règles de Base
+## [Règles de Base](core_rules.md)
 
 ### Mise en place du jeu
 + Choisir une Mission
