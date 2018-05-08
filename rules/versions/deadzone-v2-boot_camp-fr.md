@@ -10,12 +10,14 @@ Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 
 
 ## Choisir une Mission
+
 S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_, décrite en page 12.
 
 Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions en page 40, et les règles de campagnes, page 98.
 
 
 ## Sélection des Groupes de Combat
+
 Chaque joueur doit choisir la faction qu’il souhaite représenter.
 Les figurines que vous sélectionnez constituent votre Groupe de Combat.
 Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis en page 14.
@@ -30,6 +32,7 @@ On y inclut aussi les armes, vêtements, armures, tentacules, pointes, coiffures
 
 
 ## Installer le Champ de Bataille
+
 Le champ de Bataille de Deadzone est représenté par un tapis quadrillé de 8 cases sur 8, sur lequel vous placez des bâtiments et d’autres décors.
 
 Les possibilités d’assemblages des décors Mantic sont infinies, et ceux-ci sont placés n’importe où sur le plateau.
@@ -77,6 +80,7 @@ Lorsque vous avez placé un total de huit pions (y compris ceux qui ont été d�
 
 
 ## Recon et Déploiement
+
 Afin de déterminer quel joueur déploiera son Groupe de Combat en premier, les deux joueurs effectue un :
 
 
@@ -100,20 +104,24 @@ Ensuite, l’adversaire déploie toutes ses figurines dans sa zone de déploieme
 
 
 ## Commencer la Partie
+
 Vous êtes maintenant prêts à commencer le premier Round!
 
 
 # GAGNER UNE PARTIE
+
 Il y a deux façons de gagner une partie de Deadzone :
 - Exterminer le Groupe de Combat de votre adversaire
 - Gagner le nombre de Points de Victoire (PV) spécifié par la mission.
 
 
 ## Exterminer votre adversaire
+
 Si le joueur ennemi n’a plus aucune figurine sur le champ de bataille à la fin d’un Round, vous gagnez.
 
 
 ## Accumuler les Points de Victoire
+
 Chaque descriptif de mission vous indique le nombre de PV nécessaires pour remporter la victoire, ainsi que la façon de les gagner.
 Si un joueur atteint ce nombre de PV (ou plus) à la fin d’un Round, il gagne.
 Il est possible que les deux joueurs dépassent ce total dans le même Round.
@@ -122,7 +130,8 @@ En cas d’égalité, la partie continue jusqu’à ce qu’un des deux joueurs 
 Au cours de la partie, on tient compte des PV en utilisant des pions PV, et le total de PV gagnés par chaque camp n’est pas gardé secret.
 
 
-# Jets de Dés
+# JETS DE DES
+
 Certaines actions et événements de jeu requièrent un jet de dés afin de connaître leur degré de réussite.
 
 Ces jets sont appelés **Tests**, et sont toujours affichés dans un format qui vous informe sur :
@@ -146,9 +155,9 @@ La différence entre le nombre de succès peut aussi avoir un effet lors de cert
 
 
 ## Faire un Test
-1) Prenez le nombre de dés indiqués.
-Appliquez tout modificateur au nombre de dés à lancer, comme indiqué dans la description de l’action.
 
+1) Prenez le nombre de dés indiqués.
+Appliquez tout modificateur au nombre de dés à lancer, comme indiqué dans la description de l’action.  
 _**Important !**_
 _Les Modificateurs influent **toujours** sur le nombre de dés à lancer.
 Ils ne modifient **jamais** la caractéristique ciblée par le test, ou la valeur que vous devez atteindre._
@@ -169,6 +178,7 @@ Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un
 
 
 ## Caractéristique nulle
+
 Si une figurine a une valeur de « - » dans la caractéristique requise pour un test, alors elle ne peut pas tenter d’effectuer cette action.
 Si une figurine a une valeur de « - » dans une caractéristique qu’elle doit utiliser lors d’un test, et quelques soient les modificateurs, aucun dé n’est lancé et on considère qu’elle a obtenu zéro succès.
 
@@ -189,6 +199,7 @@ Un Round est organisé comme suit :
 
 
 ## Test de Commandement
+
 Les _**Dés de Commandement**_ représentent l’entraînement et la cohésion d’une force de combat correctement dirigée, et peuvent amener à d’extraordinaires moments d’inspiration, de ruse ou de chance durant une bataille.
 
 Au début de _**chaque**_ Round, avant de débuter le moindre Tour, chaque joueur lance ses Dés de Commandement.
@@ -212,6 +223,7 @@ Référez-vous au tableau sur la page suivante pour plus de détails sur la mani
 
 
 ## Jouer un Tour
+
 Le joueur qui effectue son Tour a l’_**Initiative**_.  
 Lors de votre Tour, vous pourrez activer une seule figurine, en suivant ces étapes :
 
@@ -235,6 +247,7 @@ Ce sont des actions dites «gratuites», et elles ne comptent pas dans la limite
 
 
 ## Fin du Round
+
 Lorsque toutes les figurines ont été activées, le Round est terminé.
 Suivez les étapes suivantes :
 
@@ -337,17 +350,18 @@ Bonne chance !
 
 
 ## Profil
+
 Chaque type de figurine possède son propre profil (une liste de caractéristiques) qui détermine ses compétences en tir, en combat, et ainsi de suite.
 Le profil présente plusieurs informations à propos de la figurine :
 
 **Nom :** le nom de ce type de figurine.
 
 **Type :** les figurines sont classées en différentes catégories :
-* **Leader (L) :** les commandants d’une faction.
-* **Troupe (T) :** rang et profil de base.
-* **Spécialiste (S) :** figurines avec un armement, un entraînement ou un équipement spécifique.
-* **Personnage (P) :** un personnage nommé.
-* **Véhicule (V) :** unités de soutien mécanisé.
++ **Leader (L) :** les commandants d’une faction.
++ **Troupe (T) :** rang et profil de base.
++ **Spécialiste (S) :** figurines avec un armement, un entraînement ou un équipement spécifique.
++ **Personnage (P) :** un personnage nommé.
++ **Véhicule (V) :** unités de soutien mécanisé.
 
 **Points :** Le coût en points pour incorporer un seul de ce type de figurine dans votre Groupe de Combat.
 
@@ -373,11 +387,10 @@ Elle n’est jamais modifiée.
 
 **Armes & Équipement :** une liste des acquisitions standards de la figurine.
 Les armes ont généralement leur propre profil :
-
-* **Portée (P) :** C’est la Portée maximale en cubes de l’arme.
++ **Portée (P) :** C’est la Portée maximale en cubes de l’arme.
 Les armes PC ne peuvent être utilisées qu’en Combat.
-* **PA :** La Pénétration d’Armure d’une arme.
-* Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle.
++ **PA :** La Pénétration d’Armure d’une arme.
++ Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle.
 Voir page 28.
 
 **Capacités :** toutes compétences spéciales que la figurine peut avoir.
@@ -391,9 +404,32 @@ Voir page 104.
 
 
 ## Groupe de Combat Prédéfinis
+
 Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter.
 Utilisez la mission Patrouille décrite en page 12, et servez-vous de ces deux forces pour découvrir le jeu.
 
 Vous aurez besoin de consulter la section des Capacités (page 28), pour la capacité Tacticien (page 34) ainsi que des capacités d’armes, tels que Tir Rapide (page 33) et Ça Brûle ! (page 31).
+
+**GROUPE DE COMBAT ENFORCER**  
+Capitaine Enforcer x 1; Enforcer d’Assaut x 1; Enforcer x 1; Enforcer avec Canon Laser x 1; Drone D.O.G. x 1
+
+**GROUPE DE COMBAT FORGE FATHER**  
+Houscarl Guerrier d’Acier x 1 ; Guerrier d’Acier x 2 ; Guerrier d’Acier avec Souffle de Dragon x 1
+
+
+# ACTIONS
+
+Lorsqu’une figurine est activée durant le Tour d’un joueur, elle peut effectuer soit une action longue, soit jusqu’à deux actions courtes.
+
+Actions:
++ Se Déplacer (courte)
++ Sprinter (longue)
++ Se Relever (courte)
++ Tirer (courte)
++ Combattre (longue)
++ Action Spéciale (courte)
+
+Une figurine qui effectue son activation est appelée figurine active.
+
 
 
