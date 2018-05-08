@@ -331,6 +331,8 @@ _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figuri
 ### Position dans un cube.
 Dans Deadzone, l’emplacement exact d’une figurine à l’intérieur d’un cube est très important. Vous pouvez placer une figurine où vous le voulez sur le plateau, y compris sur les lignes qui composent la grille entre les cubes. Mais dans tous les cas, le centre du socle d’une figurine définit dans quel cube elle se trouve.
 
+![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/situations/2.jpg?raw=true)
+
 _Dans cet exemple, les deux figurines sont considérées comme étant dans le même cube._
 
 Vous devez considérer le bord du plateau comme un mur bloquant tous les déplacements. Les figurines peuvent se déplacer en dehors du plateau _**si cela est spécifiquement autorisé par la mission jouée**_, et seulement depuis les cubes spécifiés. Une figurine qui quitte le champ de bataille ne peut pas revenir durant la partie. Dans ce cas, une figurine peut quitter le plateau avec une action _Se Déplacer_ ou de _Sprint_ (considérez simplement que le déplacement s’effectue vers un cube «audelà » de la surface de jeu) en suivant les règles normales de déplacement.
