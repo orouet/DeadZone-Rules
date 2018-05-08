@@ -34,7 +34,9 @@ Souvenez-vous que vous pouvez construire des bâtiments à plusieurs niveaux, po
 
 Les décors ajoutent une troisième dimension au champ de bataille et impliquent que l’on joue dans des **cubes**, plutôt que dans des cases. Les règles de Deadzone utilisent le terme cube afin de vous rappeler que vous combattez dans un espace en trois dimensions.
 
-Une série de cubes empilés les uns sur les autres constituent un **empilement**. Chaque niveau est numéroté, en désignant le plus bas comme le niveau 1, celui du dessus, le niveau 2, et ainsi de suite. Afin d’être le plus impartial possible, vous pouvez demander l’aide d’un troisième joueur pour installer les décors. Vous pouvez également proposer à un des deux joueurs de positionner les décors, puis permettre à l’autre joueur de tourner le plateau et choisir le côté où il veut placer son Groupe de Combat.
+Une série de cubes empilés les uns sur les autres constituent un **empilement**. Chaque niveau est numéroté, en désignant le plus bas comme le niveau 1, celui du dessus, le niveau 2, et ainsi de suite.
+
+Afin d’être le plus impartial possible, vous pouvez demander l’aide d’un troisième joueur pour installer les décors. Vous pouvez également proposer à un des deux joueurs de positionner les décors, puis permettre à l’autre joueur de tourner le plateau et choisir le côté où il veut placer son Groupe de Combat.
 
 ## Placer les Objets et les Objectifs
 
@@ -95,9 +97,7 @@ Certaines actions et événements de jeu requièrent un jet de dés afin de conn
 Ces jets sont appelés **Tests**, et sont toujours affichés dans un format qui vous informe sur :
 + **Le Nombre de dés** à lancer lors de ce test.
 + **Le Score à obtenir** : il s’agira de la valeur d’une des caractéristiques du personnage, ou de l’armée effectuant l’action, ou tout simplement d’une valeur chiffrée à atteindre.
-+ **Le nombre de Succès requis** (chiffre entre parenthèses) pour réussir l’action.
-
-Si celui-ci est un (X), cela signifie que les deux joueurs doivent lancer les dés, et que le nombre de succès obtenu par chaque joueur est comparé. Celui qui obtient le plus de succès gagne le test. Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
++ **Le nombre de Succès requis** (chiffre entre parenthèses) pour réussir l’action. Si celui-ci est un (X), cela signifie que les deux joueurs doivent lancer les dés, et que le nombre de succès obtenu par chaque joueur est comparé. Celui qui obtient le plus de succès gagne le test. Si un test laisse le choix sur la caractéristique à utiliser, alors le joueur doit la sélectionner avant de lancer les dés.
 
 _Exemple 1_  
 Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés. Chaque résultat de 4 ou plus compte comme un succès, et dans ce cas, un seul succès est requis pour accomplir l’action.
@@ -139,12 +139,10 @@ Au début de _**chaque**_ Round, avant de débuter le moindre Tour, chaque joueu
 1) **Lancer**  
 Lancer 3 Dés de Commandement simultanément.
 2) **Relancer**  
-Après avoir lancé les dés, et en commençant par le joueur ayant l’initiative, vous pouvez **relancer une seule fois** autant de dés que vous le souhaitez. Si vous relancer des dés, vous devez conserver les nouveaux résultats obtenus.
+Après avoir lancé les dés, et en commençant par le joueur ayant l’initiative, vous pouvez **relancer une seule fois** autant de dés que vous le souhaitez. Si vous relancer des dés, vous devez conserver les nouveaux résultats obtenus.  
+_**Important :**_ _s’il reste moins de la moitié de votre Groupe de Combat (en nombre de figurines) sur le champ de bataille au début d’un Round, vous perdez la possibilité de relancer votre test de commandement._
 
-_**Important :**_
-_s’il reste moins de la moitié de votre Groupe de Combat (en nombre de figurines) sur le champ de bataille au début d’un Round, vous perdez la possibilité de relancer votre test de commandement._
-
-2) **Réserver**  
+3) **Réserver**  
 Placez ensuite vos Dés de Commandement près du bord de votre côté du plateau. Ils seront disponibles pour être dépensés durant les Tours du Round que vous allez jouer, afin d’améliorer les actions de votre Groupe de Combat.
 
 Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation. Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés. Référez-vous au tableau sur la page suivante pour plus de détails sur la manière de les utiliser.
@@ -349,4 +347,8 @@ Si une figurine se déplace, délibérément ou non, dans un cube contenant une 
 
 ### S’éloigner d’un ennemi
 Si une figurine est dans un cube contenant une figurine ennemie et qu’elle souhaite quitter ce cube, elle peut le faire en utilisant les règles normales de déplacement. Cependant, avant d’effectuer son déplacement, une des figurines ennemies dans le cube (sélectionnée par l’adversaire) peut Combattre la figurine qui se déplace. La figurine qui se déplace doit alors effectuer un test de Survie (voir page 22) – elle ne peut pas choisir de Combattre. Si la figurine n’est pas Tuée ou Bloquée (voir page 26), elle «rompt» le combat et peut se déplacer.
+
+## Sprinter (longue)
+La figurine peut se déplacer d’un nombre de cubes égal à sa seconde valeur de Vitesse. Les règles de déplacement sont les mêmes que pour l’action _Se Déplacer_. Cette action ne peut pas être effectuée si la figurine active commence son activation dans le même cube qu’une figurine ennemie.
+
 
