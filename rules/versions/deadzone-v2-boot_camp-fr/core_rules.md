@@ -1,4 +1,7 @@
-# MISE EN PLACE
+# REGLES DE BASE
+
+
+## MISE EN PLACE
 
 Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 
@@ -8,13 +11,13 @@ Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 4) Placer les Objets et les Objectifs
 5) Recon et Déploiement
 
-## Choisir une Mission
+### Choisir une Mission
 
 S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_, décrite en page 12.
 
 Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions en page 40, et les règles de campagnes, page 98.
 
-## Sélection des Groupes de Combat
+### Sélection des Groupes de Combat
 
 Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis en page 14. Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat en utilisant les règles en page 46.
 
@@ -22,7 +25,7 @@ Chaque figurine possède un profil propre (avec ses caractéristiques de jeu), c
 
 Le terme générique «figurine» s’applique à toutes les pièces du jeu, que celles-ci représentent des humains, des mutants, des véhicules, ou des monstruosités extraterrestres. Chaque fois qu’une règle fait référence à une figurine, on entend par là, l’ensemble de la figurine, y compris le socle sur lequel elle est fixée. On y inclut aussi les armes, vêtements, armures, tentacules, pointes, coiffures, tissus et tout ce qui est sculpté sur la figurine en question.
 
-## Installer le Champ de Bataille
+### Installer le Champ de Bataille
 
 Le champ de Bataille de Deadzone est représenté par un tapis quadrillé de 8 cases sur 8, sur lequel vous placez des bâtiments et d’autres décors.
 
@@ -38,21 +41,21 @@ Une série de cubes empilés les uns sur les autres constituent un **empilement*
 
 Afin d’être le plus impartial possible, vous pouvez demander l’aide d’un troisième joueur pour installer les décors. Vous pouvez également proposer à un des deux joueurs de positionner les décors, puis permettre à l’autre joueur de tourner le plateau et choisir le côté où il veut placer son Groupe de Combat.
 
-## Placer les Objets et les Objectifs
+### Placer les Objets et les Objectifs
 
 ![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
 
-### Objectifs
+#### Objectifs
 Chaque mission indique l’emplacement des objectifs. Dans la mission _Patrouille_ par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus). Vous utiliserez une carte comme celle ci-dessus pour placer les 4 objectifs. S’il y a un décor dans l’une des cases désignées, placez le marqueur à l’intérieur de celui-ci ou sur le niveau le plus élevé de l’empilement.
 
-### Objets
+#### Objets
 En plus des objectifs, les champs de bataille dévastés de Deadzone sont jonchés d’objets. Il peut s’agir d’un équipement indispensable, voire d’un piège mortel (voir page 36). Une sélection aléatoire de ces objets est placée sur le champ de bataille avant chaque mission, comme suit :
 
 Prenez les pions d’objets et mélangez-les faces cachées. Un joueur prend un marqueur à la fois, sans le regarder, et l’autre joueur lance deux dés pour chaque pion – un dé pour déterminer aléatoirement une colonne et l’autre pour la ligne. Cela vous donne ainsi l’emplacement sur le quadrillage du tapis où le pion sera placé (toujours face cachée). Si l’emplacement contient un empilement, les pions doivent être placés sur son niveau le plus élevé. Un cube peut ainsi contenir plusieurs objets. Si le résultat du jet indique de placer un pion dans la zone de déploiement d’un joueur, alors ce pion est défaussé. Pour cette raison, toutes les batailles n’auront pas le même nombre d’objets.
 
 Lorsque vous avez placé un total de huit pions (y compris ceux qui ont été défaussés), rangez les pions restants, ils ne seront pas utilisés pour cette bataille.
 
-## Recon et Déploiement
+### Recon et Déploiement
 
 Afin de déterminer quel joueur déploiera son Groupe de Combat en premier, les deux joueurs effectue un :
 
@@ -70,27 +73,27 @@ Les figurines _Non-Véhicules_ peuvent être déployées à n’importe quel niv
 
 Ensuite, l’adversaire déploie toutes ses figurines dans sa zone de déploiement.
 
-## Commencer la Partie
+### Commencer la Partie
 
 Vous êtes maintenant prêts à commencer le premier Round!
 
 
-# GAGNER UNE PARTIE
+## GAGNER UNE PARTIE
 
 Il y a deux façons de gagner une partie de Deadzone :
 + Exterminer le Groupe de Combat de votre adversaire
 + Gagner le nombre de Points de Victoire (PV) spécifié par la mission.
 
-## Exterminer votre adversaire
+### Exterminer votre adversaire
 
 Si le joueur ennemi n’a plus aucune figurine sur le champ de bataille à la fin d’un Round, vous gagnez.
 
-## Accumuler les Points de Victoire
+### Accumuler les Points de Victoire
 
 Chaque descriptif de mission vous indique le nombre de PV nécessaires pour remporter la victoire, ainsi que la façon de les gagner. Si un joueur atteint ce nombre de PV (ou plus) à la fin d’un Round, il gagne. Il est possible que les deux joueurs dépassent ce total dans le même Round. Dans ce cas, le joueur ayant le plus grand nombre de PV gagne. En cas d’égalité, la partie continue jusqu’à ce qu’un des deux joueurs ait 1 PV de plus que son adversaire, à la fin d’un Round. Au cours de la partie, on tient compte des PV en utilisant des pions PV, et le total de PV gagnés par chaque camp n’est pas gardé secret.
 
 
-# JETS DE DES
+## JETS DE DES
 
 Certaines actions et événements de jeu requièrent un jet de dés afin de connaître leur degré de réussite.
 
@@ -105,7 +108,7 @@ Un «test à 4+ (1) à 3 dés» signifie que vous devez lancer 3 dés. Chaque r�
 _Exemple 2_  
 Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez lancer 3 dés. Vous tentez d’égaler ou dépasser la valeur de Combat de votre personnage. Comparez ensuite le nombre de succès que vous avez obtenu à ceux de votre adversaire (il a lancé son propre test pour tenter de se défendre) afin de savoir qui l’emporte. La différence entre le nombre de succès peut aussi avoir un effet lors de certains tests.
 
-## Faire un Test
+### Faire un Test
 
 1) Prenez le nombre de dés indiqués. Appliquez tout modificateur au nombre de dés à lancer, comme indiqué dans la description de l’action.  
 _**Important !**_ _Les Modificateurs influent **toujours** sur le nombre de dés à lancer. Ils ne modifient **jamais** la caractéristique ciblée par le test, ou la valeur que vous devez atteindre._  
@@ -116,12 +119,12 @@ b. Si vous égalez ou dépassez la valeur de la caractéristique ou de la valeur
 c. Chaque dé obtenant un 8 compte un succès **ET** vous permet de lancer un dé supplémentaire. Si vous obtenez un autre 8 avec un dé supplémentaire, vous obtenez encore un autre dé. Continuez à lancer les dés supplémentaires jusqu’à ce que vous obteniez un résultat autre que 8. 
 4) Additionnez le nombre de succès pour obtenir votre total et déterminer le résultat du test comme décrit dans l’action.
 
-## Caractéristique nulle
+### Caractéristique nulle
 
 Si une figurine a une valeur de « - » dans la caractéristique requise pour un test, alors elle ne peut pas tenter d’effectuer cette action. Si une figurine a une valeur de « - » dans une caractéristique qu’elle doit utiliser lors d’un test, et quelques soient les modificateurs, aucun dé n’est lancé et on considère qu’elle a obtenu zéro succès.
 
 
-# JOUER UNE PARTIE
+## JOUER UNE PARTIE
 Deadzone est joué en séries de _**Rounds**_.  
 Un Round commence toujours par un _**Test de Commandement**_. Un Round est divisé en une alternance de _**Tours**_ de joueur. Durant un Tour, un joueur va pouvoir effectuer quelque chose avec la figurine de son choix. Chaque figurine ne peut agir qu’une seule fois durant un Round. Elle est alors appelée _**Figurine Active**_. Lorsque toutes les figurines du champ de bataille ont agi (ont été activées), le Round est terminé.
 
@@ -130,7 +133,7 @@ Un Round est organisé comme suit :
 2. Jouer alternativement les Tours
 3. Fin du Round
 
-## Test de Commandement
+### Test de Commandement
 
 Les _**Dés de Commandement**_ représentent l’entraînement et la cohésion d’une force de combat correctement dirigée, et peuvent amener à d’extraordinaires moments d’inspiration, de ruse ou de chance durant une bataille.
 
@@ -147,7 +150,7 @@ Placez ensuite vos Dés de Commandement près du bord de votre côté du plateau
 
 Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation. Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés. Référez-vous au tableau sur la page suivante pour plus de détails sur la manière de les utiliser.
 
-## Jouer un Tour
+### Jouer un Tour
 
 Le joueur qui effectue son Tour a l’_**Initiative**_.  
 Lors de votre Tour, vous pourrez activer une seule figurine, en suivant ces étapes :
@@ -165,7 +168,7 @@ _Passer :_ S’il vous reste moins de figurines à activer que votre adversaire,
 
 _Dés de Commandement :_ certains Dés de Commandement permettent à une figurine d’avoir une action supplémentaire de Déplacement, de Tir ou de Combat. Ce sont des actions dites «gratuites», et elles ne comptent pas dans la limite des deux actions courtes ou une action longue d’une figurine active.
 
-## Fin du Round
+### Fin du Round
 
 Lorsque toutes les figurines ont été activées, le Round est terminé. Suivez les étapes suivantes :
 
@@ -177,39 +180,39 @@ c) Si la bataille n’est pas terminée, retirez les pions d’activation des fi
 
 Il est possible que l’Initiative change de joueur en fin de Round. Le joueur ayant terminé d’activer ses figurines en premier durant ce Round commencera le prochain Round avec l’Initiative (et jouera donc le premier Tour).
 
-## Description des dés de commandement
+### Description des dés de commandement
 
-### +1 Activation
+#### +1 Activation
 ![Activation](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-model.jpg?raw=true)
 
 **Quoi :** Activer une seconde figurine qui n’a pas encore été activée.  
 **Quand :** Après avoir terminé l’activation d’une de vos figurines. Vous ne pouvez dépenser qu’un seul résultat +1 Activation par Tour. Sauf si précisé par une capacité d’une figurine ou par une règle spéciale de l’Armée, vous ne pouvez activer que deux figurines au maximum par Tour avant de devoir passer l’Initiative à votre adversaire.
 
-### Dé
+#### Dé
 ![Dé](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-dice.jpg?raw=true)
 
 **Quoi :** Ajoutez +1 Dé à n’importe quel test de Tir, Combat ou Survie.  
 **Quand :** Vous pouvez dépenser un résultat Dé lorsque vous effectuez un test de Tir, de Combat ou de Survie, y compris durant le Tour de votre adversaire (par exemple, sur un test de Survie durant une action de Tir contre une de vos figurines). Vous pouvez dépenser autant de résultats Dé que vous le souhaitez sur un même test, mais vous devez déterminer leur nombre avant de lancer le moindre dé.
 
-### Déplacement
+#### Déplacement
 ![Déplacement](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-move.jpg?raw=true)
 
 **Quoi :** La figurine active gagne une action de Déplacement gratuite. Ce Déplacement est limité à un seul cube, quelle que soit la Vitesse de la figurine. Ce Déplacement suit les règles normales de déplacement.  
 **Quand :** Vous ne pouvez dépenser qu’un seul résultat Déplacement par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Déplacement ou de Sprint.
 
-### Tir
+#### Tir
 ![Tir](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-shoot.jpg?raw=true)
 
 **Quoi :** La figurine active gagne une action de Tir gratuite.  
 **Quand :** Vous ne pouvez dépenser qu’un seul résultat Tir par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de de Tir.
 
-### Combat
+#### Combat
 ![Combat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-fight.jpg?raw=true)
 
 **Quoi :** La figurine active gagne une action de Combat gratuite.  
 **Quand :** Vous ne pouvez dépenser qu’un seul résultat Combat par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Combat.
 
-### Splat Mantic ! (Spécial)
+#### Splat Mantic ! (Spécial)
 ![Splat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-splat.jpg?raw=true)
 
 **Quoi :** Activer la capacité spéciale de votre armée. Les effets sont différents pour chaque armée et sont expliqués dans chaque liste d’armée. Les effets d’un résultat Spécial ne comptent pas dans les restrictions du nombre d’actions par Tour, sauf si cela est spécifiquement précisé.  
@@ -217,12 +220,12 @@ Il est possible que l’Initiative change de joueur en fin de Round. Le joueur a
 
 _**Note :** Une figurine ne peut utiliser qu’**un seul** résultat Déplacement, Tir **ou** Combat durant son activation._
 
-## Vos première parties
+### Vos première parties
 Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
 
 Ne vous souciez pas des objets durant votre première partie. Une fois que vous vous serez familiarisés avec les actions, les jets de dés et les déplacements, vous pourrez alors ajouter de nouveaux éléments. Les règles pour les objets sont présentées en page 36, dès que vous vous sentirez prêts.
 
-## Mission de Patrouille Standard
+### Mission de Patrouille Standard
 Préparez la partie comme décrit en page 6 de ce livre en utilisant la carte suivante :
 
 ![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
@@ -239,7 +242,7 @@ Pensez à comptabiliser les PV marqués par chaque joueur en utilisant les pions
 
 Bonne chance !
 
-## Profil
+### Profil
 
 Chaque type de figurine possède son propre profil (une liste de caractéristiques) qui détermine ses compétences en tir, en combat, et ainsi de suite. Le profil présente plusieurs informations à propos de la figurine :
 
@@ -285,7 +288,7 @@ La Taille représente la hauteur ou le volume d’une figurine. C’est une unit
 
 **Options de Campagne :** Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne. Voir page 104.
 
-## Groupes de Combat Prédéfinis
+### Groupes de Combat Prédéfinis
 
 Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter. Utilisez la mission Patrouille décrite en page 12, et servez-vous de ces deux forces pour découvrir le jeu.
 
@@ -298,7 +301,7 @@ Capitaine Enforcer x 1; Enforcer d’Assaut x 1; Enforcer x 1; Enforcer avec Can
 Houscarl Guerrier d’Acier x 1 ; Guerrier d’Acier x 2 ; Guerrier d’Acier avec Souffle de Dragon x 1
 
 
-# ACTIONS
+## ACTIONS
 
 Lorsqu’une figurine est activée durant le Tour d’un joueur, elle peut effectuer soit **une action longue, soit jusqu’à deux actions courtes**.
 
@@ -312,13 +315,13 @@ Actions:
 
 Une figurine qui effectue son activation est appelée figurine active.
 
-## IMPORTANT! Restrictions:
+### IMPORTANT! Restrictions:
 
 + Une figurine ne peut effectuer qu’une seule fois chaque type d’action dans un Tour. Les actions supplémentaires amenées par les Dés de Commandement ne comptent pas dans cette limite, et peuvent permettre à une même figurine d’effectuer une même action durant un Tour.
 + Une figurine qui commence son activation Bloquée (allongée au sol) doit choisir Se Relever comme première action.
 + Une figurine qui n’est pas Bloquée, et qui est dans le même cube qu’une ou plusieurs figurines ennemies non-Bloquées, ne peut choisir que de Combattre ou de Se Déplacer.
 
-## Se Déplacer (courte)
+### Se Déplacer (courte)
 
 Chaque figurine possède deux valeurs de déplacement sur son profil, séparées par un tiret.
 
@@ -328,7 +331,7 @@ Lorsqu’elle effectue une action de déplacement, une figurine peut _Se Déplac
 
 _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figurine de se déplacer d’un cube dans n’importe quelle direction, orthogonale ou diagonale comme indiqué sur le schéma cidessus._
 
-### Position dans un cube.
+#### Position dans un cube.
 Dans Deadzone, l’emplacement exact d’une figurine à l’intérieur d’un cube est très important. Vous pouvez placer une figurine où vous le voulez sur le plateau, y compris sur les lignes qui composent la grille entre les cubes. Mais dans tous les cas, le centre du socle d’une figurine définit dans quel cube elle se trouve.
 
 ![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/situations/2.jpg?raw=true)
@@ -337,20 +340,20 @@ _Dans cet exemple, les deux figurines sont considérées comme étant dans le m�
 
 Vous devez considérer le bord du plateau comme un mur bloquant tous les déplacements. Les figurines peuvent se déplacer en dehors du plateau _**si cela est spécifiquement autorisé par la mission jouée**_, et seulement depuis les cubes spécifiés. Une figurine qui quitte le champ de bataille ne peut pas revenir durant la partie. Dans ce cas, une figurine peut quitter le plateau avec une action _Se Déplacer_ ou de _Sprint_ (considérez simplement que le déplacement s’effectue vers un cube «audelà » de la surface de jeu) en suivant les règles normales de déplacement.
 
-### Capacité d’un cube
+#### Capacité d’un cube
 Chaque figurine possède une Taille indiquée dans son profil. Chaque cube a une capacité maximale de 4, correspondant à l’addition des Tailles des figurines, pour une même faction. Il est toutefois possible pour deux différentes factions d’avoir chacune jusqu’à 4 points de Taille dans un même cube, pour une capacité totale de 8.
 
 Lorsque vous déplacez (Se Déplacer ou Sprint) une figurine dans un cube contenant déjà une ou plusieurs figurines, vous ne devez pas repositionner les figurines s’y trouvant, sauf s’il n’y a pas assez de place pour la figurine effectuant le déplacement, afin qu’elle soit correctement positionnée dans le cube.
 
 Si vous devez repositionner une figurine afin de placer votre figurine dans le cube, vous devez tout d’abord déplacer les figurines amies avant de déplacer les figurines ennemies, et ce, en effectuant le moins d’ajustements possibles pour intégrer la nouvelle figurine dans le cube. Le joueur à qui appartient la figurine déplacée décidera toujours de la position exacte de sa figurine lorsqu’il devra changer sa position, et aucune figurine ne peut être retirée d’un cube par une figurine entrant de cette manière.
 
-### Avancez vers un ennemi
+#### Avancez vers un ennemi
 Si une figurine se déplace, délibérément ou non, dans un cube contenant une figurine ennemie, elle est alors obligée de la Combattre immédiatement (voir action de _Combat_ en page 22). Ceci ne compte pas comme une action supplémentaire. S’il y a plus d’une figurine ennemie dans le cube, alors la figurine qui s’est déplacée choisira la figurine qu’elle souhaite combattre. Une fois l’action de _Combat_ résolue, l’action _Se Déplacer_ prend fin.
 
-### S’éloigner d’un ennemi
+#### S’éloigner d’un ennemi
 Si une figurine est dans un cube contenant une figurine ennemie et qu’elle souhaite quitter ce cube, elle peut le faire en utilisant les règles normales de déplacement. Cependant, avant d’effectuer son déplacement, une des figurines ennemies dans le cube (sélectionnée par l’adversaire) peut Combattre la figurine qui se déplace. La figurine qui se déplace doit alors effectuer un test de Survie (voir page 22) – elle ne peut pas choisir de Combattre. Si la figurine n’est pas Tuée ou Bloquée (voir page 26), elle «rompt» le combat et peut se déplacer.
 
-## Sprinter (longue)
+### Sprinter (longue)
 La figurine peut se déplacer d’un nombre de cubes égal à sa seconde valeur de Vitesse. Les règles de déplacement sont les mêmes que pour l’action _Se Déplacer_. Cette action ne peut pas être effectuée si la figurine active commence son activation dans le même cube qu’une figurine ennemie.
 
 

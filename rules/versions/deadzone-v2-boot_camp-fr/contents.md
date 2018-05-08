@@ -4,7 +4,7 @@ Introduction
 
 ## [Règles de Base](core_rules.md)
 
-### Mise en place du jeu
+### [Mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#mise-en-place)
 + Choisir une Mission
 + Sélectionner un Groupe de Combat
 + Installer le Champ de Bataille
