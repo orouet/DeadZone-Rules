@@ -1,6 +1,6 @@
 # SOMMAIRE
 
-Introduction
+[Introduction](introduction.md)
 
 ## [Règles de Base](core_rules.md)
 
