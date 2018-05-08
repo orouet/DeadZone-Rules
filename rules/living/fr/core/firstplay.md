@@ -1,4 +1,4 @@
-## Vos première parties
+## VOS PREMIERES PARTIES
 Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
 
 Ne vous souciez pas des objets durant votre première partie. Une fois que vous vous serez familiarisés avec les actions, les jets de dés et les déplacements, vous pourrez alors ajouter de nouveaux éléments. Les règles pour les objets sont présentées en page 36, dès que vous vous sentirez prêts.
