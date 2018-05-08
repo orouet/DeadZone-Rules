@@ -111,7 +111,7 @@ Un « test de Combat (X) à 3 dés» signifie que vous et votre adversaire devez
 ### Faire un Test
 
 1) Prenez le nombre de dés indiqués. Appliquez tout modificateur au nombre de dés à lancer, comme indiqué dans la description de l’action.  
-_**Important !**_ _Les Modificateurs influent **toujours** sur le nombre de dés à lancer. Ils ne modifient **jamais** la caractéristique ciblée par le test, ou la valeur que vous devez atteindre._  
+_**Important !** Les Modificateurs influent **toujours** sur le nombre de dés à lancer. Ils ne modifient **jamais** la caractéristique ciblée par le test, ou la valeur que vous devez atteindre._  
 Si les modificateurs réduisent le nombre de dés à 0 ou moins, alors vous ne pouvez pas effectuer ce test. On compte que vous avez obtenu zéro succès lors de ce test.
 2) Lancez tous les dés en même temps
 3) a. Chaque dé est lu séparément  
@@ -143,7 +143,7 @@ Au début de _**chaque**_ Round, avant de débuter le moindre Tour, chaque joueu
 Lancer 3 Dés de Commandement simultanément.
 2) **Relancer**  
 Après avoir lancé les dés, et en commençant par le joueur ayant l’initiative, vous pouvez **relancer une seule fois** autant de dés que vous le souhaitez. Si vous relancer des dés, vous devez conserver les nouveaux résultats obtenus.  
-_**Important :**_ _s’il reste moins de la moitié de votre Groupe de Combat (en nombre de figurines) sur le champ de bataille au début d’un Round, vous perdez la possibilité de relancer votre test de commandement._
+_**Important** : s’il reste moins de la moitié de votre Groupe de Combat (en nombre de figurines) sur le champ de bataille au début d’un Round, vous perdez la possibilité de relancer votre test de commandement._
 
 3) **Réserver**  
 Placez ensuite vos Dés de Commandement près du bord de votre côté du plateau. Ils seront disponibles pour être dépensés durant les Tours du Round que vous allez jouer, afin d’améliorer les actions de votre Groupe de Combat.
@@ -161,7 +161,7 @@ b) Effectuez une _**action longue**_, ou jusqu’à _**deux actions courtes**_.
 
 c) _**Marquez**_ la figurine en plaçant un pion d’activation à côté d’elle.
 
-**Cas Particuliers :**  
+**Cas Particuliers** :  
 _Ne rien faire :_ Vous pouvez choisir de ne rien faire avec une figurine durant un Tour, si vous le souhaitez. Vous devrez toutefois la marquer comme activée. Ensuite votre Tour s’arrête.
 
 _Passer :_ S’il vous reste moins de figurines à activer que votre adversaire, vous pouvez choisir de lui passer l’Initiative, sans activer qui que ce soit. Si toutes vos figurines ont été activées, vous n’aurez pas d’autre choix que de passer. Dans ce cas, le reste du Round verra votre adversaire garder l’Initiative, et jouera ses Tours successivement jusqu’à ce que toutes ses figurines aient été activées.
@@ -185,40 +185,40 @@ Il est possible que l’Initiative change de joueur en fin de Round. Le joueur a
 #### +1 Activation
 ![Activation](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-model.jpg?raw=true)
 
-**Quoi :** Activer une seconde figurine qui n’a pas encore été activée.  
-**Quand :** Après avoir terminé l’activation d’une de vos figurines. Vous ne pouvez dépenser qu’un seul résultat +1 Activation par Tour. Sauf si précisé par une capacité d’une figurine ou par une règle spéciale de l’Armée, vous ne pouvez activer que deux figurines au maximum par Tour avant de devoir passer l’Initiative à votre adversaire.
+**Quoi** : Activer une seconde figurine qui n’a pas encore été activée.  
+**Quand** : Après avoir terminé l’activation d’une de vos figurines. Vous ne pouvez dépenser qu’un seul résultat +1 Activation par Tour. Sauf si précisé par une capacité d’une figurine ou par une règle spéciale de l’Armée, vous ne pouvez activer que deux figurines au maximum par Tour avant de devoir passer l’Initiative à votre adversaire.
 
 #### Dé
 ![Dé](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-dice.jpg?raw=true)
 
-**Quoi :** Ajoutez +1 Dé à n’importe quel test de Tir, Combat ou Survie.  
-**Quand :** Vous pouvez dépenser un résultat Dé lorsque vous effectuez un test de Tir, de Combat ou de Survie, y compris durant le Tour de votre adversaire (par exemple, sur un test de Survie durant une action de Tir contre une de vos figurines). Vous pouvez dépenser autant de résultats Dé que vous le souhaitez sur un même test, mais vous devez déterminer leur nombre avant de lancer le moindre dé.
+**Quoi** : Ajoutez +1 Dé à n’importe quel test de Tir, Combat ou Survie.  
+**Quand** : Vous pouvez dépenser un résultat Dé lorsque vous effectuez un test de Tir, de Combat ou de Survie, y compris durant le Tour de votre adversaire (par exemple, sur un test de Survie durant une action de Tir contre une de vos figurines). Vous pouvez dépenser autant de résultats Dé que vous le souhaitez sur un même test, mais vous devez déterminer leur nombre avant de lancer le moindre dé.
 
 #### Déplacement
 ![Déplacement](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-move.jpg?raw=true)
 
-**Quoi :** La figurine active gagne une action de Déplacement gratuite. Ce Déplacement est limité à un seul cube, quelle que soit la Vitesse de la figurine. Ce Déplacement suit les règles normales de déplacement.  
-**Quand :** Vous ne pouvez dépenser qu’un seul résultat Déplacement par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Déplacement ou de Sprint.
+**Quoi** : La figurine active gagne une action de Déplacement gratuite. Ce Déplacement est limité à un seul cube, quelle que soit la Vitesse de la figurine. Ce Déplacement suit les règles normales de déplacement.  
+**Quand** : Vous ne pouvez dépenser qu’un seul résultat Déplacement par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Déplacement ou de Sprint.
 
 #### Tir
 ![Tir](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-shoot.jpg?raw=true)
 
-**Quoi :** La figurine active gagne une action de Tir gratuite.  
-**Quand :** Vous ne pouvez dépenser qu’un seul résultat Tir par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de de Tir.
+**Quoi** : La figurine active gagne une action de Tir gratuite.  
+**Quand** : Vous ne pouvez dépenser qu’un seul résultat Tir par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de de Tir.
 
 #### Combat
 ![Combat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-fight.jpg?raw=true)
 
-**Quoi :** La figurine active gagne une action de Combat gratuite.  
-**Quand :** Vous ne pouvez dépenser qu’un seul résultat Combat par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Combat.
+**Quoi** : La figurine active gagne une action de Combat gratuite.  
+**Quand** : Vous ne pouvez dépenser qu’un seul résultat Combat par activation. Vous pouvez le jouer avant que la figurine effectue ses actions, après une action courte, ou après une action longue. Il peut être utilisé sur une figurine ayant déjà effectué une action de Combat.
 
 #### Splat Mantic ! (Spécial)
 ![Splat](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/dices/command-splat.jpg?raw=true)
 
-**Quoi :** Activer la capacité spéciale de votre armée. Les effets sont différents pour chaque armée et sont expliqués dans chaque liste d’armée. Les effets d’un résultat Spécial ne comptent pas dans les restrictions du nombre d’actions par Tour, sauf si cela est spécifiquement précisé.  
-**Quand :** Sauf si précisé dans la présentation d’une capacité d’une figurine, vous ne pouvez dépenser qu’un seul résultat Spécial par activation. Les règles pour les capacités requérant un résultat Spécial préciseront le moment où vous pourrez dépenser le(s) dé(s) pour utiliser cette capacité. Le Leader sélectionné pour un Groupe de Combat déterminera les règles du résultat Spécial. Même si le Leader meurt ou s’il est retiré du jeu, les résultats Spécial pourront toujours être dépensés de cette manière.
+**Quoi** : Activer la capacité spéciale de votre armée. Les effets sont différents pour chaque armée et sont expliqués dans chaque liste d’armée. Les effets d’un résultat Spécial ne comptent pas dans les restrictions du nombre d’actions par Tour, sauf si cela est spécifiquement précisé.  
+**Quand** : Sauf si précisé dans la présentation d’une capacité d’une figurine, vous ne pouvez dépenser qu’un seul résultat Spécial par activation. Les règles pour les capacités requérant un résultat Spécial préciseront le moment où vous pourrez dépenser le(s) dé(s) pour utiliser cette capacité. Le Leader sélectionné pour un Groupe de Combat déterminera les règles du résultat Spécial. Même si le Leader meurt ou s’il est retiré du jeu, les résultats Spécial pourront toujours être dépensés de cette manière.
 
-_**Note :** Une figurine ne peut utiliser qu’**un seul** résultat Déplacement, Tir **ou** Combat durant son activation._
+_**Note** : Une figurine ne peut utiliser qu’**un seul** résultat Déplacement, Tir **ou** Combat durant son activation._
 
 ### Vos première parties
 Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
@@ -246,47 +246,47 @@ Bonne chance !
 
 Chaque type de figurine possède son propre profil (une liste de caractéristiques) qui détermine ses compétences en tir, en combat, et ainsi de suite. Le profil présente plusieurs informations à propos de la figurine :
 
-**Nom :** le nom de ce type de figurine.
+**Nom** : le nom de ce type de figurine.
 
-**Type :** les figurines sont classées en différentes catégories :
-+ **Leader (L) :** les commandants d’une faction.
-+ **Troupe (T) :** rang et profil de base.
-+ **Spécialiste (S) :** figurines avec un armement, un entraînement ou un équipement spécifique.
-+ **Personnage (P) :** un personnage nommé.
-+ **Véhicule (V) :** unités de soutien mécanisé.
+**Type** : les figurines sont classées en différentes catégories :
++ **Leader (L)** : les commandants d’une faction.
++ **Troupe (T)** : rang et profil de base.
++ **Spécialiste (S)** : figurines avec un armement, un entraînement ou un équipement spécifique.
++ **Personnage (P)** : un personnage nommé.
++ **Véhicule (V)** : unités de soutien mécanisé.
 
-**Points :** Le coût en points pour incorporer un seul de ce type de figurine dans votre Groupe de Combat.
+**Points** : Le coût en points pour incorporer un seul de ce type de figurine dans votre Groupe de Combat.
 
-**PV :** le nombre de PV gagnés par votre adversaire s’il tue cette figurine.
+**PV** : le nombre de PV gagnés par votre adversaire s’il tue cette figurine.
 
-**Vitesse :**  
+**Vitesse** :  
 ![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/speed-1-2.jpg?raw=true)  
 Indiquée par deux chiffres. Le premier est la distance d’une action _Se Déplacer_, le second pour une action de _Sprint_.
 
-**Armure :**  
+**Armure** :  
 ![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/armour-1.jpg?raw=true)  
 Une valeur fixe décrivant le niveau de protection d’une figurine contre les Dégâts.
 
-**Taille :**  
+**Taille** :  
 ![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/size-1.jpg?raw=true)  
 La Taille représente la hauteur ou le volume d’une figurine. C’est une unité de mesure pour déterminer le nombre de points de Dégâts qu’une figurine peut subir avant d’être retirée du jeu. Elle est aussi utilisée pour déterminer le nombre de figurines pouvant se trouver dans un même cube, et les différents types d’espacement pouvant être traversés par une figurine.
 
-**Tir (T) :** Indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 4+. Elle n’est jamais modifiée.
+**Tir (T)** : Indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 4+. Elle n’est jamais modifiée.
 
-**Combat (C) :** indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 5+. Elle n’est jamais modifiée.
+**Combat (C)** : indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 5+. Elle n’est jamais modifiée.
 
-**Survie (Sv) :** indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 3+. Elle n’est jamais modifiée.
+**Survie (Sv)** : indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 3+. Elle n’est jamais modifiée.
 
-**Armes & Équipement :** une liste des acquisitions standards de la figurine. Les armes ont généralement leur propre profil :
-+ **Portée (P) :** C’est la Portée maximale en cubes de l’arme. Les armes PC ne peuvent être utilisées qu’en Combat.
-+ **PA :** La Pénétration d’Armure d’une arme.
+**Armes & Équipement** : une liste des acquisitions standards de la figurine. Les armes ont généralement leur propre profil :
++ **Portée (P)** : C’est la Portée maximale en cubes de l’arme. Les armes PC ne peuvent être utilisées qu’en Combat.
++ **PA** : La Pénétration d’Armure d’une arme.
 + Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle. Voir page 28.
 
-**Capacités :** toutes compétences spéciales que la figurine peut avoir. Voir page 28.
+**Capacités** : toutes compétences spéciales que la figurine peut avoir. Voir page 28.
 
-**Options d’armement :** Il s’agit des catégories d’armes que la figurine est autorisée à acheter. Voir page 46.
+**Options d’armement** : Il s’agit des catégories d’armes que la figurine est autorisée à acheter. Voir page 46.
 
-**Options de Campagne :** Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne. Voir page 104.
+**Options de Campagne** : Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne. Voir page 104.
 
 ### Groupes de Combat Prédéfinis
 
@@ -353,7 +353,104 @@ Si une figurine se déplace, délibérément ou non, dans un cube contenant une 
 #### S’éloigner d’un ennemi
 Si une figurine est dans un cube contenant une figurine ennemie et qu’elle souhaite quitter ce cube, elle peut le faire en utilisant les règles normales de déplacement. Cependant, avant d’effectuer son déplacement, une des figurines ennemies dans le cube (sélectionnée par l’adversaire) peut Combattre la figurine qui se déplace. La figurine qui se déplace doit alors effectuer un test de Survie (voir page 22) – elle ne peut pas choisir de Combattre. Si la figurine n’est pas Tuée ou Bloquée (voir page 26), elle «rompt» le combat et peut se déplacer.
 
-### Sprinter (longue)
+### Sprint (longue)
 La figurine peut se déplacer d’un nombre de cubes égal à sa seconde valeur de Vitesse. Les règles de déplacement sont les mêmes que pour l’action _Se Déplacer_. Cette action ne peut pas être effectuée si la figurine active commence son activation dans le même cube qu’une figurine ennemie.
+
+
+### Décor et Déplacements
+
+#### Se Déplacer sur un même niveau
+Dans un déplacement vers un cube adjacent, le chemin orthogonal le plus court entre deux cubes ne doit pas être totalement bloqué par les décors. En d’autres termes, tout côté de cube que vous souhaitez traverser doit avoir un espace suffisant à la figurine pour passer au-dessus, en-dessous, ou à travers. Le plus petit espace dans lequel une figurine peut se faufiler est basé sur sa Taille, comme indiqué dans le tableau ci-dessous. Il est pratique de regarder le décor que vous allez utiliser avant la partie et de vous mettre à l’avance d’accord avec votre adversaire sur ce qui est possible ou non.
+
+Lorsque vous effectuez une action _Se Déplacer_ en diagonal, tracez la route orthogonale la plus courte vers la destination (en imaginant que la figurine se soit déplacée ainsi). S’il y a plus d’une route, choisissez-en une seule, et vérifiez que chaque côté du cube qu’elle lui faudra traverser est libre ou possède suffisamment d’espace pour passer à travers. Si cela est possible, l’action _Se Déplacer_ peut être effectuée.
+
+_L’Enforcer est une figurine de Taille 1, avec une Vitesse 1. En effectuant son action Se Déplacer, il peut se déplacer vers le cube B, car le côté du cube qu’il traverse est totalement libre. L’Enforcer peut aussi avancer vers le cube A, en passant par l’Espace Moyen du décor. Cependant, l’Enforcer ne peut pas avancer vers le cube C, car le chemin orthogonal le plus court est bloqué par un mur._
+
+_L’Enforcer veut se déplacer en diagonal vers le cube A. En vérifiant le chemin orthogonal le plus court, nous trouvons qu’il y a deux chemins de longueur identique. Le chemin en rouge est bloqué par un mur, mais le chemin vert est viable. Comme un seul chemin viable est nécessaire, le Déplacement en diagonal peut être effectué.__
+
+#### Changer de niveau
+Tous les cubes sur un niveau immédiatement audessus ou en-dessous du cube où se trouve la figurine sont considérés comme adjacents.
+
+Les figurines peuvent grimper ou descendre des décors pour avancer entre les cubes en effectuant un déplacement (action _**Se Déplacer**_ ou _**Sprint**_), y compris se déplacer en diagonal vers le haut, ou en diagonal vers le bas.
+
+Pour monter d’un niveau, en termes simples, il doit y avoir un décor sur lequel grimper. Cet élément de décor doit être dans une position adéquate sur le chemin du déplacement, et l’élément de décor doit atteindre le cube de destination.
+
+_Les Cubes A et B sont tout deux considérés comme adjacents au cube où se trouve l’Enforcer. En effectuant son action Se Déplacer, il peut en théorie se déplacer sur n’importe lequel d’entre eux. Cependant, nous pouvons constater que le chemin orthogonal le plus court vers le cube B est bloqué, donc l’Enforcer ne pourra se déplacer que vers le cube A._
+
+Comme indiqué dans les règles de déplacement sur un même niveau (voir page précédente), le chemin orthogonal le plus court vers une destination, doit être vérifié et ne doit pas être totalement bloqué.
+
+On considère que les combattants d’élite d’un Groupe de Combat de Deadzone sont suffisamment entraînés pour être capables de passer par-dessus de petits obstacles, et de grimper ou descendre sur les murs les plus lisses.
+
+En règle générale, choisissez toujours d’avancer, en permettant les déplacements difficiles ou inhabituels, et réglez les points de divergence par un jet de dé.
+
+_L’Enforcer souhaite se déplacer en diagonal vers le cube A. En vérifiant les routes orthogonales les plus courtes, nous voyons qu’au moins une d’entre-elles est possible. Le Déplacement peut être effectué._
+
+
+### Tir (courte)
+Pour effectuer cette action, une figurine doit être équipée d’une arme à distance ayant une valeur de Portée (P) dans son profil. La portée est donnée en cubes, par exemple « P3 » signifie que la Portée est de 3 cubes. Les armes avec une Portée PC ne peuvent être utilisées que dans un Combat.
+
+Une action de Tir ne peut pas être entreprise si la figurine active se trouve dans le même cube qu’une figurine ennemie, sauf si cela est spécifiquement précisé.
+
+L’action de Tir cible une seule figurine - les autres figurines dans le même cube ou celles sur la trajectoire du tir ne sont pas affectées, sauf si cela est spécifiquement précisé dans les caractéristiques de l’arme. Vous ne pouvez pas cibler une figurine amie ou une figurine dans le même cube que la figurine active, sauf si cela est spécifié dans les compétences d’une arme ou d’une figurine.
+
+La cible doit se trouver dans la limite de la _**Portée**_ maximale de l’arme, et dans la _**Ligne de Vue**_ (LdV) de la figurine effectuant le tir.
+
+#### Mesure de la Portée
+Lorsque vous devez déterminer les distances entre deux figurines (pour savoir à quelle distance une figurine peut tirer), utilisez toujours la même méthode. Comptez les cubes jusqu’à la cible comme si la distance était sur un même niveau, puis comptez les différences entre les niveaux où se trouvent les deux figurines. La plus longue de ces deux distances sera la portée de l'arme.
+
+Vous ne devez jamais compter le cube depuis lequel vous effectuez votre tir, mais toujours compter celui où se trouve votre cible. Lorsque vous tirez, si la cible se trouve au-delà de la Portée maximale de l’arme que vous utilisez, vous ne pouvez pas lui tirer dessus, et l’action de Tir n’est pas effectuée.
+
+#### Ligne de Vue
+La LdV est déterminée en regardant par la perspective de la figurine. Regardez «par les yeux» de la figurine et demandez-vous si vous pouvez voir votre cible, même partiellement. Souvenezvous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc. La réponse sera toujours oui ou non :
+
+OUI – Un tir normal est autorisé. Généralement vous serez capable de voir au moins une partie de la figurine, l’environnement cachant le reste.
+
+NON – Si vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas de LdV et vous ne pouvez pas effectuer d’action de Tir.
+
+#### Modificateur de Tir :
++ **Tir Clair, +2 Dés** : si vous avez une vue totalement dégagée sur l’intégralité de la figurine ciblée (y compris le socle).
++ **Tir Ami, -2 Dés** : s’il y a une ou plusieurs figurines amies (figurines de son propre Groupe de Combat) dans le cube ciblé.
++ **Position Dominante, +1 Dé** : Si vous vous trouvez sur un niveau supérieur que la cible.
++ **Mitraillage, +1 Dé** : Si vous Mitraillez avec une arme à Tir Rapide (voir page suivante).
+
+_NB : Ces modificateurs s’appliquent aussi pour une action de Mitraillage._
+
+#### Tir
+Le joueur effectuant l’action de Tir lance un :
+
+**test de Tir (X) à 3 Dés.**
+
+La cible d’une action de Tir doit lancer un :
+
+**test de Survie (X) à 3 Dés.**
+
+Comparez le nombre total de succès obtenu par chacun des joueurs pour déterminer le résultat :
+
+**Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
+
+**Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subit par la figurine ciblée (voir Dégâts en page 24).
+
+#### Mitraillage
+Une figurine utilisant une arme avec la capacité _Tir Rapide_ (voir page 35) peut choisir de Mitrailler, un tir de suppression pour tenter de clouer ses adversaires au sol.
+
+La figurine active doit déclarer si elle effectue un Mitraillage (avec son action de Tir) avant de lancer le moindre dé.
+
+Le joueur effectuant l’action de Tir lance un :
+
+**test de Tir (X) à 3 Dés.**
+
+La cible d’une action de Tir doit lancer un
+
+**test de Survie (X) à 3 Dés.**
+
+Comparez le nombre total de succès obtenu par chacun des joueurs pour déterminer le résultat :
+
+**Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
+
+**Le tireur obtient plus de succès** : la figurine ciblée est Bloquée (Voir page 26).
+
+_La figurine A peut voir intégralement la figurine B, et bénéficie du modificateur Tir Clair. La figurine A ne peut voir qu’une partie de la figurine C, ce qui signifie qu’elle effectuera un tir normal, sans modificateur. La figurine D peut voir toute la figurine B, et tire depuis une position surélevée, elle bénéficie des modificateurs Tir Clair et Position Dominante._
+
+### Combat (longue)
 
 
