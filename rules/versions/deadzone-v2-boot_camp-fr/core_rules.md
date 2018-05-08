@@ -386,7 +386,7 @@ _L’Enforcer souhaite se déplacer en diagonal vers le cube A. En vérifiant le
 
 ### Tableau des ouvertures
 | TYPE D'OUVERTURE|EXEMPLE|FIGURINES POUVANT PASSER|
-|---|---|
+|---|---|---|
 |**Bloqué**  100% du côté du cube |Un mur complet|Aucune|
 |**Petite Ouverture**  Approx. 25% du côté du cube|Une petite fenêtre|Taille 1 uniquement|
 |**Ouverture Moyenne**  Approx. 50% du côté du cube|Une grande fenêtre|Taille 1 ou 2|
