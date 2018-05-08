@@ -2,27 +2,27 @@
 
 [Introduction](introduction.md)
 
-## [Règles de Base](core_rules.md)
+## Règles de Base
 
-### [Mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#mise-en-place)
+### [Mise en place](core/setup.md)
 + Choisir une Mission
 + Sélectionner un Groupe de Combat
 + Installer le Champ de Bataille
 + Placer les Objectifs et les Objets
 + Recon et Déploiement
 
-### [Jets de Dés](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jets-de-des)
+### [Jets de Dés](core/tests.md)
 
-### [Jouer une Partie](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jouer-une-partie)
+### [Jouer une Partie](core/playing.md)
 + Test de Commandement
 + Jouer un Tour
 + Fin du Round
 
-### [Jouer une partie](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jouer-une-partie)
+### [Vos premières parties](core/firstplay.md)
 + Profil
 + Groupes de Combat Prédéfinis
 
-### [Actions](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#actions)
+### [Actions](core/actions.md)
 + Se Déplacer
 + Sprint
 + Décors et Déplacement
@@ -31,7 +31,7 @@
 + Action Spéciale
 + Se Relever
 
-### [Dégâts](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#degats)
+### [Dégâts](core/damages.md)
 
 
 ## Règles Additionnelles
