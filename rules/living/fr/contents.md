@@ -4,6 +4,8 @@
 
 ## Règles de Base
 
+### [Gagner une partie](core/howtowin.md)
+
 ### [Mise en place](core/setup.md)
 + Choisir une Mission
 + Sélectionner un Groupe de Combat
