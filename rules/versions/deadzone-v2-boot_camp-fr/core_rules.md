@@ -387,22 +387,10 @@ _L’Enforcer souhaite se déplacer en diagonal vers le cube A. En vérifiant le
 ### Tableau des ouvertures
 | TYPE D'OUVERTURE|FIGURINES POUVANT PASSER|
 |---|---|
-|**Bloqué**..
-100% du côté du cube..
-Ex. un mur complet
-|Aucune|
-|**Petite Ouverture**..
-Approx. 25% du côté du cube..
-Ex. une petite fenêtre
-| Taille 1 uniquement|
-|**Ouverture Moyenne**..
-Approx. 50% du côté du cube
-Ex. une grande fenêtre
-|Taille 1 ou 2|
-|**Ouverture Large**..
-Approx. 75% du côté du cube
-Ex. une grande porte
-|Taille 1, 2 ou 3|
+|**Bloqué**  100% du côté du cube  Ex. un mur complet|Aucune|
+|**Petite Ouverture**  Approx. 25% du côté du cube  Ex. une petite fenêtre|Taille 1 uniquement|
+|**Ouverture Moyenne**  Approx. 50% du côté du cube  Ex. une grande fenêtre|Taille 1 ou 2|
+|**Ouverture Large**  Approx. 75% du côté du cube  Ex. une grande porte|Taille 1, 2 ou 3|
 
 ### Tir (courte)
 Pour effectuer cette action, une figurine doit être équipée d’une arme à distance ayant une valeur de Portée (P) dans son profil. La portée est donnée en cubes, par exemple « P3 » signifie que la Portée est de 3 cubes. Les armes avec une Portée PC ne peuvent être utilisées que dans un Combat.
