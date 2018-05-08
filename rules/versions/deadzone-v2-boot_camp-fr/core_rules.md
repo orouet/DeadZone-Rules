@@ -285,7 +285,7 @@ La Taille représente la hauteur ou le volume d’une figurine. C’est une unit
 
 **Options de Campagne :** Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne. Voir page 104.
 
-## Groupe de Combat Prédéfinis
+## Groupes de Combat Prédéfinis
 
 Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter. Utilisez la mission Patrouille décrite en page 12, et servez-vous de ces deux forces pour découvrir le jeu.
 
