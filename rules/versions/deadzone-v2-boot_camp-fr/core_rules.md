@@ -453,4 +453,50 @@ _La figurine A peut voir intégralement la figurine B, et bénéficie du modific
 
 ### Combat (longue)
 
+Si une figurine commence son Tour dans le même cube qu’une figurine ennemie, elle peut alors choisir de la Combattre.
+
+Si une figurine se déplace, délibérément ou non, dans un cube où se trouve un ennemi, vous initiez automatiquement un Combat, sans le compter comme action. S’il y a plusieurs ennemis dans un même cube, la figurine active doit choisir quelle figurine elle devra Combattre.
+
+Les armes qui sont utilisées dans un Combat sont celles ayant une Portée C (indiquée PC dans le profil). Si une figurine a plusieurs armes PC, elle devra alors choisir celle qu’elle utilisera avant de lancer le moindre dé.
+
+Le joueur qui engage le Combat effectue un :
+
+**Test de Combat (X) à 3 Dés.**
+
+La cible d’une action de Combat peut choisir de Contre-attaquer, et lancer un :
+
+**Test de Combat (X) à 3 Dés**
+
+Ou d’essayer simplement d’esquiver l’attaque et lancer un :
+
+**Test de Survie (X) à 3 Dés**
+
+Une figurine avec une valeur « - » en Combat ne peut pas choisir d’effectuer un test de Combat lorsqu’elle est ciblée par une action de Combat.
+
+Si une figurine avec une valeur « - » est forcée d’engager une action de Combat (par exemple, après un déplacement forcé), alors on considère qu’elle n’a lancé aucun succès.
+
+Comparez le nombre total de succès obtenus par chacun des joueurs pour déterminer le résultat :
+
+**Égalité, ou la cible obtient plus de succès** : Aucun effet
+
+**Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts en page 24).
+
+#### Modificateurs :
++ **+1 Dé** si la figurine s’est déplacée dans ce cube durant cette action.
++ **+1 Dé** s’il y a une figurine amie non Bloquée ou plus dans ce même cube (max.+1 dé, non +1 dé par figurine amie).
++ **+1 Dé** si l’adversaire est blessé (voir page 24).
++ **+1 Dé** si la figurine est d’une plus grande Taille que son adversaire.
++ **+1 Dé** si la figurine adverse est Bloquée (voir page 26).
+
+_Ces modificateurs sont les mêmes pour les tests de Combat ou de Survie._
+
+### Action Spéciale (courte)
+C’est une action générique. Elle peut être nécessaire pour effectuer certaines actions de mission, comme appeler des vaisseaux de transport, enclencher le minuteur sur un détonateur et ainsi de suite. On l’utilise aussi pour certaines capacités. Les règles et les effets spécifiques d’une action Spéciale sont décrits dans la mission, ou avec la capacité utilisée.
+
+### Se Relever (courte)
+Si elle souhaite agir, une figurine Bloquée (voir page 26) doit choisir de _Se Relever_ en première action de son activation. Le joueur repositionne sa figurine qui se relève où il le désire dans le cube où elle se trouve.
+
+Si une figurine Bloquée _Se Relève_ dans un cube contenant une figurine ennemie, alors elle est immédiatement attaquée. Le joueur adverse choisit une des figurines ennemies dans ce cube pour Combattre la figurine active.
+
+La figurine qui _Se Relève_ **doit** effectuer un test de Survie - **elle ne peut pas** choisir de Contreattaquer.
 
