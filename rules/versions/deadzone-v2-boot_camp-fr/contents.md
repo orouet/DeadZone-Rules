@@ -11,14 +11,14 @@ Introduction
 + Placer les Objectifs et les Objets
 + Recon et Déploiement
 
-### Jets de Dés
+### [Jets de Dés](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jets-de-des)
 
-### Jouer une Partie
+### [Jouer une Partie](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#jouer-une-partie)
 + Test de Commandement
 + Jouer un Tour
 + Fin du Round
 
-### Vos premières parties
+### [Vos premières parties](https://github.com/orouet/DeadZone-Rules/blob/master/rules/versions/deadzone-v2-boot_camp-fr/core_rules.md#vos-premieres-parties)
 + Profil
 + Groupes de Combat Prédéfinis
 
