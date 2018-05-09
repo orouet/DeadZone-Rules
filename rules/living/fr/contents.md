@@ -36,7 +36,7 @@
 ### [Dégâts](core/damages.md)
 
 
-## Règles Additionnelles
+## [Règles Additionnelles](additional.md)
 + Blocage
 + Dispersion
 + Projection contre un Mur
