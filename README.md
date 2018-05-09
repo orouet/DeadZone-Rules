@@ -7,6 +7,8 @@
 ![Drapeau français](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/flags/fr-FR.png?raw=true)
 Vous retrouverez ici une copie des règles officielles de **DeadZone** dans différentes langues et différents formats.
 
+Les règles originales ansi que les erratas et les FAQ sont disponibles dans le [dossier version](rules/versions/)
+
 
 ![English flag](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/flags/en-GB.png?raw=true)
 You can find here copies of the officials rules of **DeadZone** in different languages and different formats.
