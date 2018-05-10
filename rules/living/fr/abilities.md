@@ -230,4 +230,108 @@ Sur un 1, le réservoir est transpercé, et la figurine prend immédiatement feu
 ### Ingénieur
 La figurine a de l’expérience dans les mécanismes d’explosifs et les mines. Lorsqu’elle révèle un objet Piégé, l’activation de l’Ingénieur se termine immédiatement. Toutefois, le Piège n’explose pas. Au lieu de cela, il est désamorcé et défaussé. Certains objets peuvent uniquement être utilisés par des Ingénieurs.
 
+### Logistique
+Après l’étape de Recon & Déploiement de la mise en place, si cette figurine est le leader du Groupe de Combat, vous pouvez déplacer un objet d’un cube après avoir résolu tous les effets de dés de Recon, et avant de jouer le premier Tour. Vous ne pouvez pas déplacer d’objet se trouvant dans la zone de déploiement d’un des joueurs.
+
+### Lunette de Visée
+L’arme gagne +2 Dés à ses actions de Tir en plus de tout autre modificateur applicable. Une arme avec une Lunette de Visée ne peut pas bénéficier du +1 Dé pour un Holo-Viseur (page 37).
+
+### Médic
+Un Médic peut soigner une seule figurine blessée se trouvant dans le même cube (et qui peut être le Médic lui-même) en effectuant une action Spéciale. Aucun test n’est requis. Un pion de Dégâts est retiré pour chaque utilisation de cette capacité. Cette capacité soigne uniquement les créatures vivantes, et elle ne peut pas être utilisée pour réparer les Constructs ou les Véhicules.
+
+### Non-Combattant
+Cette figurine ne peut, ou ne blessera pas ses ennemis. Elle ne peut pas utiliser d’armes et doit choisir de Survivre si elle est impliquée dans un Combat.
+
+### OEil de Lynx
+Cette figurine augmente de 1 Point la valeur de Portée de n’importe quelle arme à distance. Les armes PC ignore cette règle.
+
+### Paralysant
+Une arme avec cette capacité ne provoque pas de Dégâts Effectifs. Toutefois, si cette arme provoque des Dégâts Potentiels, la figurine ciblée reçoit immédiatement un pion Activé.
+
+### Pillard
+La figurine peut transporter jusqu’à 3 objets au lieu de 1. De plus, la figurine a de l’expérience dans la fouille des décharges et champs de ruines. Elle ne sera jamais affectée par un Piège. Si elle révèle un Piège, alors l’activation du Pillard se termine immédiatement. Cependant, le Piège n’explose pas. Au lieu de cela, le Piège est désamorcé et défaussé.
+
+### Planeur
+La figurine peut chuter de n’importe quel nombre de niveaux sans se blesser, que cela soit par choix ou suite à une explosion l’ayant projetée depuis une position. Dans tous les cas, elle plane sans risque jusqu’au sol, et attérit sur ses pieds. De plus, pour chaque niveau de chute, elle peut se déplacer d’un cube de côté, par rapport à sa position originale.
+
+### Projection
+Lorsqu’une arme ou une figurine avec cette capacité touche une cible, celle-ci est projetée vers un autre cube. Résolvez l’attaque normalement, puis déplacez la cible d’un cube directement à l’opposé de l’attaquant (voir page 27). Si la trajectoire de la figurine projetée est bloquée par un mur, la figurine est projetée contre lui (voir page 27).
+
+### Psychique
+Cette figurine possède des capacités mentales qui lui permettent d’influencer les créatures et les objets qui l’entourent. Que ces capacités soient naturelles, comme celles possédées par un Chovar, ou bien le produit de recherches scientifiques illégales, elles sont toutes représentées en jeu de la même façon.
+
+Une figurine avec la capacité Psychique sera équipée d’une ou plusieurs armes avec l’annotation Psychique sur le profil de chaque arme. Ces capacités sont des armes que la figurine peut utiliser : Elles ont une caractéristique de Portée, utilisée pour les tests de Tir et de Combat comme n’importe quelle autre arme, et appliquent les mêmes modificateurs comme pour les tests classiques de Tir et de Combat.
+
+La seule exception est qu’une arme Psychique n’a pas besoin de Ligne de Vue vers sa cible.
+
+### Puissance de Feu (n)
+Une arme avec cette capacité tire tant de projectiles contre une cible, qu’il y en a bien quelques-unes qui arriveront à toucher. Puissance de Feu sera toujours indiquée avec une valeur à la place du (n), comme par exemple Puissance de Feu (1), ou Puissance de Feu (2). Ce chiffre indique le nombre de Tirs ratés pouvant être relancés **une seule fois**.
+
+Ceci s’applique également à tous les dés supplémentaires obtenus avec des 8 (voir page 9).
+
+Puissance de Feu est cumulative. Si plusieurs modificateurs de Puissance de Feu s’appliquent à une attaque, additionnez ensemble les valeurs (n) de chaque source ; il s’agira alors du nombre total de tirs ratés que la figurine pourra relancer pour ce test de Tir.
+
+### Rechargement
+Lorsqu’une figurine effectue un tir avec une telle arme, elle reçoit un pion Recharge. Cette arme ne peut pas Tirer à nouveau tant que ce pion n’est pas retiré. Pour retirer ce pion, il faut effectuer une action Spéciale avec la figurine portant cette arme (ou avec une figurine avec la capacité Artilleur (voir page 28). Si une figurine a d’autres armes, cette pénalité s’applique uniquement lorsqu’elle utilise une arme à Rechargement.
+
+### Stable
+Une figurine avec cette capacité n’est pas affectée par les effets des armes qui déplacent leur cible vers un autre cube, tels que les explosions de Grenades ou les Projections. De plus, la figurine n’est jamais Bloquée.
+
+### Stimulant
+Les armes avec cette capacité délivrent un choc revigorant à leur cible, que cela soit grâce à un cocktail de drogues de combat ou à des capacités Psychiques libérant le potentiel caché d’un soldat. Les armes Stimulantes peuvent cibler des unités amies et des unités dans le même cube que la figurine active. Le tireur effectue un test de Tir (2) à 3 Dés sans modificateur. Si le tir est réussi, la figurine ciblée retire un pion d’activation.
+
+### Stratège
+Si cette figurine est le leader d’un Groupe de Combat, vous pouvez relancer un échec au dé lors de votre test de Recon.
+
+### Suppression
+Une arme avec cette capacité Tire normalement. De plus, toutes les figurines (de n’importe quel camp) dans le cube ciblé deviennent Bloquées, quels que soient les Dégâts provoqués par le tir.
+
+### Système de Survie
+Les personnages possèdent un système de survie automatisé créé spécifiquement pour les garder en vie, même lorsqu’ils sont gravement blessés. Si la figurine est Blessée par une attaque, mais pas tuée, alors le Système de Survie s’active automatiquement. La figurine revient immédiatement à un état Indemne. Cela s’effectue automatiquement, et ne coûte pas d’action. Cela ne fonctionne qu’une seule fois par partie.
+
+Un Système de Survie ne peut pas être utilisé pour ressusciter des figurines qui ont été tuées par une seule et même attaque. Notez également que le Système de Survie ne fonctionne que sur la figurine elle-même, et il ne peut pas être utilisé pour une figurine à proximité (à la différence du Médi-Pack).
+
+### Tacticien (n)
+La figurine est un leader réputé et comprend instinctivement comment se sortir d’une situation de combat. Tacticien est toujours suivi d’un chiffre, comme par exemple Tacticien (1), Tacticien (2), etc. Lorsque vous effectuez un Test de Commandement au début d’un Round, ajoutez (n) Dés de Commandement à votre jet, si le Tacticien est toujours sur le champ de bataille. 
+
+Vous ne pouvez appliquer la capacité Tacticien que d’une seule figurine de votre Groupe de Combat. Posséder plusieurs Tacticiens dans un Groupe de Combat n’offre aucun bénéfice, si ce n’est d’avoir des remplaçants si le premier vient à mourir.
+
+### Tag
+À la place d’une action de Tir, une figurine avec un fusil Tag peut effectuer un «marquage» (ou tag) sur une figurine ennemie avec une action Spéciale. Pour le restant de ce Round, tous les tirs réalisés par n’importe quelle figurine avec un fusil Tag contre une figurine taguée reçoivent un bonus de +1 Dé. Cet effet n’est pas cumulatif. Une figurine ne peut recevoir qu’un seul bonus de +1 Dé d’une cible taguée. Il n’y a aucun bénéfice à taguer une figurine plusieurs fois dans un même Round.
+
+### Télécommandé
+Une figurine avec cette capacité agit sous le contrôle d’une télécommande. Aussi longtemps qu’un Ingénieur Ami se trouve à 3 cubes ou moins lorsque la figurine est activée, la figurine Télécommandée agit normalement. Si ce n’est pas le cas, alors la figurine Télécommandée reste simplement inactive là où elle se trouve.
+
+### Téléportation
+Une figurine avec cette capacité peut se Téléporter en tant qu’action Spéciale.
+
+Une Téléportation déplace une figurine jusqu’à 2 cubes dans n’importe quelle direction sans que la trajectoire ait besoin d’être dégagée. Si la figurine qui se téléporte finit son déplacement dans le même cube qu’une figurine ennemie, alors elles devront Combattre comme si elle s’était déplacée normalement dans le cube.
+
+### Tir de Couverture
+La figurine gagne +1 Dé lorsqu’elle Mitraille avec une arme à Tir Rapide.
+
+### Tir Rapide
+Une figurine utilisant une arme avec la règle spéciale Tir Rapide peut choisir de Mitrailler lorsqu’elle effectue une action de Tir. (voir page 21)
+
+### Toxique
+Une figurine touchée par une arme Toxique n’est jamais blessée, tout Dégât Effectif sur la figurine la tue instantanément. Toxique n’affecte jamais les figurines avec la capacité Contruct ou Véhicule.
+
+### Usage Unique
+Cet objet ou arme ne peut être utilisé qu’une seule fois durant une partie.
+
+### Véhicule
+La figurine est un Véhicule. Si la figurine est composée de plusieurs figurines d’équipage, alors vous pouvez choisir de les positionner sur son châssis, ou de les laisser libres pour que le Véhicule puisse être utilisé comme épave (ou comme élément de décor dans les batailles où elles ne sont pas utilisées par les Groupes de Combat). Elles n’ont pas de fonction ludique autre qu’esthétique et d’indiquer que le Véhicule est toujours en état de marche. Les Véhicules sont gros et encombrants, et ils ne peuvent pas se déplacer aussi facilement que les petites figurines. Un Véhicule peut seulement changer de niveau en se déplaçant vers le haut ou le bas par le biais d’une rampe. Ils ne peuvent pas grimper ou descendre par les murs.
+
+Un Véhicule ne peut pas ramasser, transporter, ou utiliser d’objet.
+
+Les Véhicules peuvent supporter un certain nombre de point de Dégâts, selon leur Taille, comme n’importe quelle autre figurine.
+
+Un Véhicule n’est pas affecté par les effets de déplacement des explosions, ou des attaques telles que Projection ou Explosion. Cependant, il pourra toujours subir les Dégâts de ces types d’attaque.
+
+Lorsqu’un Véhicule est détruit, il est laissé en place sur le champ de bataille. Il est alors considéré comme un élément de décor du champ de bataille.
+
+Pour un meilleur effet visuel, vous pouvez vouloir retirer les figurines d’équipage et placer un morceau de coton pour lui donner l’apparence d’une épave en feu.
+
+### Vulnérable
+Une figurine avec cette capacité n’est jamais Blessée. Tout Dégât Effectif la tue instantanément.
 
