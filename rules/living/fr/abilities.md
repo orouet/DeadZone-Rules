@@ -169,3 +169,65 @@ Une figurine avec cette capacité attaque si férocement qu’il est difficile d
 
 La Frénésie est cumulative. Si plusieurs modificateurs de Frénésie s’appliquent à une attaque, alors additionnez les valeurs (n) de chaque source ; cela représente le nombre total de dés ratés que la figurine peut relancer dans un test de Combat.
 
+### Générateur de Bouclier (n)
+Il s’agit d’une version plus grande du Bouclier Énergétique (n) (voir page 36) et fonctionne de la même manière. La seule différence est la zone de protection. Au lieu de protéger une seule figurine, un Générateur de Bouclier offre une protection pour toutes les figurines, amies comme ennemies, dans le même cube.
+
+Si une figurine est protégée par plusieurs Boucliers Énergétiques/Générateurs de Bouclier, alors appliquez-les tous. Effectuez séparément un test pour chacun d’entre eux, et réduisez les Dégâts Potentiels par le nombre total de succès obtenus.
+
+### Grenade
+Toutes les Grenades sont lancées en effectuant une action de Tir. Ciblez un cube. Vous n’avez pas besoin de LdV sur une figurine ennemie. Toutefois, si vous n’avez pas de LdV, la figurine du tireur et le cube ciblé doivent être visibles par le joueur lorsque celui-ci regarde directement au-dessus du plateau de jeu.
+
+Effectuez un :
+
+**test de Tir (1) à 3 Dés**, sans modificateurs.
+
+Un succès signifie que la Grenade tombe dans le cube ciblé. Un échec entraîne une Dispersion (page 26) afin de déterminer dans quel cube la Grenade explosera. Une Grenade dispersée est déplacée vers un même niveau ou inférieur (mais jamais vers un niveau supérieur).
+
+Une Grenade dispersée sur un mur ou sur n’importe quel autre objet solide, rebondira contre cet objet et restera dans le cube ciblé d’origine.
+
+Les effets d’une Grenade varient selon son type.
+
+### Horde
+La plupart des figurines des Deadzones sont des combattants expérimentés. Cependant, certains n’ont pas de talent individuel, et comptent sur leur supériorité numérique pour noyer leurs adversaires sous le poids du nombre. Le meilleur exemple de cela reste les Zombies de la Contagion.
+
+Lorsqu’une figurine avec la capacité Horde est impliquée dans un Combat, elle gagne le modificateur normal de +1 pour les figurines amies se trouvant dans le même cube. De plus, elle reçoit un +1 supplémentaire pour chaque figurine amie se trouvant dans le même cube (à l’exception d’elle-même), possédant également la capacité Horde.
+
+### Indirect
+Les armes Indirectes sont généralement des Mortiers ou des Lance-Grenades capables de tirer en cloche des projectiles explosifs vers une zone où des ennemis sont susceptibles de se trouver.
+
+Les armes Indirectes peuvent Tirer sur des figurines dans leur Ligne de Vue, ou elles peuvent choisir de Tirer sur des cibles qu’elles ne voient pas. Dans les deux cas, utilisez les règles suivantes :
+
+Indirect sera toujours indiqué avec un chiffre à la place du (n), comme par exemple Indirect (3), Indirect (5), etc.
+
+Si vous utilisez une arme Indirecte, le Tir devient une action **longue**.
+
+Pour tirer, ciblez un cube. Du fait de sa trajectoire en cloche, l’arme **ne peut pas cibler** quelque chose **à moins de 2 cubes** du tireur, quelle que soit sa Portée normale.
+
+Vous n’avez pas besoin de LdV vers une figurine ennemie, bien que la figurine du tireur et le cube ciblé doivent être visibles par le joueur lorsque celui-ci regarde au-dessus de la table.
+
+Si le tireur a une LdV sur une figurine ennemie dans le cube ciblé, effectuez un test de Tir (1) à 3 Dés, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+
+Si le tireur n’a pas de LdV vers une figurine ennemie dans le cube ciblé, effectuez un test de Tir (2) à 3 Dés, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+
+Un succès sur l’un des tests signifie que le tir a touché le cube ciblé. Un échec indique qu’un jet de dispersion est nécessaire pour déterminer dans quel cube le tir explose. Un tir imprécis sera dispersé (page 26) vers le niveau le plus haut de l’empilement sur lequel il sera déplacé.
+
+Lorsqu’un tir Indirect explose, il peut blesser ou tuer toutes les figurines se trouvant dans un même cube. Effectuez un test variable à 4+ (X) pour déterminer la force de l’attaque, où le nombre de dés lancés correspond au chiffre entre parenthèses après Indirect. Par exemple, une arme Indirecte (5) lancera 5 dés pour le test. Les figurines dans le cube devront effectuer un test de Survie (X) à 3 Dés. Lancez une seule fois pour l’attaque et séparément pour les tests de survie de chaque figurine ciblée.
+
+**Égalité ou Survie obtient plus de succès** : L’attaque rate ou ne provoque pas de dommages.
+
+**Indirect obtient plus de succès** : La différence de succès représente les Dégâts Potentiels.
+
+Quels que soient les résultats de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées vers un cube déterminé aléatoirement (page 26), puis sont Bloquées.
+
+### Inflammable
+Une arme avec cette capacité est équipée d’un réservoir de carburant hautement Inflammable.
+
+Si une figurine transportant une arme avec cette capacité subit un Dégât ou est protégée d’une blessure grâce à son Armure, lancez un d8.
+
+Sur un jet de 2-8, le réservoir Inflammable est intact.
+Sur un 1, le réservoir est transpercé, et la figurine prend immédiatement feu (Voir Ça Brûle ! en page 29). L’arme Inflammable ne pourra alors plus être utilisée jusqu’à la fin de la partie.
+
+### Ingénieur
+La figurine a de l’expérience dans les mécanismes d’explosifs et les mines. Lorsqu’elle révèle un objet Piégé, l’activation de l’Ingénieur se termine immédiatement. Toutefois, le Piège n’explose pas. Au lieu de cela, il est désamorcé et défaussé. Certains objets peuvent uniquement être utilisés par des Ingénieurs.
+
+
