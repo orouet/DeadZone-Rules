@@ -42,7 +42,7 @@
 + Projection contre un Mur
 + Chute
 
-### Capacités
+### [Capacités](abilities.md)
 
 ### Objets
 
