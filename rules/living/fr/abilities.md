@@ -46,5 +46,5 @@ Lorsqu’une figurine avec cette capacité est tuée, elle explose.
 
 De plus, la figurine peut également choisir d’enclencher sa charge explosive en tant qu’action Spéciale.
 
-Quelle qu’en soit la cause, lorsque la figurine explose, jouez-la comme une explosion de Frag (n) (voir page 31) dans ce cube, où (n) est la valeur de BOUM !
+Quelle qu’en soit la cause, lorsque la figurine explose, jouez-la comme une explosion de _Frag_ (n) (voir page 31) dans ce cube, où (n) est la valeur de _BOUM !_
 
