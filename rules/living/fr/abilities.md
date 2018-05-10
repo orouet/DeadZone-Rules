@@ -192,7 +192,7 @@ La plupart des figurines des Deadzones sont des combattants expérimentés. Cepe
 
 Lorsqu’une figurine avec la capacité Horde est impliquée dans un Combat, elle gagne le modificateur normal de +1 pour les figurines amies se trouvant dans le même cube. De plus, elle reçoit un +1 supplémentaire pour chaque figurine amie se trouvant dans le même cube (à l’exception d’elle-même), possédant également la capacité Horde.
 
-### Indirect
+### Indirect (n)
 Les armes Indirectes sont généralement des Mortiers ou des Lance-Grenades capables de tirer en cloche des projectiles explosifs vers une zone où des ennemis sont susceptibles de se trouver.
 
 Les armes Indirectes peuvent Tirer sur des figurines dans leur Ligne de Vue, ou elles peuvent choisir de Tirer sur des cibles qu’elles ne voient pas. Dans les deux cas, utilisez les règles suivantes :
@@ -205,13 +205,32 @@ Pour tirer, ciblez un cube. Du fait de sa trajectoire en cloche, l’arme **ne p
 
 Vous n’avez pas besoin de LdV vers une figurine ennemie, bien que la figurine du tireur et le cube ciblé doivent être visibles par le joueur lorsque celui-ci regarde au-dessus de la table.
 
-Si le tireur a une LdV sur une figurine ennemie dans le cube ciblé, effectuez un test de Tir (1) à 3 Dés, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+Si le tireur a une LdV sur une figurine ennemie dans le cube ciblé, effectuez un :
 
-Si le tireur n’a pas de LdV vers une figurine ennemie dans le cube ciblé, effectuez un test de Tir (2) à 3 Dés, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+**test de Tir (1) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+
+Si le tireur n’a pas de LdV vers une figurine ennemie dans le cube ciblé, effectuez un :
+
+**test de Tir (2) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
 
 Un succès sur l’un des tests signifie que le tir a touché le cube ciblé. Un échec indique qu’un jet de dispersion est nécessaire pour déterminer dans quel cube le tir explose. Un tir imprécis sera dispersé (page 26) vers le niveau le plus haut de l’empilement sur lequel il sera déplacé.
 
-Lorsqu’un tir Indirect explose, il peut blesser ou tuer toutes les figurines se trouvant dans un même cube. Effectuez un test variable à 4+ (X) pour déterminer la force de l’attaque, où le nombre de dés lancés correspond au chiffre entre parenthèses après Indirect. Par exemple, une arme Indirecte (5) lancera 5 dés pour le test. Les figurines dans le cube devront effectuer un test de Survie (X) à 3 Dés. Lancez une seule fois pour l’attaque et séparément pour les tests de survie de chaque figurine ciblée.
+Lorsqu’un tir Indirect explose, il peut blesser ou tuer toutes les figurines se trouvant dans un même cube.
+
+Pour déterminer la force de l’attaque effectuez un :
+
+**test à 4+ (X) à n Dés**.
+
+Exemple
+```
+Une arme Indirecte (5) provoquera un Test à 4+ (X) à 5 Dés.
+```
+
+Les figurines dans le cube devront effectuer un :
+
+**test de Survie (X) à 3 Dés**.
+
+Lancez une seule fois pour l’attaque et séparément pour les tests de survie de chaque figurine ciblée.
 
 **Égalité ou Survie obtient plus de succès** : L’attaque rate ou ne provoque pas de dommages.
 
