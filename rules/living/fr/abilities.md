@@ -19,7 +19,7 @@ Une figurine équipée d’une _Armure de Saut Hammerfist_ commence une bataille
 
 Lorsqu’elle entre en jeu, placez la figurine _Hammerfist_ sur n’importe quel cube de la table. S’il y a un empilement, placez-la sur le niveau le plus haut. La puissance de l’arrivée de la figurine peut éjecter toutes les figurines à proximité.
 
-Pour détrminer la force de l’attaque, la figurine _Hammerfist_ effectue un :
+Pour déterminer la force de l’attaque, la figurine _Hammerfist_ effectue un :
 
 **test à 4+ (X) à 3 Dés**
 
