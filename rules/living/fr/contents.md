@@ -48,7 +48,7 @@
 
 ### Missions
 
-### Création des Groupes de Combat
+### [Création des Groupes de Combat](additional/teams.md)
 
 
 ## Listes d’Armées
