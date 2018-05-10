@@ -145,7 +145,7 @@ Frag sera toujours suivi d’un chiffre à la place du (n). Par exemple, Frag (3
 
 Pour déterminer la force de l'attaque effectuez un :
 
-*test à 4+ (X) à n Dés**.
+**test à 4+ (X) à n Dés**.
 
 Exemple
 ```
