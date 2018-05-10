@@ -149,7 +149,7 @@ Pour déterminer la force de l'attaque effectuez un :
 
 Exemple
 ```
-une Frag (5) provoquera un **Test à 4+ (X) à 5 Dés**.
+une Frag (5) provoquera un Test à 4+ (X) à 5 Dés.
 ```
 
 Les figurines dans le cube ciblé doivent effectuer un :
