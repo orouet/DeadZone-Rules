@@ -48,3 +48,37 @@ De plus, la figurine peut également choisir d’enclencher sa charge explosive 
 
 Quelle qu’en soit la cause, lorsque la figurine explose, jouez-la comme une explosion de _Frag_ (n) (voir page 31) dans ce cube, où (n) est la valeur de _BOUM !_
 
+### Ça Brûle !
+L’arme crache des flammes, de l’acide, ou une toute autre concoction létale similaire. Les armes avec la capacité _Ça Brûle !_ attaquent toutes les figurines se trouvant dans un même cube, comme cibles principales, quel que soit le camp auquel elles appartiennent ou qu’elles puissent être visibles du Tireur.
+
+Choisissez une figurine visible comme cible principale et effectuez le test d’attaque **sans modificateur**. Effectuez le test de Survie séparément pour chacune des figurines dans le cube ciblé et comparez-les individuellement au jet d’attaque pour déterminer les résultats.
+
+Quel que soit le résultat de l’attaque (même si elle a échouée), toutes les figurines dans le cube ciblé prennent feu (placez un pion Flammes près de chacune d’entre elles). En réalité, l’arme envoie de grandes langues de feu qui emplissent le cube, et enflamment tout ce qui s’y trouve.
+
+Si une figurine est en feu lorsqu’elle est activée, alors sa première action sera de tenter d’éteindre les flammes. C’est une action Spéciale gratuite que cette figurine doit entreprendre, mais qui ne compte pas dans la limite de ses actions durant son activation.
+
+Cela fonctionne de la manière suivante :
+
+Le feu/flammes effectuent un :
+
+**test à 4+ (X) à 3 Dés**.
+
+La cible effectue un :
+
+**test de Survie (X) à 3 Dés**.
+
+**Égalité ou Survie obtient plus de succès** : La cible éteint les flammes avant qu’elles ne provoquent le moindre dommage. La figurine peut continuer à agir normalement.
+
+**Le Feu/Flammes ont plus de succès** : La cible éteint les flammes et n’est plus en feu, mais elle subit des Dégâts durant le processus. Les Dégâts Potentiels sont égaux à la différence de succès, et sont résolus avec PA1. L’activation de la figurine prend fin immédiatement.
+
+### Construct
+Cette figurine est une créature artificielle, et elle est immunisée à certaines capacités. De plus, la figurine ne peut jamais être Bloquée. Si elle est touchée par une attaque qui a des effets supplémentaires au Blocage, tel que Explosion, les effets supplémentaires s’appliquent.
+
+### Contrôle de Tir
+Lorsqu’une figurine effectue une action de Tir, elle peut utiliser deux armes au lieu d’une. Chaque arme peut choisir la même cible, ou une différente. Déclarez les cibles des deux attaques avant d’effectuer les lancers pour chacun des dés d’attaque.
+
+### Coriace
+La figurine ignore 1 point de Dégât Potentiel par attaque (y compris des événements telles que les chutes ou les projections contre les murs).
+
+Ceci est calculé avant que l’Armure ne soit pris en compte dans le calcul, et ne peut pas être diminué par une quelconque valeur PA de l’attaque.
+
