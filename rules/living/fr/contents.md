@@ -44,7 +44,7 @@
 
 ### [Capacités](abilities.md)
 
-### Objets
+### [Objets](items.md)
 
 ### Missions
 
