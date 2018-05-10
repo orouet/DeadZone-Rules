@@ -138,5 +138,34 @@ Lorsqu’elle subit les effets d’un résultat 1-2, la figurine est considéré
 
 Un cube peut alors contenir plus de figurines qu’il ne l’est normalement permis. On appelle cela une surcapacité. Lorsqu’une figurine commence son activation dans un cube en surcapacité, et qu’elle est toutefois libre de choisir ses actions, elle doit avant toute chose effectuer un déplacement vers un autre cube.
 
+### Frag (n)
+Lorsqu’une _Frag_ explose, elle peut blesser ou tuer des figurines dans le cube ciblé, et la force de l’explosion enverra les survivants au sol.
 
+Frag sera toujours suivi d’un chiffre à la place du (n). Par exemple, Frag (3), Frag (5), etc.
+
+Pour déterminer la force de l'attaque effectuez un :
+
+*test à 4+ (X) à n Dés**.
+
+Exemple
+```
+une Frag (5) lancera 5 Dés pour un test.
+```
+
+Les figurines dans le cube ciblé doivent effectuer un :
+
+**test de Survie (X) à 3 Dés**.
+
+Lancez une seule fois pour l’attaque, et séparément pour chaque test de survie des cibles.
+
+**Égalité ou la cible obtient plus de succès** : L’attaque rate ou ne parvient pas à provoquer le moindre dégât.
+
+**Frag obtient plus de succès** : La différence de succès représente les Dégâts Potentiels.
+
+Quelque-soit le résultat de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées dans un cube déterminé aléatoirement (voir Dispersion, page 26), puis sont Bloquées.
+
+### Frénésie (n)
+Une figurine avec cette capacité attaque si férocement qu’il est difficile de se défendre contre elle. La Frénésie sera toujours présentée avec une valeur à la place du (n), comme par exemple Frénésie (1) ou Frénésie (2). Les dés de Combat, jusqu’à un nombre maximal équivalent au chiffre entre parenthèses, échouant lors d’un test, peuvent être relancés une seule fois. Ceci s’applique également à tous les dés supplémentaires gagnés après avoir obtenu un 8.
+
+La Frénésie est cumulative. Si plusieurs modificateurs de Frénésie s’appliquent à une attaque, alors additionnez les valeurs (n) de chaque source ; cela représente le nombre total de dés ratés que la figurine peut relancer dans un test de Combat.
 
