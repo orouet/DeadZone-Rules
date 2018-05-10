@@ -36,15 +36,15 @@
 ### [Dégâts](core/damages.md)
 
 
-## [Règles Additionnelles](additional.md)
+## [Règles Additionnelles](additional/special.md)
 + Blocage
 + Dispersion
 + Projection contre un Mur
 + Chute
 
-### [Capacités](abilities.md)
+### [Capacités](additional/abilities.md)
 
-### [Objets](items.md)
+### [Objets](additional/items.md)
 
 ### Missions
 
