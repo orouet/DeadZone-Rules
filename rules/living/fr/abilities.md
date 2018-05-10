@@ -17,11 +17,11 @@ La _Pénétration d’Armure_ (ou PA) est l’appellation pour les types d’arm
 ### Armure de Saut Hammerfist
 Une figurine équipée d’une _Armure de Saut Hammerfist_ commence une bataille hors de la table. Elle entre en jeu grâce à une Action Spéciale effectuée par une figurine du même Groupe de Combat déjà présente sur la table.
 
-Lorsqu’elle entre en jeu, placez la figurine _Hammerfist_ sur n’importe quel cube de la table. S’il y a un empilement, placez-la sur le niveau le plus haut. La puissance de l’arrivée de la figurine peut éjecter toutes les figurines à proximité. La figurine _Hammerfist_ effectue un 
+Lorsqu’elle entre en jeu, placez la figurine _Hammerfist_ sur n’importe quel cube de la table. S’il y a un empilement, placez-la sur le niveau le plus haut. La puissance de l’arrivée de la figurine peut éjecter toutes les figurines à proximité.
+
+Pour détrminer la force de l’attaque, la figurine _Hammerfist_ effectue un :
 
 **test à 4+ (X) à 3 Dés**
-
-pour la force de l’attaque.
 
 Les figurines dans tous les cubes adjacents doivent effectuer un :
 
@@ -33,7 +33,7 @@ Lancez une seule fois les dés pour l’attaque, et séparément pour les tests 
 
 Hammerfist obtient plus de succès : La figurine ciblée est projetée vers un cube directement à l’opposé de la figurine Hammerfist, puis elle est Bloquée.
 
-La figurine _Hammerfist_ reçoit ensuite un pion d’activation. Pour le reste de la partie, la figurine équipée d’une _Armure de Saut Hammerfist_ compte comme ayant des Propulseurs.
+La figurine _Hammerfist_ reçoit ensuite un pion d’activation. Pour le reste de la partie, la figurine équipée d’une _Armure de Saut Hammerfist_ compte comme ayant des _Propulseurs_.
 
 ### Artilleur
 Si une figurine avec cette capacité se trouve dans le même cube qu’une figurine amie, alors l’_Artilleur_ pourra retirer un pion Rechargement de cette figurine en effectuant une action Spéciale.
