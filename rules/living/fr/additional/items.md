@@ -26,6 +26,8 @@ Si une figurine peut ramasser un objet, alors elle peut choisir de le passer à 
 La figurine active donne un objet qu’elle transporte à une autre figurine. Si cette autre figurine ne peut pas porter plus d’objet qu’elle n’en possède déjà, elle doit alors en échanger un avec la figurine active, ou le laisser tomber au sol.
 
 ### Bouclier Defender (+)
+![Bouclier Defender](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/defender_shield.jpg?raw=true)
+
 La figurine transportant un Bouclier Defender l’utilise pour former une barricade mobile derrière laquelle elle et ses camarades pourront avancer en toute sécurité.
 
 La figurine avec ce bouclier gagne +1 en Armure. De plus, toutes les figurines amies de Taille 1 et 2 dans le même cube gagnent également +1 en Armure.
@@ -33,6 +35,8 @@ La figurine avec ce bouclier gagne +1 en Armure. De plus, toutes les figurines a
 Chaque figurine ne peut gagner le bénéfice que d’un seul Bouclier Defender à la fois.
 
 ### Bouclier Énergétique (n) (+)
+![Bouclier Defender](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/energy_shield.jpg?raw=true)
+
 Les Boucliers Énergétiques ont été créés pour absorber l’énergie des attaques reçues, qu’elles proviennent d’armes à particules ou de dispositifs d’énergie cinétique. Lorsqu’une figurine portant cet objet subit des Dégâts Potentiels, effectuez un test à 6+ à (n) Dés. Pour chaque succès obtenus, un Dégât Potentiel est absorbé par le bouclier. Cependant, ce type de bouclier est une nouvelle technologie, et leur fiabilité reste encore à prouver.
 
 Si vous obtenez plus de 1 que de succès, alors l’énergie reçue surpasse la capacité du bouclier à absorber le flux d’énergie et le détruit.
@@ -42,6 +46,7 @@ Tous les succès dans ce test réduiront les Dégâts Potentiels, mais le boucli
 Si une figurine est protégée par plusieurs Bouclier Énergétique/Générateurs de Bouclier, alors tous s’appliquent. Lancez un dé pour chacun d’eux séparément, et réduisez les Dégâts Potentiels par le nombre total de succès obtenus.
 
 ### Grenade Assourdissante (+)
+![Bouclier Defender](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/stun_grenade.jpg?raw=true)
 Une Grenade Assourdissante est à Usage Unique, P3, Grenade (voir page 31) qui désoriente toutes les figurines à proximité. Aucune blessure n’est provoquée contre les figurines dans le cube ciblé. Toutes les figurines dans le cube affecté reçoivent un pion Activé.
 
 ### Grenade Frag (+)
