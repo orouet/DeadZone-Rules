@@ -22,7 +22,7 @@ Une figurine qui effectue son activation est appelée figurine active.
 
 Chaque figurine possède deux valeurs de déplacement sur son profil, séparées par un tiret.
 
-![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/speed-1-2.jpg?raw=true)
+![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/stats/speed-1-2.jpg?raw=true)
 
 Lorsqu’elle effectue une action de déplacement, une figurine peut _Se Déplacer_ d’un nombre de cubes égal à sa **première** valeur de Vitesse ou se repositionner dans le cube où elle se trouve déjà. Chaque action Se Déplacer doit s’effectuer vers un cube adjacent à celui où se trouve la figurine. Les déplacements en diagonal sont autorisés.
 
@@ -31,7 +31,7 @@ _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figuri
 #### Position dans un cube.
 Dans Deadzone, l’emplacement exact d’une figurine à l’intérieur d’un cube est très important. Vous pouvez placer une figurine où vous le voulez sur le plateau, y compris sur les lignes qui composent la grille entre les cubes. Mais dans tous les cas, le centre du socle d’une figurine définit dans quel cube elle se trouve.
 
-![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/situations/2.jpg?raw=true)
+![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/2.jpg?raw=true)
 
 _Dans cet exemple, les deux figurines sont considérées comme étant dans le même cube._
 

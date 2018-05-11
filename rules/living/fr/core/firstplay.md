@@ -38,15 +38,15 @@ Chaque type de figurine possède son propre profil (une liste de caractéristiqu
 **PV** : le nombre de PV gagnés par votre adversaire s’il tue cette figurine.
 
 **Vitesse** :  
-![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/speed-1-2.jpg?raw=true)  
+![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/stats/speed-1-2.jpg?raw=true)  
 Indiquée par deux chiffres. Le premier est la distance d’une action _Se Déplacer_, le second pour une action de _Sprint_.
 
 **Armure** :  
-![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/armour-1.jpg?raw=true)  
+![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/stats/armour-1.jpg?raw=true)  
 Une valeur fixe décrivant le niveau de protection d’une figurine contre les Dégâts.
 
 **Taille** :  
-![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/site/img/stats/size-1.jpg?raw=true)  
+![Armure](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/stats/size-1.jpg?raw=true)  
 La Taille représente la hauteur ou le volume d’une figurine. C’est une unité de mesure pour déterminer le nombre de points de Dégâts qu’une figurine peut subir avant d’être retirée du jeu. Elle est aussi utilisée pour déterminer le nombre de figurines pouvant se trouver dans un même cube, et les différents types d’espacement pouvant être traversés par une figurine.
 
 **Tir (T)** : Indiqué par une valeur à obtenir sur un seul jet de dé, par exemple 4+. Elle n’est jamais modifiée.
