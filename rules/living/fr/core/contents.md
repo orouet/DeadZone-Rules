@@ -3,6 +3,8 @@
 # Règles de Base
 
 ## [Gagner une partie](howtowin.md)
++ Exterminer votre adversaire
++ Accumuler les Points de Victoire
 
 ## [Mise en place](setup.md)
 + Choisir une Mission
@@ -12,6 +14,9 @@
 + Recon et Déploiement
 
 ## [Jets de Dés](tests.md)
++ Déterminer un test
++ Effectuer une test
++ Caractéristique nulle
 
 ## [Jouer une Partie](core/playing.md)
 + Test de Commandement
@@ -32,3 +37,6 @@
 + Se Relever
 
 ## [Dégâts](damages.md)
++ Niveaux de Dégâts
++ Résoudre les Dégâts
++ Blessures

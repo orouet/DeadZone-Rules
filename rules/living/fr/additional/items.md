@@ -1,8 +1,8 @@
 **[Living Rules](../contents.md)** > **[Règles additionnelles](contents.md)** > **Objets**
 
-## OBJETS
+# OBJETS
 
-### Ramasser et Transporter des Objets
+## Ramasser et Transporter des Objets
 Les figurines peuvent ramasser et transporter **un seul objet à la fois**.
 
 Lorsqu’une figurine avance dans un cube contenant un objet, mais sans figurine ennemie, elle peut choisir de le ramasser. Cela ne compte pas comme une action et s’applique quelle que soit la cause du déplacement.
@@ -19,13 +19,18 @@ Un objet qui est jeté est placé dans le même cube, face découverte.
 
 Un objet qui est détruit est retiré du jeu.
 
-### Figurines Tuées
+
+## Figurines Tuées
 Si une figurine meurt, seuls les objets qu’elle transportait marqués d’un (+) tombent au sol. Des pions correspondant généralement à de tels objets sont placés dans le même cube. Les objets indiqués comme l’équipement de base d’une figurine sont simplement retirés du jeu.
 
-### Échange d’Objet entre Figurines
+
+## Échange d’Objet entre Figurines
 Si une figurine peut ramasser un objet, alors elle peut choisir de le passer à une figurine amie dans le même cube. Cela est effectué durant l’action _Se Déplacer_ de la figurine.
 
 La figurine active donne un objet qu’elle transporte à une autre figurine. Si cette autre figurine ne peut pas porter plus d’objet qu’elle n’en possède déjà, elle doit alors en échanger un avec la figurine active, ou le laisser tomber au sol.
+
+
+## Liste des objets
 
 ### Bouclier Defender (+)
 ![Bouclier Defender](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/defender_shield.jpg?raw=true)

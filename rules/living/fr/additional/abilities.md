@@ -1,6 +1,6 @@
 **[Living Rules](../contents.md)** > **[Règles additionnelles](contents.md)** > **Capacités**
 
-## CAPACITES
+# CAPACITES
 
 Il est évident que les guerriers d’élite et les horribles monstres existants dans les diverses factions, ont tous des capacités au-dessus de la moyenne pour se battre et survivre. Ces traits communs sont inclus dans chaque profil.
 
@@ -9,6 +9,9 @@ Cependant, certains ont des capacités bien plus spécialisées ou inhabituelles
 Certaines capacités appartiennent à la figurine, et d’autres aux armes qu’elle transporte. Les capacités d’une arme sont présentées sur le Profil de l’arme. Elles sont toutes expliquées ici.
 
 Lorsqu’une capacité entre en conflit avec une règle de ce livre, la capacité est prioritaire. Si une figurine est retirée du jeu, ses capacités ne peuvent plus être utilisées sauf si cela est spécifiquement précisé.
+
+
+## Liste des capacités
 
 ### Agile
 Après qu’une figurine ait effectué un Déplacement ou un Sprint, elle peut choisir de se déplacer à nouveau vers le haut ou vers le bas gratuitement. Ce changement de niveau suit les règles normales de déplacement.
