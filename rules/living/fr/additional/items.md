@@ -54,17 +54,17 @@ Si une figurine est protégée par plusieurs Bouclier Énergétique/Générateur
 
 ### Grenade Assourdissante (+)
 ![Grenade Assourdissante](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/stun_grenade.jpg?raw=true)
-Une Grenade Assourdissante est à Usage Unique, P3, Grenade (voir page 31) qui désoriente toutes les figurines à proximité. Aucune blessure n’est provoquée contre les figurines dans le cube ciblé. Toutes les figurines dans le cube affecté reçoivent un pion Activé.
+Une Grenade Assourdissante est à Usage Unique, P3, Grenade (voir [Capacités](abilities)) qui désoriente toutes les figurines à proximité. Aucune blessure n’est provoquée contre les figurines dans le cube ciblé. Toutes les figurines dans le cube affecté reçoivent un pion Activé.
 
 ### Grenade Frag (+)
 ![Grenade Frag](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/frag_grenade.jpg?raw=true)
 
-Une Grenade Frag est à Usage Unique, P3, Frag (3), Grenade (voir page 31).
+Une Grenade Frag est à Usage Unique, P3, Frag (3), Grenade (voir [Capacités](abilities)).
 
 ### Grenade Fumigène (+)
 ![Grenade Fumigène](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/smoke_grenade.jpg?raw=true)
 
-Une Grenade Fumigène est un objet à Usage Unique, P3, Grenade (voir page 31) créant un épais nuage de fumée lorsqu’elle détone. Aucun Dégât n’est provoqué contre les figurines dans le cube ciblé. Le cube ainsi enfumé bloque toutes les LdV, y compris pour les figurines s’y trouvant et prises pour cible. Notez, cependant, que la fumée ne bloque pas la LdV vers le cube luimême. Toute attaque de Tir qui trace une LdV à travers un cube adjacent à un cube enfumé subit un modificateur de -1 Dé (quel que soit le nombre de cube de ce type qu’elle traverse). À la fin de
+Une Grenade Fumigène est un objet à Usage Unique, P3, Grenade (voir [Capacités](abilities)) créant un épais nuage de fumée lorsqu’elle détone. Aucun Dégât n’est provoqué contre les figurines dans le cube ciblé. Le cube ainsi enfumé bloque toutes les LdV, y compris pour les figurines s’y trouvant et prises pour cible. Notez, cependant, que la fumée ne bloque pas la LdV vers le cube luimême. Toute attaque de Tir qui trace une LdV à travers un cube adjacent à un cube enfumé subit un modificateur de -1 Dé (quel que soit le nombre de cube de ce type qu’elle traverse). À la fin de
 chaque Round, lancez un dé par cube enfumé :
 
 + Sur un 1-4, la fumée reste en place dans ce cube.
@@ -118,7 +118,7 @@ Une figurine transportant des Munitions PA peut choisir de les utiliser lorsqu�
 ### Pièges
 ![Pièges](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/booby_traps.jpg?raw=true)
 
-Une Deadzone est un lieu hostile, fourmillant de pièges punissant les imprudents. Si une figurine révèle un Piège lorsqu’elle ramasse un objet, considérez-la comme une explosion Frag (3) (voir page 31) qui explose dans le cube où se trouve la figurine.
+Une Deadzone est un lieu hostile, fourmillant de pièges punissant les imprudents. Si une figurine révèle un Piège lorsqu’elle ramasse un objet, considérez-la comme une explosion Frag (3) (voir [Capacités](abilities)) qui explose dans le cube où se trouve la figurine.
 
 ### Propulseurs
 ![Propulseurs](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/jump_pack.jpg?raw=true)

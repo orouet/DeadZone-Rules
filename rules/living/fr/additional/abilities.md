@@ -51,7 +51,7 @@ Lorsqu’une figurine avec cette capacité est tuée, elle explose.
 
 De plus, la figurine peut également choisir d’enclencher sa charge explosive en tant qu’action Spéciale.
 
-Quelle qu’en soit la cause, lorsque la figurine explose, jouez-la comme une explosion de _Frag_ (n) (voir page 31) dans ce cube, où (n) est la valeur de _BOUM !_
+Quelle qu’en soit la cause, lorsque la figurine explose, jouez-la comme une explosion de _Frag_ (n) dans ce cube, où (n) est la valeur de _BOUM !_
 
 ### Ça Brûle !
 L’arme crache des flammes, de l’acide, ou une toute autre concoction létale similaire. Les armes avec la capacité _Ça Brûle !_ attaquent toutes les figurines se trouvant dans un même cube, comme cibles principales, quel que soit le camp auquel elles appartiennent ou qu’elles puissent être visibles du Tireur.
@@ -93,13 +93,13 @@ Après le déploiement, mais avant le premier Tour du premier Round, une figurin
 ### Écran de fumée
 La figurine est équipée avec un générateur de fumée ou d’une mini-grenade qui sont suffisants pour produire un _Écran de fumée_ à _Usage Unique_.
 
-Une seule fois durant la partie, au début de n’importe lequel de ses Tours, une figurine peut placer un _Écran de fumée_. L’effet est identique à une Grenade Fumigène (page 37) lancée dans le cube de la figurine.
+Une seule fois durant la partie, au début de n’importe lequel de ses Tours, une figurine peut placer un _Écran de fumée_. L’effet est identique à une _Grenade Fumigène_ lancée dans le cube de la figurine.
 
 Placer un _Écran de fumée_ n’est pas une action, et cela peut être réalisé même si des figurines ennemies se trouvent dans le même cube.
 
 Si la figurine se déplace, l’_Écran de fumée_ reste dans le cube où il a été déployé. Il se dissipe de la même manière qu’une Grenade Fumigène.
 
-Une figurine quittant un cube avec un _Écran de fumée_ doit toujours effectuer un test de «désengagement» (voir page 17 - S’éloigner d’un ennemi) pour sortir d’un cube où se trouvent des ennemis - on considère que les figurines ennemies sont assez proches pour voir/sentir/entendre/ ressentir leur ennemi, en dépit de l’_Écran de fumée_.
+Une figurine quittant un cube avec un _Écran de fumée_ doit toujours effectuer un test de «désengagement» (voir _S’éloigner d’un ennemi_) pour sortir d’un cube où se trouvent des ennemis - on considère que les figurines ennemies sont assez proches pour voir/sentir/entendre/ ressentir leur ennemi, en dépit de l’_Écran de fumée_.
 
 ### Écran de fumée Toxique
 La figurine peut générer un nuage de fumée empoisonnée pour se cacher. Une fois par partie, au début de n’importe lequel de ses Tours, la figurine peut remplir le cube où elle se trouve avec de la Fumée Toxique. Les effets sont identiques à une Grenade Fumigène qui éclate dans le cube de la figurine, avec les bonus du fait que la fumée soit Toxique.
@@ -128,7 +128,7 @@ Lorsque cette arme est utilisée pour réaliser une action de Tir, lancez un dé
 ### Explosion
 L’arme ne provoque pas de Dégâts Effectifs, bien que la force de l’explosion puisse envoyer les figurines hors des bâtiments ou les projeter contre des murs.
 
-Si l’attaque TOUCHE, alors toutes les figurines dans le cube, à l’exception de la cible, sont repoussées vers un cube directement à l’opposé de la figurine ciblée, puis sont Bloquées. La figurine ciblée est ensuite repoussée vers un cube déterminé aléatoirement (voir Dispersion, page 26), puis est Bloquée.
+Si l’attaque TOUCHE, alors toutes les figurines dans le cube, à l’exception de la cible, sont repoussées vers un cube directement à l’opposé de la figurine ciblée, puis sont Bloquées. La figurine ciblée est ensuite repoussée vers un cube déterminé aléatoirement (voir _Dispersion_), puis est Bloquée.
 
 Si l’attaque RATE, alors toutes les figurines dans le cube ciblé sont Bloquées.
 
@@ -167,7 +167,7 @@ Lancez une seule fois pour l’attaque, et séparément pour chaque test de surv
 
 **Frag obtient plus de succès** : La différence de succès représente les Dégâts Potentiels.
 
-Quelque-soit le résultat de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées dans un cube déterminé aléatoirement (voir Dispersion, page 26), puis sont Bloquées.
+Quelque-soit le résultat de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées dans un cube déterminé aléatoirement (voir _Dispersion_), puis sont Bloquées.
 
 ### Frénésie (n)
 Une figurine avec cette capacité attaque si férocement qu’il est difficile de se défendre contre elle. La Frénésie sera toujours présentée avec une valeur à la place du (n), comme par exemple Frénésie (1) ou Frénésie (2). Les dés de Combat, jusqu’à un nombre maximal équivalent au chiffre entre parenthèses, échouant lors d’un test, peuvent être relancés une seule fois. Ceci s’applique également à tous les dés supplémentaires gagnés après avoir obtenu un 8.
@@ -175,7 +175,7 @@ Une figurine avec cette capacité attaque si férocement qu’il est difficile d
 La Frénésie est cumulative. Si plusieurs modificateurs de Frénésie s’appliquent à une attaque, alors additionnez les valeurs (n) de chaque source ; cela représente le nombre total de dés ratés que la figurine peut relancer dans un test de Combat.
 
 ### Générateur de Bouclier (n)
-Il s’agit d’une version plus grande du Bouclier Énergétique (n) (voir page 36) et fonctionne de la même manière. La seule différence est la zone de protection. Au lieu de protéger une seule figurine, un Générateur de Bouclier offre une protection pour toutes les figurines, amies comme ennemies, dans le même cube.
+Il s’agit d’une version plus grande du Bouclier Énergétique (n) et fonctionne de la même manière. La seule différence est la zone de protection. Au lieu de protéger une seule figurine, un Générateur de Bouclier offre une protection pour toutes les figurines, amies comme ennemies, dans le même cube.
 
 Si une figurine est protégée par plusieurs Boucliers Énergétiques/Générateurs de Bouclier, alors appliquez-les tous. Effectuez séparément un test pour chacun d’entre eux, et réduisez les Dégâts Potentiels par le nombre total de succès obtenus.
 
@@ -186,7 +186,7 @@ Effectuez un :
 
 **test de Tir (1) à 3 Dés**, sans modificateurs.
 
-Un succès signifie que la Grenade tombe dans le cube ciblé. Un échec entraîne une Dispersion (page 26) afin de déterminer dans quel cube la Grenade explosera. Une Grenade dispersée est déplacée vers un même niveau ou inférieur (mais jamais vers un niveau supérieur).
+Un succès signifie que la Grenade tombe dans le cube ciblé. Un échec entraîne une _Dispersion_ afin de déterminer dans quel cube la Grenade explosera. Une Grenade dispersée est déplacée vers un même niveau ou inférieur (mais jamais vers un niveau supérieur).
 
 Une Grenade dispersée sur un mur ou sur n’importe quel autre objet solide, rebondira contre cet objet et restera dans le cube ciblé d’origine.
 
@@ -218,7 +218,7 @@ Si le tireur n’a pas de LdV vers une figurine ennemie dans le cube ciblé, eff
 
 **test de Tir (2) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
 
-Un succès sur l’un des tests signifie que le tir a touché le cube ciblé. Un échec indique qu’un jet de dispersion est nécessaire pour déterminer dans quel cube le tir explose. Un tir imprécis sera dispersé (page 26) vers le niveau le plus haut de l’empilement sur lequel il sera déplacé.
+Un succès sur l’un des tests signifie que le tir a touché le cube ciblé. Un échec indique qu’un jet de dispersion est nécessaire pour déterminer dans quel cube le tir explose. Un tir imprécis sera dispersé (voir _Dispersion_) vers le niveau le plus haut de l’empilement sur lequel il sera déplacé.
 
 Lorsqu’un tir Indirect explose, il peut blesser ou tuer toutes les figurines se trouvant dans un même cube.
 
@@ -241,7 +241,7 @@ Lancez une seule fois pour l’attaque et séparément pour les tests de survie 
 
 **Indirect obtient plus de succès** : La différence de succès représente les Dégâts Potentiels.
 
-Quels que soient les résultats de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées vers un cube déterminé aléatoirement (page 26), puis sont Bloquées.
+Quels que soient les résultats de l’explosion, toutes les figurines survivantes dans le cube ciblé sont projetées vers un cube déterminé aléatoirement, puis sont Bloquées.
 
 ### Inflammable
 Une arme avec cette capacité est équipée d’un réservoir de carburant hautement Inflammable.
@@ -249,7 +249,7 @@ Une arme avec cette capacité est équipée d’un réservoir de carburant haute
 Si une figurine transportant une arme avec cette capacité subit un Dégât ou est protégée d’une blessure grâce à son Armure, lancez un d8.
 
 Sur un jet de 2-8, le réservoir Inflammable est intact.
-Sur un 1, le réservoir est transpercé, et la figurine prend immédiatement feu (Voir Ça Brûle ! en page 29). L’arme Inflammable ne pourra alors plus être utilisée jusqu’à la fin de la partie.
+Sur un 1, le réservoir est transpercé, et la figurine prend immédiatement feu (Voir _Ça Brûle !_). L’arme Inflammable ne pourra alors plus être utilisée jusqu’à la fin de la partie.
 
 ### Ingénieur
 La figurine a de l’expérience dans les mécanismes d’explosifs et les mines. Lorsqu’elle révèle un objet Piégé, l’activation de l’Ingénieur se termine immédiatement. Toutefois, le Piège n’explose pas. Au lieu de cela, il est désamorcé et défaussé. Certains objets peuvent uniquement être utilisés par des Ingénieurs.
@@ -258,7 +258,7 @@ La figurine a de l’expérience dans les mécanismes d’explosifs et les mines
 Après l’étape de Recon & Déploiement de la mise en place, si cette figurine est le leader du Groupe de Combat, vous pouvez déplacer un objet d’un cube après avoir résolu tous les effets de dés de Recon, et avant de jouer le premier Tour. Vous ne pouvez pas déplacer d’objet se trouvant dans la zone de déploiement d’un des joueurs.
 
 ### Lunette de Visée
-L’arme gagne +2 Dés à ses actions de Tir en plus de tout autre modificateur applicable. Une arme avec une Lunette de Visée ne peut pas bénéficier du +1 Dé pour un Holo-Viseur (page 37).
+L’arme gagne +2 Dés à ses actions de Tir en plus de tout autre modificateur applicable. Une arme avec une Lunette de Visée ne peut pas bénéficier du +1 Dé pour un Holo-Viseur.
 
 ### Médic
 Un Médic peut soigner une seule figurine blessée se trouvant dans le même cube (et qui peut être le Médic lui-même) en effectuant une action Spéciale. Aucun test n’est requis. Un pion de Dégâts est retiré pour chaque utilisation de cette capacité.
@@ -281,7 +281,7 @@ La figurine peut transporter jusqu’à 3 objets au lieu de 1. De plus, la figur
 La figurine peut chuter de n’importe quel nombre de niveaux sans se blesser, que cela soit par choix ou suite à une explosion l’ayant projetée depuis une position. Dans tous les cas, elle plane sans risque jusqu’au sol, et attérit sur ses pieds. De plus, pour chaque niveau de chute, elle peut se déplacer d’un cube de côté, par rapport à sa position originale.
 
 ### Projection
-Lorsqu’une arme ou une figurine avec cette capacité touche une cible, celle-ci est projetée vers un autre cube. Résolvez l’attaque normalement, puis déplacez la cible d’un cube directement à l’opposé de l’attaquant (voir page 27). Si la trajectoire de la figurine projetée est bloquée par un mur, la figurine est projetée contre lui (voir page 27).
+Lorsqu’une arme ou une figurine avec cette capacité touche une cible, celle-ci est projetée vers un autre cube. Résolvez l’attaque normalement, puis déplacez la cible d’un cube directement _à l’opposé_ de l’attaquant. Si la trajectoire de la figurine projetée est bloquée par un mur, la figurine est projetée contre lui.
 
 ### Psychique
 Cette figurine possède des capacités mentales qui lui permettent d’influencer les créatures et les objets qui l’entourent. Que ces capacités soient naturelles, comme celles possédées par un Chovar, ou bien le produit de recherches scientifiques illégales, elles sont toutes représentées en jeu de la même façon.
@@ -293,12 +293,12 @@ La seule exception est qu’une arme Psychique n’a pas besoin de Ligne de Vue 
 ### Puissance de Feu (n)
 Une arme avec cette capacité tire tant de projectiles contre une cible, qu’il y en a bien quelques-unes qui arriveront à toucher. Puissance de Feu sera toujours indiquée avec une valeur à la place du (n), comme par exemple Puissance de Feu (1), ou Puissance de Feu (2). Ce chiffre indique le nombre de Tirs ratés pouvant être relancés **une seule fois**.
 
-Ceci s’applique également à tous les dés supplémentaires obtenus avec des 8 (voir page 9).
+Ceci s’applique également à tous les dés supplémentaires obtenus avec des 8.
 
 Puissance de Feu est cumulative. Si plusieurs modificateurs de Puissance de Feu s’appliquent à une attaque, additionnez ensemble les valeurs (n) de chaque source ; il s’agira alors du nombre total de tirs ratés que la figurine pourra relancer pour ce test de Tir.
 
 ### Rechargement
-Lorsqu’une figurine effectue un tir avec une telle arme, elle reçoit un pion Recharge. Cette arme ne peut pas Tirer à nouveau tant que ce pion n’est pas retiré. Pour retirer ce pion, il faut effectuer une action Spéciale avec la figurine portant cette arme (ou avec une figurine avec la capacité Artilleur (voir page 28). Si une figurine a d’autres armes, cette pénalité s’applique uniquement lorsqu’elle utilise une arme à Rechargement.
+Lorsqu’une figurine effectue un tir avec une telle arme, elle reçoit un pion Recharge. Cette arme ne peut pas Tirer à nouveau tant que ce pion n’est pas retiré. Pour retirer ce pion, il faut effectuer une action Spéciale avec la figurine portant cette arme (ou avec une figurine avec la capacité _Artilleur_. Si une figurine a d’autres armes, cette pénalité s’applique uniquement lorsqu’elle utilise une arme à Rechargement.
 
 ### Stable
 Une figurine avec cette capacité n’est pas affectée par les effets des armes qui déplacent leur cible vers un autre cube, tels que les explosions de Grenades ou les Projections. De plus, la figurine n’est jamais Bloquée.
@@ -337,7 +337,7 @@ Une Téléportation déplace une figurine jusqu’à 2 cubes dans n’importe qu
 La figurine gagne +1 Dé lorsqu’elle Mitraille avec une arme à Tir Rapide.
 
 ### Tir Rapide
-Une figurine utilisant une arme avec la règle spéciale Tir Rapide peut choisir de Mitrailler lorsqu’elle effectue une action de Tir. (voir page 21)
+Une figurine utilisant une arme avec la règle spéciale Tir Rapide peut choisir de Mitrailler lorsqu’elle effectue une _action de Tir_.
 
 ### Toxique
 Une figurine touchée par une arme Toxique n’est jamais blessée, tout Dégât Effectif sur la figurine la tue instantanément. Toxique n’affecte jamais les figurines avec la capacité Contruct ou Véhicule.

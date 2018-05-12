@@ -1,13 +1,13 @@
 **[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Vos premières parties**
 
 # VOS PREMIERES PARTIES
-Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
+Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
 
-Ne vous souciez pas des objets durant votre première partie. Une fois que vous vous serez familiarisés avec les actions, les jets de dés et les déplacements, vous pourrez alors ajouter de nouveaux éléments. Les règles pour les objets sont présentées en page 36, dès que vous vous sentirez prêts.
+Ne vous souciez pas des objets durant votre première partie. Une fois que vous vous serez familiarisés avec les actions, les jets de dés et les déplacements, vous pourrez alors ajouter de nouveaux éléments. Les règles pour les objets sont présentées dans la section [objets](items.md), dès que vous vous sentirez prêts.
 
 
 ## Mission de Patrouille Standard
-Préparez la partie comme décrit en page 6 de ce livre en utilisant la carte suivante :
+Préparez la partie comme décrit dans la section [Mise en Place](setup.md) en utilisant la carte suivante :
 
 ![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
 
@@ -61,23 +61,29 @@ La Taille représente la hauteur ou le volume d’une figurine. C’est une unit
 **Armes & Équipement** : une liste des acquisitions standards de la figurine. Les armes ont généralement leur propre profil :
 + **Portée (P)** : C’est la Portée maximale en cubes de l’arme. Les armes PC ne peuvent être utilisées qu’en Combat.
 + **PA** : La Pénétration d’Armure d’une arme.
-+ Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle. Voir page 28.
++ Les capacités spéciales de l’arme, si elle en possède, sont aussi indiquées à côté d’elle (voir [Capacités](../additional/abilities.md)).
 
-**Capacités** : toutes compétences spéciales que la figurine peut avoir. Voir page 28.
+**Capacités** : toutes compétences spéciales que la figurine peut avoir (voir [Capacités](../additional/abilities.md)).
 
-**Options d’armement** : Il s’agit des catégories d’armes que la figurine est autorisée à acheter. Voir page 46.
+**Options d’armement** : Il s’agit des catégories d’armes que la figurine est autorisée à acheter (voir [Groupes de combat](../additional/teams.md)).
 
-**Options de Campagne** : Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une Campagne. Voir page 104.
+**Options de Campagne** : Il s’agit des tables de capacités que la figurine peut choisir lorsqu’elle gagne une amélioration de rang durant une _Campagne_ (Voir Campagnes).
 
 
 ## Groupes de Combat Prédéfinis
-Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter. Utilisez la mission Patrouille décrite en page 12, et servez-vous de ces deux forces pour découvrir le jeu.
+Nous vous proposons ici deux exemples de Groupes de Combat pour vous aider à débuter. Utilisez la mission Patrouille décrite dans la [Mise en Place](setup.md), et servez-vous de ces deux forces pour découvrir le jeu.
 
-Vous aurez besoin de consulter la section des Capacités (page 28), pour la capacité Tacticien (page 34) ainsi que des capacités d’armes, tels que Tir Rapide (page 33) et Ça Brûle ! (page 31).
+Vous aurez besoin de consulter la section des [Capacités](../additional/abilities.md), pour la capacité _Tacticien_ ainsi que des capacités d’armes, tels que _Tir Rapide_ et _Ça Brûle !_.
 
 **GROUPE DE COMBAT ENFORCER**  
-Capitaine Enforcer x 1; Enforcer d’Assaut x 1; Enforcer x 1; Enforcer avec Canon Laser x 1; Drone D.O.G. x 1
++ Capitaine Enforcer x 1
++ Enforcer d’Assaut x 1
++ Enforcer x 1
++ Enforcer avec Canon Laser x 1
++ Drone D.O.G. x 1
 
 **GROUPE DE COMBAT FORGE FATHER**  
-Houscarl Guerrier d’Acier x 1 ; Guerrier d’Acier x 2 ; Guerrier d’Acier avec Souffle de Dragon x 1
++ Houscarl Guerrier d’Acier x 1
++ Guerrier d’Acier x 2
++ Guerrier d’Acier avec Souffle de Dragon x 1
 

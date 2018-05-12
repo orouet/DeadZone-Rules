@@ -24,7 +24,7 @@ Si un cube possède un sol partiel, telle qu’une passerelle, ou un sol avec un
 
 Si la trajectoire de la dispersion est totalement bloquée par des murs, alors la figurine ou l’objet rebondit simplement dans le cube d’origine.
 
-Les objets peuvent toujours tenir dans un cube, la capacité du cube n’est alors pas prise en compte. Si une figurine est projetée dans un cube qui ne peut pas la contenir du fait des limitations de Taille expliquées précédemment (voir _Capacité d’un cube_, page 17), elle doit alors rester dans le cube d’origine (si sur le même niveau) ou être _Dispersée_ à nouveau depuis ce cube (si elle est déjà tombée à un niveau inférieur). Les figurines qui tombent ou sont projetées contre des murs subissent toujours des dégâts. Consulter les règles de l'effet qui provoque la dispersion pour plus de détails.
+Les objets peuvent toujours tenir dans un cube, la capacité du cube n’est alors pas prise en compte. Si une figurine est projetée dans un cube qui ne peut pas la contenir du fait des limitations de Taille expliquées précédemment (voir _Capacité d’un cube_), elle doit alors rester dans le cube d’origine (si sur le même niveau) ou être _Dispersée_ à nouveau depuis ce cube (si elle est déjà tombée à un niveau inférieur). Les figurines qui tombent ou sont projetées contre des murs subissent toujours des dégâts. Consulter les règles de l'effet qui provoque la dispersion pour plus de détails.
 
 
 ## Projection contre un mur

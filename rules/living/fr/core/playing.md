@@ -23,7 +23,7 @@ _**Important** : s’il reste moins de la moitié de votre Groupe de Combat (en 
 3) **Réserver**  
 Placez ensuite vos Dés de Commandement près du bord de votre côté du plateau. Ils seront disponibles pour être dépensés durant les Tours du Round que vous allez jouer, afin d’améliorer les actions de votre Groupe de Combat.
 
-Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation. Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés. Référez-vous au tableau sur la page suivante pour plus de détails sur la manière de les utiliser.
+Vous pouvez dépenser autant de dés de commandement que vous le souhaitez durant un Tour, et chaque dé est défaussé après son utilisation. Ceux qui ne sont pas utilisés à la fin d’un Round sont défaussés. Référez-vous au paragraphe _Description des dés de commandement_ pour plus de détails sur la manière de les utiliser.
 
 
 ## Jouer un Tour
