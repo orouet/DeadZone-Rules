@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Jets de dés**
+
 ## JETS DE DES
 
 Certaines actions et événements de jeu requièrent un jet de dés afin de connaître leur degré de réussite.

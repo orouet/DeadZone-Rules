@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Jouer une partie**
+
 ## JOUER UNE PARTIE
 Deadzone est joué en séries de _**Rounds**_.  
 Un Round commence toujours par un _**Test de Commandement**_. Un Round est divisé en une alternance de _**Tours**_ de joueur. Durant un Tour, un joueur va pouvoir effectuer quelque chose avec la figurine de son choix. Chaque figurine ne peut agir qu’une seule fois durant un Round. Elle est alors appelée _**Figurine Active**_. Lorsque toutes les figurines du champ de bataille ont agi (ont été activées), le Round est terminé.

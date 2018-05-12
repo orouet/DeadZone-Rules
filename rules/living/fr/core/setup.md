@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Mise en place**
+
 ## MISE EN PLACE
 
 Afin de mettre en place une partie de Deadzone, suivez ces étapes :

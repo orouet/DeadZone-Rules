@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Dégâts**
+
 ## DEGATS
 Une figurine est toujours dans un des trois niveaux de Dégâts suivants :
 + **Indemne** : L’état initial d’une figurine lors du déploiement.

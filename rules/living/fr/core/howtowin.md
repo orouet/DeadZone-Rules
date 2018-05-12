@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Gagner une partie**
+
 ## GAGNER UNE PARTIE
 
 Il y a deux façons de gagner une partie de Deadzone :

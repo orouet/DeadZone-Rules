@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Vos premières parties**
+
 ## VOS PREMIERES PARTIES
 Pour vos premières parties, afin de vous familiariser avec les règles de base, les deux Groupes de Combat prédéfinis d’une valeur de 100pts, présentés en page 14 et 15, peuvent être utilisés pour vous mettre rapidement dans le bain. Utilisez la mission _Patrouille_ détaillée ci-contre.
 
