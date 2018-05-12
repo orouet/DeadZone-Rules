@@ -143,7 +143,7 @@ La figurine qui tire effectue un **Test de Tir (X) à 3 Dés** avec modificateur
 
 La figurine ciblée effectue un **Test de Survie (X) à 3 Dés**.
 
-Comparez le nombre total de succès obtenu pour déterminer le résultat :
+Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
 + **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subits par la figurine ciblée (voir Dégâts).
 
@@ -157,7 +157,7 @@ La figurine qui tire effectue un **test de Tir (X) à 3 Dés** avec modificateur
 
 La cible d’une action de mitraillage effectue un **test de Survie (X) à 3 Dés**.
 
-Comparez le nombre total de succès obtenu pour déterminer le résultat :
+Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
 + **Le tireur obtient plus de succès** : la figurine ciblée est _Bloquée_.
 
@@ -189,10 +189,10 @@ _Ces modificateurs sont les mêmes pour les tests de Combat ou de Survie._
 La figurine qui engage le Combat effectue un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
 
 La cible d’une action de Combat peut choisir de :
-+ Contre-attaquer, et effectuer un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
++ Contre-attaquer et effectuer un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
 + Esquiver l’attaque et effectuer un **Test de Survie (X) à 3 Dés** avec modificateurs de combat.
 
-Comparez le nombre total de succès obtenu pour déterminer le résultat :
+Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : Aucun effet
 + **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts).
 
@@ -210,5 +210,5 @@ Si elle souhaite agir, une figurine _Bloquée_ doit choisir de _Se Relever_ en p
 
 Si une figurine Bloquée _Se Relève_ dans un cube contenant une figurine ennemie, alors elle est immédiatement attaquée. Le joueur adverse choisit une des figurines ennemies dans ce cube pour Combattre la figurine active.
 
-La figurine qui _Se Relève_ **doit** effectuer un test de Survie - **elle ne peut pas** choisir de Contre-attaquer.
+La figurine qui _Se Relève_ **doit** _Esquiver_, **elle ne peut pas** choisir de _Contre-Attaquer_.
 
