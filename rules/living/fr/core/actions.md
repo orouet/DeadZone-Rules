@@ -126,7 +126,8 @@ La LdV est déterminée en regardant par la perspective de la figurine. Regardez
 
 Souvenez-vous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc.
 
-#### Modificateur de Tir :
+#### Modificateurs de Tir
+
 |Situation|Modificateur|
 |---|---|
 |Le tireur à une vue totalement dégagée sur l’intégralité de la figurine ciblée (y compris le socle).|**Tir Clair, +2 Dés**|
@@ -169,34 +170,28 @@ Si une figurine se déplace, délibérément ou non, dans un cube où se trouve 
 
 Les armes qui sont utilisées dans un Combat sont celles ayant une Portée C (indiquée PC dans le profil). Si une figurine a plusieurs armes PC, elle devra alors choisir celle qu’elle utilisera avant de lancer le moindre dé.
 
-Le joueur qui engage le Combat effectue un :
+La figurine qui engage le Combat effectue un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
 
-**Test de Combat (X) à 3 Dés.**
+La cible d’une action de Combat peut choisir de :
++ Contre-attaquer, et effectuer un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
++ Esquiver l’attaque et effectuer un **Test de Survie (X) à 3 Dés** avec modificateurs de combat.
 
-La cible d’une action de Combat peut choisir de Contre-attaquer, et lancer un :
-
-**Test de Combat (X) à 3 Dés**
-
-Ou d’essayer simplement d’esquiver l’attaque et lancer un :
-
-**Test de Survie (X) à 3 Dés**
+Comparez le nombre total de succès obtenu pour déterminer le résultat :
++ **Égalité, ou la cible obtient plus de succès** : Aucun effet
++ **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts en page 24).
 
 Une figurine avec une valeur « - » en Combat ne peut pas choisir d’effectuer un test de Combat lorsqu’elle est ciblée par une action de Combat.
 
 Si une figurine avec une valeur « - » est forcée d’engager une action de Combat (par exemple, après un déplacement forcé), alors on considère qu’elle n’a lancé aucun succès.
 
-Comparez le nombre total de succès obtenus par chacun des joueurs pour déterminer le résultat :
-
-**Égalité, ou la cible obtient plus de succès** : Aucun effet
-
-**Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts en page 24).
-
-#### Modificateurs :
-+ **+1 Dé** si la figurine s’est déplacée dans ce cube durant cette action.
-+ **+1 Dé** s’il y a une figurine amie non Bloquée ou plus dans ce même cube (max.+1 dé, non +1 dé par figurine amie).
-+ **+1 Dé** si l’adversaire est blessé (voir page 24).
-+ **+1 Dé** si la figurine est d’une plus grande Taille que son adversaire.
-+ **+1 Dé** si la figurine adverse est Bloquée (voir page 26).
+#### Modificateurs de combat
+|Situation|Modificateur|
+|---|---|
+|La figurine s’est déplacée dans ce cube durant cette action|**+1 Dé**|
+|Il y a au moins une figurine amie non Bloquée dans ce cube|**+1 Dé**|
+|L’adversaire est blessé|**+1 Dé**|
+|La figurine est d’une plus grande Taille que son adversaire|**+1 Dé**|
+|La figurine adverse est Bloquée|**+1 Dé**|
 
 _Ces modificateurs sont les mêmes pour les tests de Combat ou de Survie._
 
