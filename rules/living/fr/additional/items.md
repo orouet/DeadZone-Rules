@@ -85,13 +85,13 @@ Cet objet n’est pas transporté par la figurine. Au lieu de cela, les données
 ### Médi-Pack (+)
 ![Médi-Pack](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/medi-pack.jpg?raw=true)
 
-Un Médi-Pack est un objet à Usage Unique.
+Un Médi-Pack est un objet à _Usage Unique_.
 
-Les Médi-Packs sont utilisés pour soigner des figurines blessées. Ils peuvent être uniquement utilisés sur des figurines vivantes, et ne peuvent pas réparer des Constructs ou des Véhicules. Une figurine avec un Médi-Pack peut l’utiliser soit pour elle même, soit pour n’importe quelle autre figurine vivante dans le même cube, du moment qu’aucun ennemi ne se trouve dans ce même cube.
+Les Médi-Packs sont utilisés pour soigner des figurines blessées. Ils peuvent être uniquement utilisés sur des figurines vivantes, et ne peuvent pas réparer des _Constructs_ ou des _Véhicules_. Une figurine avec un Médi-Pack peut l’utiliser soit pour elle même, soit pour n’importe quelle autre figurine vivante dans le même cube, du moment qu’aucun ennemi ne se trouve dans ce même cube.
 
 L’utilisation d’un Médi-Pack est une action Spéciale pour la figurine qui le transporte.
 
-Aucun test n’est requis, et son utilisation est automatique. Un Médi-Pack a pour effet de soigner totalement une figurine ciblée (retirez tous ses pions de Dégâts). Le Médi-Pack est ensuite défaussé.
+Aucun test n’est requis, et son utilisation est automatique. Un Médi-Pack a pour effet de soigner totalement une figurine ciblée (retirez tous ses pions de _Blessure_). Le Médi-Pack est ensuite défaussé.
 
 ### Mines Thermiques (+)
 ![Mines Thermiques](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/items/thermal_mines.jpg?raw=true)

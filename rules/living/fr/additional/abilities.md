@@ -261,7 +261,7 @@ Après l’étape de Recon & Déploiement de la mise en place, si cette figurine
 L’arme gagne +2 Dés à ses actions de Tir en plus de tout autre modificateur applicable. Une arme avec une Lunette de Visée ne peut pas bénéficier du +1 Dé pour un Holo-Viseur.
 
 ### Médic
-Un Médic peut soigner une seule figurine blessée se trouvant dans le même cube (et qui peut être le Médic lui-même) en effectuant une action Spéciale. Aucun test n’est requis. Un pion de Dégâts est retiré pour chaque utilisation de cette capacité.
+Un Médic peut soigner une seule figurine blessée se trouvant dans le même cube (et qui peut être le Médic lui-même) en effectuant une action Spéciale. Aucun test n’est requis. Un pion de Blessure est retiré pour chaque utilisation de cette capacité.
 
 Cette capacité soigne uniquement les créatures vivantes, et elle ne peut pas être utilisée pour réparer les _Constructs_ ou les _Véhicules_.
 
