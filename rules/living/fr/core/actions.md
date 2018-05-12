@@ -26,12 +26,14 @@ Chaque figurine possède deux valeurs de déplacement sur son profil, séparées
 
 Lorsqu’elle effectue une action de déplacement, une figurine peut _Se Déplacer_ d’un nombre de cubes égal à sa **première** valeur de Vitesse ou se repositionner dans le cube où elle se trouve déjà. Chaque action Se Déplacer doit s’effectuer vers un cube adjacent à celui où se trouve la figurine. Les déplacements en diagonal sont autorisés.
 
+![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/2.jpg?raw=true)
+
 _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figurine de se déplacer d’un cube dans n’importe quelle direction, orthogonale ou diagonale comme indiqué sur le schéma cidessus._
 
 #### Position dans un cube.
 Dans Deadzone, l’emplacement exact d’une figurine à l’intérieur d’un cube est très important. Vous pouvez placer une figurine où vous le voulez sur le plateau, y compris sur les lignes qui composent la grille entre les cubes. Mais dans tous les cas, le centre du socle d’une figurine définit dans quel cube elle se trouve.
 
-![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/2.jpg?raw=true)
+![Situation 3](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/3.jpg?raw=true)
 
 _Dans cet exemple, les deux figurines sont considérées comme étant dans le même cube._
 
