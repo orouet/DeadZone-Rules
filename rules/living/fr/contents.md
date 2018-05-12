@@ -19,7 +19,6 @@
 + [Capacités](additional/abilities.md)
 + [Objets](additional/items.md)
 + [Création des Groupes de Combat](additional/teams.md)
-+ Missions
 
 
 ## Listes d’Armées
@@ -31,5 +30,9 @@
 + Marauders
 + Rebs
 + Mercs
+
+
+## Missions
+
 
 ## Campagnes
