@@ -145,19 +145,20 @@ Comparez le nombre total de succès obtenu pour déterminer le résultat :
 + **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subit par la figurine ciblée (voir Dégâts en page 24).
 
 #### Mitraillage
-Une figurine utilisant une arme avec la capacité _Tir Rapide_ (voir page 35) peut choisir de Mitrailler, un tir de suppression pour tenter de clouer ses adversaires au sol.
+Une figurine utilisant une arme avec la capacité _Tir Rapide_ peut choisir de Mitrailler (effectuer un tir de suppression) pour tenter de clouer ses adversaires au sol.
 
 La figurine active doit déclarer si elle effectue un Mitraillage (avec son action de Tir) avant de lancer le moindre dé.
 
+##### Résolution du mitraillage
 La figurine qui tire effectue un **test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-La cible d’une action de mitraillange effectue un **test de Survie (X) à 3 Dés**.
+La cible d’une action de mitraillage effectue un **test de Survie (X) à 3 Dés**.
 
 Comparez le nombre total de succès obtenu pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
 + **Le tireur obtient plus de succès** : la figurine ciblée est Bloquée (Voir page 26).
 
-##### Exemple
+#### Exemple
 ![Situation 8](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/8.jpg?raw=true)
 
 _La figurine A peut voir intégralement la figurine B, et bénéficie du modificateur Tir Clair. La figurine A ne peut voir qu’une partie de la figurine C, ce qui signifie qu’elle effectuera un tir normal, sans modificateur. La figurine D peut voir toute la figurine B, et tire depuis une position surélevée, elle bénéficie des modificateurs Tir Clair et Position Dominante._
@@ -170,20 +171,6 @@ Si une figurine se déplace, délibérément ou non, dans un cube où se trouve 
 
 Les armes qui sont utilisées dans un Combat sont celles ayant une Portée C (indiquée PC dans le profil). Si une figurine a plusieurs armes PC, elle devra alors choisir celle qu’elle utilisera avant de lancer le moindre dé.
 
-La figurine qui engage le Combat effectue un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
-
-La cible d’une action de Combat peut choisir de :
-+ Contre-attaquer, et effectuer un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
-+ Esquiver l’attaque et effectuer un **Test de Survie (X) à 3 Dés** avec modificateurs de combat.
-
-Comparez le nombre total de succès obtenu pour déterminer le résultat :
-+ **Égalité, ou la cible obtient plus de succès** : Aucun effet
-+ **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts en page 24).
-
-Une figurine avec une valeur « - » en Combat ne peut pas choisir d’effectuer un test de Combat lorsqu’elle est ciblée par une action de Combat.
-
-Si une figurine avec une valeur « - » est forcée d’engager une action de Combat (par exemple, après un déplacement forcé), alors on considère qu’elle n’a lancé aucun succès.
-
 #### Modificateurs de combat
 |Situation|Modificateur|
 |---|---|
@@ -194,6 +181,23 @@ Si une figurine avec une valeur « - » est forcée d’engager une action de Co
 |La figurine adverse est Bloquée|**+1 Dé**|
 
 _Ces modificateurs sont les mêmes pour les tests de Combat ou de Survie._
+
+#### Résolution du combat
+La figurine qui engage le Combat effectue un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
+
+La cible d’une action de Combat peut choisir de :
++ Contre-attaquer, et effectuer un **Test de Combat (X) à 3 Dés** avec modificateurs de combat.
++ Esquiver l’attaque et effectuer un **Test de Survie (X) à 3 Dés** avec modificateurs de combat.
+
+Comparez le nombre total de succès obtenu pour déterminer le résultat :
++ **Égalité, ou la cible obtient plus de succès** : Aucun effet
++ **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts en page 24).
+
+### Figurine sans valeur de combat (-)
+Une figurine avec une valeur « - » en Combat ne peut pas choisir d’effectuer un test de Combat lorsqu’elle est ciblée par une action de Combat.
+
+Si une figurine avec une valeur « - » est forcée d’engager une action de Combat (par exemple, après un déplacement forcé), alors on considère qu’elle n’a lancé aucun succès.
+
 
 ### Action Spéciale (courte)
 C’est une action générique. Elle peut être nécessaire pour effectuer certaines actions de mission, comme appeler des vaisseaux de transport, enclencher le minuteur sur un détonateur et ainsi de suite. On l’utilise aussi pour certaines capacités. Les règles et les effets spécifiques d’une action Spéciale sont décrits dans la mission, ou avec la capacité utilisée.
