@@ -1,4 +1,4 @@
-**[Living Rules](../contents.md)** > **Introduction**
+**[Living Rules](contents.md)** > **Introduction**
 
 # INTRODUCTION
 
