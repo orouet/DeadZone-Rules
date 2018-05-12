@@ -38,6 +38,10 @@ Une série de cubes empilés les uns sur les autres constituent un **empilement*
 
 Afin d’être le plus impartial possible, vous pouvez demander l’aide d’un troisième joueur pour installer les décors. Vous pouvez également proposer à un des deux joueurs de positionner les décors, puis permettre à l’autre joueur de tourner le plateau et choisir le côté où il veut placer son Groupe de Combat.
 
+![Exemple d'empilement](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/1.jpg?raw=true)
+
+_Voici un exemple type d’empilement dans une partie de Deadzone. Les décors ont été utilisés pour créer une tour de 3 cubes de hauteur. La figurine A occupe un cube du niveau 3, la figurine B occupe un cube du niveau 2, et la figurine C occupe le cube du niveau 1. C’est un concept très important à assimiler, car il affecte le mouvement, le tir, et même d’autres règles plus avancées comme les chutes !_
+
 ### Placer les Objets et les Objectifs
 
 ![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
