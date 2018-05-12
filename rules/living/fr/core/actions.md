@@ -120,22 +120,24 @@ Lorsque vous devez déterminer les distances entre deux figurines (pour savoir �
 Vous ne devez jamais compter le cube depuis lequel vous effectuez votre tir, mais toujours compter celui où se trouve votre cible. Lorsque vous tirez, si la cible se trouve au-delà de la Portée maximale de l’arme que vous utilisez, vous ne pouvez pas lui tirer dessus, et l’action de Tir n’est pas effectuée.
 
 #### Ligne de Vue
-La LdV est déterminée en regardant par la perspective de la figurine. Regardez «par les yeux» de la figurine et demandez-vous si vous pouvez voir votre cible, même partiellement. Souvenez-vous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc. La réponse sera toujours oui ou non :
-+ **OUI** – Généralement vous serez capable de voir au moins une partie de la figurine, l’environnement cachant le reste. Un tir normal est autorisé.
-+ **NON** – Si vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas de LdV et vous ne pouvez pas effectuer d’action de Tir.
+La LdV est déterminée en regardant par la perspective de la figurine. Regardez «par les yeux» de la figurine et demandez-vous si vous pouvez voir votre cible :
++ **OUI** – Vous pouvez voir au moins une partie de la figurine, l’environnement cachant le reste. Un tir normal est autorisé.
++ **NON** – Vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas de LdV. Vous ne pouvez pas effectuer d’action de Tir.
+
+Souvenez-vous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc.
 
 #### Modificateur de Tir :
-+ **Tir Clair, +2 Dés** : si vous avez une vue totalement dégagée sur l’intégralité de la figurine ciblée (y compris le socle).
-+ **Tir Ami, -2 Dés** : s’il y a une ou plusieurs figurines amies (figurines de son propre Groupe de Combat) dans le cube ciblé.
-+ **Position Dominante, +1 Dé** : Si vous vous trouvez sur un niveau supérieur que la cible.
-+ **Mitraillage, +1 Dé** : Si vous Mitraillez avec une arme à Tir Rapide (voir page suivante).
-
-_NB : Ces modificateurs s’appliquent aussi pour une action de Mitraillage._
+|Situation|Modificateur|
+|---|---|
+|Le tireur à une vue totalement dégagée sur l’intégralité de la figurine ciblée (y compris le socle).|**Tir Clair, +2 Dés**|
+|Il y a une ou plusieurs figurines amies (figurines de son propre Groupe de Combat) dans le cube ciblé.|**Tir Ami, -2 Dés**|
+|Le tireur se trouve sur un niveau supérieur à la cible.|**Position Dominante, +1 Dé**|
+|Le tireur mitraille avec une arme à Tir Rapide|**Mitraillage, +1 Dé**|
 
 #### Tir
 La figurine qui tire effectue un **Test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-La figurine ciblée effectue un **Test de Survie (X) à 3 Dés.**
+La figurine ciblée effectue un **Test de Survie (X) à 3 Dés**.
 
 Comparez le nombre total de succès obtenu pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
@@ -148,7 +150,7 @@ La figurine active doit déclarer si elle effectue un Mitraillage (avec son acti
 
 La figurine qui tire effectue un **test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-La cible d’une action de mitraillange effectue un **test de Survie (X) à 3 Dés.**
+La cible d’une action de mitraillange effectue un **test de Survie (X) à 3 Dés**.
 
 Comparez le nombre total de succès obtenu pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
