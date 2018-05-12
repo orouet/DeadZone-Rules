@@ -18,7 +18,7 @@
 + Effectuer une test
 + Caractéristique nulle
 
-## [Jouer une Partie](core/playing.md)
+## [Jouer une Partie](playing.md)
 + Test de Commandement
 + Jouer un Tour
 + Fin du Round
