@@ -1,4 +1,4 @@
-**[Living Rules](../../contents.md)** > **[Règles de base](../contents.md)** > **Actions**
+**[Living Rules](../contents.md)** > **[Règles de base](contents.md)** > **Actions**
 
 ## ACTIONS
 
