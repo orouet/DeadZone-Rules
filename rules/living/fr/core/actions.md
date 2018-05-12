@@ -2,7 +2,7 @@
 
 Lorsqu’une figurine est activée durant le Tour d’un joueur, elle peut effectuer soit **une action longue, soit jusqu’à deux actions courtes**.
 
-Actions:
+**Actions** :
 + Se Déplacer (courte)
 + Sprinter (longue)
 + Se Relever (courte)
@@ -13,7 +13,6 @@ Actions:
 Une figurine qui effectue son activation est appelée figurine active.
 
 ### IMPORTANT! Restrictions:
-
 + Une figurine ne peut effectuer qu’une seule fois chaque type d’action dans un Tour. Les actions supplémentaires amenées par les Dés de Commandement ne comptent pas dans cette limite, et peuvent permettre à une même figurine d’effectuer une même action durant un Tour.
 + Une figurine qui commence son activation Bloquée (allongée au sol) doit choisir Se Relever comme première action.
 + Une figurine qui n’est pas Bloquée, et qui est dans le même cube qu’une ou plusieurs figurines ennemies non-Bloquées, ne peut choisir que de Combattre ou de Se Déplacer.
@@ -115,11 +114,9 @@ Lorsque vous devez déterminer les distances entre deux figurines (pour savoir �
 Vous ne devez jamais compter le cube depuis lequel vous effectuez votre tir, mais toujours compter celui où se trouve votre cible. Lorsque vous tirez, si la cible se trouve au-delà de la Portée maximale de l’arme que vous utilisez, vous ne pouvez pas lui tirer dessus, et l’action de Tir n’est pas effectuée.
 
 #### Ligne de Vue
-La LdV est déterminée en regardant par la perspective de la figurine. Regardez «par les yeux» de la figurine et demandez-vous si vous pouvez voir votre cible, même partiellement. Souvenezvous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc. La réponse sera toujours oui ou non :
-
-OUI – Un tir normal est autorisé. Généralement vous serez capable de voir au moins une partie de la figurine, l’environnement cachant le reste.
-
-NON – Si vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas de LdV et vous ne pouvez pas effectuer d’action de Tir.
+La LdV est déterminée en regardant par la perspective de la figurine. Regardez «par les yeux» de la figurine et demandez-vous si vous pouvez voir votre cible, même partiellement. Souvenez-vous que le terme figurine inclut son socle, ses armes, sa chevelure flamboyante, sa queue, etc. La réponse sera toujours oui ou non :
++ **OUI** – Généralement vous serez capable de voir au moins une partie de la figurine, l’environnement cachant le reste. Un tir normal est autorisé.
++ **NON** – Si vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas de LdV et vous ne pouvez pas effectuer d’action de Tir.
 
 #### Modificateur de Tir :
 + **Tir Clair, +2 Dés** : si vous avez une vue totalement dégagée sur l’intégralité de la figurine ciblée (y compris le socle).
@@ -143,21 +140,15 @@ Une figurine utilisant une arme avec la capacité _Tir Rapide_ (voir page 35) pe
 
 La figurine active doit déclarer si elle effectue un Mitraillage (avec son action de Tir) avant de lancer le moindre dé.
 
-Le joueur effectuant l’action de Tir lance un :
+La figurine qui tire effectue un **test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-**test de Tir (X) à 3 Dés.**
+La cible d’une action de mitraillange effectue un **test de Survie (X) à 3 Dés.**
 
-La cible d’une action de Tir doit lancer un
+Comparez le nombre total de succès obtenu pour déterminer le résultat :
++ **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
++ **Le tireur obtient plus de succès** : la figurine ciblée est Bloquée (Voir page 26).
 
-**test de Survie (X) à 3 Dés.**
-
-Comparez le nombre total de succès obtenu par chacun des joueurs pour déterminer le résultat :
-
-**Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
-
-**Le tireur obtient plus de succès** : la figurine ciblée est Bloquée (Voir page 26).
-
-![Exemple](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/8.jpg?raw=true)
+![Situation 8](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/8.jpg?raw=true)
 
 _La figurine A peut voir intégralement la figurine B, et bénéficie du modificateur Tir Clair. La figurine A ne peut voir qu’une partie de la figurine C, ce qui signifie qu’elle effectuera un tir normal, sans modificateur. La figurine D peut voir toute la figurine B, et tire depuis une position surélevée, elle bénéficie des modificateurs Tir Clair et Position Dominante._
 
