@@ -145,7 +145,7 @@ La figurine ciblée effectue un **Test de Survie (X) à 3 Dés**.
 
 Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
-+ **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subits par la figurine ciblée (voir Dégâts).
++ **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subits par la figurine ciblée (voir [Dégâts](damages.md)).
 
 #### Mitraillage
 Une figurine utilisant une arme avec la capacité _Tir Rapide_ peut choisir de Mitrailler (effectuer un tir de suppression) pour tenter de clouer ses adversaires au sol.
@@ -194,7 +194,7 @@ La cible d’une action de Combat peut choisir de :
 
 Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : Aucun effet
-+ **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir Dégâts).
++ **Le test de Combat obtient plus de succès** : La différence du nombre de succès représente les Dégâts Potentiels subis par la figurine qui a perdu le combat (voir [Dégâts](damages.md)).
 
 ### Figurine sans valeur de combat (-)
 Une figurine avec une valeur « - » en Combat ne peut pas choisir d’effectuer un test de Combat lorsqu’elle est ciblée par une action de Combat.
