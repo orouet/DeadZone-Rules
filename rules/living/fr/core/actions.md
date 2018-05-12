@@ -130,19 +130,13 @@ NON – Si vous ne pouvez pas du tout voir la figurine, vous n’avez donc pas d
 _NB : Ces modificateurs s’appliquent aussi pour une action de Mitraillage._
 
 #### Tir
-Le joueur effectuant l’action de Tir lance un :
+La figurine qui tire effectue un **Test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-**test de Tir (X) à 3 Dés.**
+La figurine ciblée effectue un **Test de Survie (X) à 3 Dés.**
 
-La cible d’une action de Tir doit lancer un :
-
-**test de Survie (X) à 3 Dés.**
-
-Comparez le nombre total de succès obtenu par chacun des joueurs pour déterminer le résultat :
-
-**Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
-
-**Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subit par la figurine ciblée (voir Dégâts en page 24).
+Comparez le nombre total de succès obtenu pour déterminer le résultat :
++ **Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
++ **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subit par la figurine ciblée (voir Dégâts en page 24).
 
 #### Mitraillage
 Une figurine utilisant une arme avec la capacité _Tir Rapide_ (voir page 35) peut choisir de Mitrailler, un tir de suppression pour tenter de clouer ses adversaires au sol.
