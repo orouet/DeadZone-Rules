@@ -1,3 +1,5 @@
+**[Living Rules](../../contents.md)** > **[Règles de base](../contents.md)** > **Actions**
+
 ## ACTIONS
 
 Lorsqu’une figurine est activée durant le Tour d’un joueur, elle peut effectuer soit **une action longue, soit jusqu’à deux actions courtes**.
