@@ -19,7 +19,7 @@ Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d�
 
 ## Sélection des Groupes de Combat
 
-Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat (voir [jouer une partie]). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir [Groupes de combat]).
+Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat (voir [jouer une partie](playing.md)). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir [Groupes de combat](../additional/teams.md)).
 
 Chaque figurine possède un profil propre (avec ses caractéristiques de jeu), comme présenté dans la section Listes d’Armées de ce livre (voir [Liste d'Armées](../armies/contents.md)). Les caractéristiques indiquent à quel point une figurine est douée en déplacement, au tir, au combat, etc.
 
