@@ -1,6 +1,6 @@
 **[Living Rules](../contents.md)** > **[Règles additionnelles](contents.md)** > **Etats spéciaux**
 
-## REGLES ADDITIONNELLES
+## ETATS SPECIAUX
 
 La plupart de vos parties seront couvertes par les règles de base présentées précédemment. Cependant, il y a des situations inhabituelles et des capacités spéciales qui en font un jeu profond et jouable. Elles sont décrites ci-dessous.
 

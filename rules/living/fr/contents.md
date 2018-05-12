@@ -48,9 +48,9 @@
 
 ### [Objets](additional/items.md)
 
-### Missions
-
 ### [Création des Groupes de Combat](additional/teams.md)
+
+### Missions
 
 
 ## Listes d’Armées
