@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **Introduction**
+
 # INTRODUCTION
 
 ## QU'EST CE QUE DEADZONE ?
@@ -24,3 +26,4 @@ Mais alors que l’humanité s’aventure aux confins de l’espace, la puissanc
 Décrété par le Conseil et mis en place par le Corps des Enforcers, un Protocole de Confinement est la sanction ultime utilisée pour prévenir que de tels dangers soient connus ou se propagent dans toute la SCPG. Une planète sera effacée de toutes les cartes, coupée du reste de l’humanité et purifiée par les Enforcers. Les planètes soumises à ces Protocoles sont connues familièrement sous un autre nom, prononcé à voix basse dans les cercles sombres et les bars louches des quatre coins de la SCPG – les Deadzones, les zones mortes. Une Deadzone est un endroit où les règles ordinaires ne s’appliquent plus. Tout intrus, humain ou non, trouvé sur une telle planète sera automatiquement traité comme un danger par les Enforcers, autorisés à utiliser la force létale dans tous les cas. Entre les incidents qui en ont fait des zones mortes, et la présence agressive des forces d’élite du Conseil, ces planètes représentent sans doute les endroits les plus dangereux de la galaxie, mais aussi quelques-uns des plus rentables.
 
 Des Corporations rivales y voient une opportunité pour s’emparer des archives et des recherches d’un concurrent, des bandes de pirates-mercenaires Orcs y trouvent l’occasion de s’adonner aux pillages, les hommes, femmes et extraterrestres de l’insidieuse Rébellion exploitent l’opportunité d’y recruter de nouveaux membres, tandis que d’autres races extraterrestres y poursuivront leurs buts secrets. Pour les Enforcers, l’opération initiale d’un confinement ne sera souvent qu’un début, et des régiments entiers peuvent rester sur une Deadzone pendant des années et faire face aux menaces à la fois intérieures et extérieures, tout en cherchant à faire respecter la volonté du Conseil.
+
