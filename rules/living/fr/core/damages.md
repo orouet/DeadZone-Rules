@@ -2,8 +2,8 @@
 
 # DEGATS
 
-## Niveaux de Dégâts
-Une figurine est toujours dans un des trois niveaux de Dégâts suivants :
+## Etats de santé
+Une figurine est toujours dans un des trois Etats de santé :
 + **Indemne** : L’état initial d’une figurine lors du déploiement.
 + **Blessée** : La figurine continue de se battre. Elle subit des pénalités pour quelques tests, mais reste néanmoins capable de continuer à agir normalement.
 + **Morte** : La figurine est retirée du jeu.
@@ -30,12 +30,15 @@ Dégats Effectifs = Dégats Potentiels - Armure Effective
 ```
 
 
-## Blessures
+## Subir les blessures
+
+Une fois la phase de Dégâts résolue, ajouter à la figurine autant de jetons blessures que le nombre de Dégâts Effectifs. Consultez ensuite le tableau des blessures ci-dessous afin de déterminer le nouvel _Etat de santé_ de la figurine.
 
 ### Tableau des blessures
-|Dégâts totaux de la figurine  (y compris les précédents Dégats subis)|Effets|
+
+|Blessures|Etat de santé|
 |---|---|
-|**0 Dégat**|La figurine est _Indemne_|
-|**1 Dégât ou plus, mais pas plus que la Taille de la figurine.**|La figurine est _Blessée_. Marquez la figurine avec un nombre de Pions de Dégâts équivalent au nombre de Dégâts Effectifs provoqués.|
-|**Plus de Dégâts que la Taille de la figurine.**|La figurine est _Morte_. Retirez-la du jeu.|
+|**0**|La figurine est _Indemne_|
+|**1 ou plus, mais pas plus que la Taille de la figurine.**|La figurine est _Blessée_|
+|**Plus de blessures que la Taille de la figurine.**|La figurine est _Morte_.|
 

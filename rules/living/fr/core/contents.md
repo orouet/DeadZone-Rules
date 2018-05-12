@@ -37,6 +37,6 @@
 + Se Relever
 
 ## [Dégâts](damages.md)
-+ Niveaux de Dégâts
++ Etats de santé
 + Résoudre les Dégâts
-+ Blessures
++ Subir les blessures
