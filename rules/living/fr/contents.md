@@ -2,7 +2,7 @@
 
 [Introduction](introduction.md)
 
-## Règles de Base
+## [Règles de Base](core/contents.md)
 
 ### [Gagner une partie](core/howtowin.md)
 
@@ -36,7 +36,9 @@
 ### [Dégâts](core/damages.md)
 
 
-## [Règles Additionnelles](additional/special.md)
+## [Règles Additionnelles](additional/contents.md)
+
+## [Etats spéciaux](additional/special.md)
 + Blocage
 + Dispersion
 + Projection contre un Mur

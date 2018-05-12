@@ -1,6 +1,8 @@
 **[Living Rules](../contents.md)** > **Règles Additionnelles**
 
-# [Règles Additionnelles](special.md)
+# Règles Additionnelles
+
+## [Etats spéciaux](special.md)
 + Blocage
 + Dispersion
 + Projection contre un Mur
