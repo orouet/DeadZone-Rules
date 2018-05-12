@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles additionnelles](contents.md)** > **Création des groupes de combat**
+
 ## CREATION DES GROUPES DE COMBAT
 
 ### Créez votre Groupe de Combat

@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **[Règles additionnelles](contents.md)** > **Capacités**
+
 ## CAPACITES
 
 Il est évident que les guerriers d’élite et les horribles monstres existants dans les diverses factions, ont tous des capacités au-dessus de la moyenne pour se battre et survivre. Ces traits communs sont inclus dans chaque profil.

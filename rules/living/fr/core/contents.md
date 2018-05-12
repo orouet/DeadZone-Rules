@@ -1,3 +1,5 @@
+**[Living Rules](../contents.md)** > **Règles de Base**
+
 # Règles de Base
 
 ## [Gagner une partie](howtowin.md)
