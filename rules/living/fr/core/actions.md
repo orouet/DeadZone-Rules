@@ -21,10 +21,12 @@ Une figurine qui effectue son activation est appelée figurine active.
 
 Chaque figurine possède deux valeurs de déplacement sur son profil, séparées par un tiret.
 
+##### Exemple
 ![Vitesse](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/stats/speed-1-2.jpg?raw=true)
 
 Lorsqu’elle effectue une action de déplacement, une figurine peut _Se Déplacer_ d’un nombre de cubes égal à sa **première** valeur de Vitesse ou se repositionner dans le cube où elle se trouve déjà. Chaque action Se Déplacer doit s’effectuer vers un cube adjacent à celui où se trouve la figurine. Les déplacements en diagonal sont autorisés.
 
+##### Exemple
 ![Situation 2](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/2.jpg?raw=true)
 
 _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figurine de se déplacer d’un cube dans n’importe quelle direction, orthogonale ou diagonale comme indiqué sur le schéma cidessus._
@@ -32,6 +34,7 @@ _Effectuer une action Se Déplacer avec une Vitesse de 1 permettra à une figuri
 #### Position dans un cube.
 Dans Deadzone, l’emplacement exact d’une figurine à l’intérieur d’un cube est très important. Vous pouvez placer une figurine où vous le voulez sur le plateau, y compris sur les lignes qui composent la grille entre les cubes. Mais dans tous les cas, le centre du socle d’une figurine définit dans quel cube elle se trouve.
 
+##### Exemple
 ![Situation 3](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/3.jpg?raw=true)
 
 _Dans cet exemple, les deux figurines sont considérées comme étant dans le même cube._
@@ -62,6 +65,7 @@ Dans un déplacement vers un cube adjacent, le chemin orthogonal le plus court e
 
 Lorsque vous effectuez une action _Se Déplacer_ en diagonal, tracez la route orthogonale la plus courte vers la destination (en imaginant que la figurine se soit déplacée ainsi). S’il y a plus d’une route, choisissez-en une seule, et vérifiez que chaque côté du cube qu’elle lui faudra traverser est libre ou possède suffisamment d’espace pour passer à travers. Si cela est possible, l’action _Se Déplacer_ peut être effectuée.
 
+##### Exemple
 ![Exemple](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/4.jpg?raw=true)
 
 _L’Enforcer est une figurine de Taille 1, avec une Vitesse 1. En effectuant son action Se Déplacer, il peut se déplacer vers le cube B, car le côté du cube qu’il traverse est totalement libre. L’Enforcer peut aussi avancer vers le cube A, en passant par l’Espace Moyen du décor. Cependant, l’Enforcer ne peut pas avancer vers le cube C, car le chemin orthogonal le plus court est bloqué par un mur._
@@ -77,6 +81,7 @@ Les figurines peuvent grimper ou descendre des décors pour avancer entre les cu
 
 Pour monter d’un niveau, en termes simples, il doit y avoir un décor sur lequel grimper. Cet élément de décor doit être dans une position adéquate sur le chemin du déplacement, et l’élément de décor doit atteindre le cube de destination.
 
+##### Exemple
 ![Exemple](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/6.jpg?raw=true)
 
 _Les Cubes A et B sont tout deux considérés comme adjacents au cube où se trouve l’Enforcer. En effectuant son action Se Déplacer, il peut en théorie se déplacer sur n’importe lequel d’entre eux. Cependant, nous pouvons constater que le chemin orthogonal le plus court vers le cube B est bloqué, donc l’Enforcer ne pourra se déplacer que vers le cube A._
@@ -87,6 +92,7 @@ On considère que les combattants d’élite d’un Groupe de Combat de Deadzone
 
 En règle générale, choisissez toujours d’avancer, en permettant les déplacements difficiles ou inhabituels, et réglez les points de divergence par un jet de dé.
 
+##### Exemple
 ![Exemple](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/7.jpg?raw=true)
 
 _L’Enforcer souhaite se déplacer en diagonal vers le cube A. En vérifiant les routes orthogonales les plus courtes, nous voyons qu’au moins une d’entre-elles est possible. Le Déplacement peut être effectué._
@@ -148,6 +154,7 @@ Comparez le nombre total de succès obtenu pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.
 + **Le tireur obtient plus de succès** : la figurine ciblée est Bloquée (Voir page 26).
 
+##### Exemple
 ![Situation 8](https://github.com/orouet/DeadZone-Rules/blob/master/rules/living/resources/situations/8.jpg?raw=true)
 
 _La figurine A peut voir intégralement la figurine B, et bénéficie du modificateur Tir Clair. La figurine A ne peut voir qu’une partie de la figurine C, ce qui signifie qu’elle effectuera un tir normal, sans modificateur. La figurine D peut voir toute la figurine B, et tire depuis une position surélevée, elle bénéficie des modificateurs Tir Clair et Position Dominante._
