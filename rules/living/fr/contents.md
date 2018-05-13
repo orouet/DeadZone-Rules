@@ -35,7 +35,7 @@
 ## [Missions](missions/contents.md)
 + Présentation
 + Choisir une mission
-+ Conditions de victoire
++ Ajuster les paramètres de la mission
 + Liste des missions
 
 
