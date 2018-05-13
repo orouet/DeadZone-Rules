@@ -11,7 +11,9 @@ Dans le jeu de base, nous avons résumé ces préoccupations sous la forme de 4 
 
 
 ## Choisir une mission
-Il est recommandé de sélectionner aléatoirement une mission Cela rend le jeu plus intéressant et encourage les joueurs à faire des choix de listes d'armée plus équilibrées car certaines figurines seront naturellement plus efficaces pour certaines missions. Vous pouvez lancer une Dé pour déterminer la mission qui sera jouée en utilisant le tableau suivant :
+Il est recommandé de sélectionner aléatoirement une mission, cela rend le jeu plus intéressant et encourage les joueurs à faire des choix de listes d'armée plus équilibrées car certaines figurines seront naturellement plus efficaces pour certaines missions.
+
+Vous pouvez lancer une Dé pour déterminer la mission qui sera jouée en utilisant le tableau suivant :
 
 |Résultat|Mission|
 |---|---|
@@ -30,7 +32,7 @@ Le nombre de Points de Victoire (PV) nécessaire pour remporter la partie varien
 
 Les Groupes de Combat basiques comme ceux prédéfinis dans cette règle valent 100 points. Ce niveau de points permet un jeu rapide et brutal. Si vous voulez une partie plus longue, vous pouvez augmenter la valeur de vos Groupes de Combat à 150 ou même 200 points.
 
-Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre de Points de Victoire (PV) requis pour la victoire dans toute mission que vous jouez.
+Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre de Points de Victoire (PV) requis gagner la partie.
 
 |Valeur de la partie|Condition de victoire|
 |---|---|
@@ -42,8 +44,10 @@ Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre 
 
 ### Nouveaux résultats de Recon
 
-### Objectifs secrets
+### Missions secrètes
+Si les joueurs sont d'accord pour utiliser les Missions Secrètes, chaque joueur va se voir attribuer aléatoirement une Mission Secrète qui va modifier les façons de gagner les Points de Victoire (PV).
 
+Chaque Mission comporte un paragraphe Missions Secrètes qui décrit en détail les nouvelles missions.
 
 ## Liste des missions
 + [Patrouille](patrol/contents.md)
