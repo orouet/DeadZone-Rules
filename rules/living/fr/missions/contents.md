@@ -27,7 +27,7 @@ Par ailleurs, si les 2 joueurs sont d'accord, une mission spécifique peut être
 
 ## Ajuster les paramètres de la mission
 
-### Points de Victoire (PV)
+### Conditions de victoire
 Le nombre de Points de Victoire (PV) nécessaire pour remporter la partie varient en fonction de la valeur de vos Groupes de Combat.
 
 Les Groupes de Combat basiques comme ceux prédéfinis dans cette règle valent 100 points. Ce niveau de points permet un jeu rapide et brutal. Si vous voulez une partie plus longue, vous pouvez augmenter la valeur de vos Groupes de Combat à 150 ou même 200 points.
@@ -42,7 +42,7 @@ Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre 
 |250 points|20 PV|
 |300 points|20 PV|
 
-### Nouveaux résultats de Recon
+### Résultats de Recon
 
 ### Missions secrètes
 Si les joueurs sont d'accord pour utiliser les Missions Secrètes, chaque joueur va se voir attribuer aléatoirement une Mission Secrète qui va modifier les façons de gagner les Points de Victoire (PV).
