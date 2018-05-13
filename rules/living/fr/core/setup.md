@@ -46,7 +46,7 @@ _Voici un exemple type d’empilement dans une partie de Deadzone. Les décors o
 
 ## Placer les Objets et les Objectifs
 
-![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
+![Patrouille - Déploiement](https://raw.githubusercontent.com/orouet/DeadZone-Rules/master/rules/living/fr/missions/patrol/deployment.jpg)
 
 ### Objectifs
 Chaque mission indique l’emplacement des objectifs. Dans la mission _Patrouille_ par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus). Vous utiliserez une carte comme celle ci-dessus pour placer les 4 objectifs. S’il y a un décor dans l’une des cases désignées, placez le marqueur à l’intérieur de celui-ci ou sur le niveau le plus élevé de l’empilement.

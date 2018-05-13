@@ -9,7 +9,7 @@ Ne vous souciez pas des objets durant votre première partie. Une fois que vous 
 ## Mission de Patrouille Standard
 Préparez la partie comme décrit dans la section [Mise en Place](setup.md) en utilisant la carte suivante :
 
-![Carte de mise en place](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
+![Patrouille - Déploiement](https://raw.githubusercontent.com/orouet/DeadZone-Rules/master/rules/living/fr/missions/patrol/deployment.jpg)
 
 Vous devez marquer 12 PV pour remporter la mission.
 
