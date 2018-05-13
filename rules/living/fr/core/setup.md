@@ -13,13 +13,13 @@ Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 ## Choisir une Mission
 S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_ décrite dans la section [Jouer une partie].
 
-Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions dans la section [Missions](../missions/contents.md) et les règles de campagnes dans la section [Campagnes](../campaign/contents.md).
+Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions dans la section [Missions](../missions/contents.md) et les règles de campagnes dans le chapitre [Campagnes](../campaign/contents.md).
 
 
 ## Sélection des Groupes de Combat
-Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis (voir [Vos premières parties](firstplay.md)). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir [Groupes de combat](../additional/teams.md)).
+Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis (voir [Vos premières parties](firstplay.md)). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir la section [Groupes de combat](../additional/teams.md)).
 
-Chaque figurine possède un profil propre (avec ses caractéristiques de jeu), comme présenté dans la section Listes d’Armées de ce livre (voir [Liste d'Armées](../armies/contents.md)). Les caractéristiques indiquent à quel point une figurine est douée en déplacement, au tir, au combat, etc.
+Chaque figurine possède un profil propre (avec ses caractéristiques de jeu), comme présenté dans la section Listes d’Armées de ce livre (voir le chapitre [Liste d'Armées](../armies/contents.md)). Les caractéristiques indiquent à quel point une figurine est douée en déplacement, au tir, au combat, etc.
 
 Le terme générique «figurine» s’applique à toutes les pièces du jeu, que celles-ci représentent des humains, des mutants, des véhicules, ou des monstruosités extraterrestres. Chaque fois qu’une règle fait référence à une figurine, on entend par là, l’ensemble de la figurine, y compris le socle sur lequel elle est fixée. On y inclut aussi les armes, vêtements, armures, tentacules, pointes, coiffures, tissus et tout ce qui est sculpté sur la figurine en question.
 
