@@ -1,10 +1,10 @@
-**[Living Rules](../contents.md)** > **[Missions](contents.md)** > **Patrouille
+**[Living Rules](../../contents.md)** > **[Missions](../contents.md)** > **Patrouille
 
 # Patrouille
 
 ## Plan de déploiement
 
-![Déploiement](https://github.com/orouet/DeadZone-Rules/blob/master/missions/patrol/map-fr.jpg?raw=true)
+![Déploiement](deployment.jpg?raw=true)
 
 Vous devez marquer 12 PV pour remporter la mission.
 
