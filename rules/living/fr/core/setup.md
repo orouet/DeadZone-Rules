@@ -17,7 +17,7 @@ Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d�
 
 
 ## Sélection des Groupes de Combat
-Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis (voir [Vos premières parties](firstplay.md)). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir la section [Groupes de combat](../additional/teams.md)).
+Chaque joueur doit choisir la faction qu’il souhaite représenter. Les figurines que vous sélectionnez constituent votre Groupe de Combat. Lors de vos premières parties, il sera plus simple d’utiliser les Groupes de Combat prédéfinis (voir la section [Vos premières parties](firstplay.md)). Ensuite, vous pourrez construire et personnaliser votre propre Groupe de Combat (voir la section [Groupes de combat](../additional/teams.md)).
 
 Chaque figurine possède un profil propre (avec ses caractéristiques de jeu), comme présenté dans la section Listes d’Armées de ce livre (voir le chapitre [Liste d'Armées](../armies/contents.md)). Les caractéristiques indiquent à quel point une figurine est douée en déplacement, au tir, au combat, etc.
 
@@ -52,7 +52,7 @@ _Voici un exemple type d’empilement dans une partie de Deadzone. Les décors o
 Chaque mission indique l’emplacement des objectifs. Dans la mission _Patrouille_ par exemple, quatre marqueurs d’objectifs doivent être placés sur le champ de bataille : deux marqueurs de 1 PV et deux marqueurs de 2 PV (voir diagramme ci-dessus). Vous utiliserez une carte comme celle ci-dessus pour placer les 4 objectifs. S’il y a un décor dans l’une des cases désignées, placez le marqueur à l’intérieur de celui-ci ou sur le niveau le plus élevé de l’empilement.
 
 ### Objets
-En plus des objectifs, les champs de bataille dévastés de Deadzone sont jonchés d’objets. Il peut s’agir d’un équipement indispensable, voire d’un piège mortel (voir [Objets](../additional/items.md)). Une sélection aléatoire de ces objets est placée sur le champ de bataille avant chaque mission, comme suit :
+En plus des objectifs, les champs de bataille dévastés de Deadzone sont jonchés d’objets. Il peut s’agir d’un équipement indispensable, voire d’un piège mortel (voir la section [Objets](../additional/items.md)). Une sélection aléatoire de ces objets est placée sur le champ de bataille avant chaque mission, comme suit :
 
 Prenez les pions d’objets et mélangez-les faces cachées. Un joueur prend un marqueur à la fois, sans le regarder, et l’autre joueur lance deux dés pour chaque pion – un dé pour déterminer aléatoirement une colonne et l’autre pour la ligne. Cela vous donne ainsi l’emplacement sur le quadrillage du tapis où le pion sera placé (toujours face cachée). Si l’emplacement contient un empilement, les pions doivent être placés sur son niveau le plus élevé. Un cube peut ainsi contenir plusieurs objets. Si le résultat du jet indique de placer un pion dans la zone de déploiement d’un joueur, alors ce pion est défaussé. Pour cette raison, toutes les batailles n’auront pas le même nombre d’objets.
 
