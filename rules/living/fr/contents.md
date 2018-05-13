@@ -21,7 +21,7 @@
 + [Création des Groupes de Combat](additional/teams.md)
 
 
-## Listes d’Armées
+## [Listes d’Armée](armies/contents.md)
 + Contagion
 + Enforcers
 + Veer-Myn
@@ -32,7 +32,7 @@
 + Mercs
 
 
-## Missions
+## [Missions](missions/contents.md)
 
 
-## Campagnes
+## [Campagnes](campaign/contents.md)
