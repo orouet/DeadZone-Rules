@@ -24,14 +24,14 @@ Vous devez marquer 12 PV pour remporter la mission.
 Chaque joueur lance un Dé afin de déterminer sa Mission Secrète :
 + 1-2 : Règles normales
 + 3-4 : Revendication
-+ 5-6 : Meutre
++ 5-6 : Meurtre
 + 7-8 : Connaissance du terrain
 
 ### Revendication
 + Les objectifs rapportent le double de PV.
 + Tuer des figurines rapporte la moitié des PV normaux en arrondissant à l'inférieur.
 
-### Meutre
+### Meurtre
 + Les objectifs rapportent 0.
 + Tuer le Leader ennemi rapporte le double de PV.
 
