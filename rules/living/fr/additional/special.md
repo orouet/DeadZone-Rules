@@ -30,13 +30,13 @@ Les objets peuvent toujours tenir dans un cube, la capacité du cube n’est alo
 ## Projection contre un mur
 Si une figurine est projetée contre un mur bloquant son déplacement vers un autre cube, effectuez un :
 
-**test de Survie (X) à 3 Dés**
+**Test de Survie (X) à 3 Dés**
 
 et restez dans le cube d’origine.
 
 Le mur lance un :
 
-**test à 5+ (X) à 3 Dés**
+**Test à 5+ (X) à 3 Dés**
 
 Comparez le nombre total de succés obtenus par chacune des parties pour déterminer le résultat :
 
@@ -48,11 +48,11 @@ Comparez le nombre total de succés obtenus par chacune des parties pour déterm
 ## Chute
 Si une figurine tombe ou saute depuis une hauteur de plus d’un cube, lancez :
 
-**test de Survie (X) à 3 Dés**
+**Test de Survie (X) à 3 Dés**
 
 La Gravité lance :
 
-**test à 5+ (X) à 3 Dés** avec +1 Dé par cube tombé/sauté par la figurine.
+**Test à 5+ (X) à 3 Dés** avec +1 Dé par cube tombé/sauté par la figurine.
 
 Comparez le nombre total de succés obtenus par chacune des parties pour déterminer le résultat :
 

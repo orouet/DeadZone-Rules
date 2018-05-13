@@ -142,7 +142,7 @@ Souvenez-vous que le terme figurine inclut son socle, ses armes, sa chevelure fl
 |Le tireur se trouve sur un niveau supérieur à la cible.|**Position Dominante, +1 Dé**|
 |Le tireur mitraille avec une arme à Tir Rapide|**Mitraillage, +1 Dé**|
 
-### Tir
+### Tirer
 
 #### Résolution du tir
 La figurine qui tire effectue un **Test de Tir (X) à 3 Dés** avec modificateurs de tir.
@@ -153,15 +153,15 @@ Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque échoue.
 + **Le tireur obtient plus de succès** : La différence des nombre de succès représente les Dégâts Potentiels subits par la figurine ciblée (voir [Dégâts](damages.md)).
 
-### Mitraillage
+### Mitrailler
 Une figurine utilisant une arme avec la capacité _Tir Rapide_ peut choisir de Mitrailler (effectuer un tir de suppression) pour tenter de clouer ses adversaires au sol.
 
-La figurine active doit déclarer si elle effectue un Mitraillage (avec son action de Tir) avant de lancer le moindre dé.
+La figurine active doit déclarer si elle effectue un mitraillage (avec son action de Tir) avant de lancer le moindre dé.
 
 #### Résolution du mitraillage
-La figurine qui tire effectue un **test de Tir (X) à 3 Dés** avec modificateurs de tir.
+La figurine qui mitraille effectue un **Test de Tir (X) à 3 Dés** avec modificateurs de tir.
 
-La cible d’une action de mitraillage effectue un **test de Survie (X) à 3 Dés**.
+La cible d’un mitraillage effectue un **Test de Survie (X) à 3 Dés**.
 
 Comparez le nombre total de succès obtenus pour déterminer le résultat :
 + **Égalité, ou la cible obtient plus de succès** : L’attaque n’a aucun effet.

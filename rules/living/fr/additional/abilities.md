@@ -26,11 +26,11 @@ Lorsqu’elle entre en jeu, placez la figurine _Hammerfist_ sur n’importe quel
 
 Pour déterminer la force de l’attaque, la figurine _Hammerfist_ effectue un :
 
-**test à 4+ (X) à 3 Dés**
+**Test à 4+ (X) à 3 Dés**
 
 Les figurines dans tous les cubes adjacents doivent effectuer un :
 
-**test de Survie (X) à 3 Dés**
+**Test de Survie (X) à 3 Dés**
 
 Lancez une seule fois les dés pour l’attaque, et séparément pour les tests de survie de chaque figurine ciblée.
 
@@ -66,11 +66,11 @@ Cela fonctionne de la manière suivante :
 
 Le feu/flammes effectuent un :
 
-**test à 4+ (X) à 3 Dés**.
+**Test à 4+ (X) à 3 Dés**.
 
 La cible effectue un :
 
-**test de Survie (X) à 3 Dés**.
+**Test de Survie (X) à 3 Dés**.
 
 **Égalité ou Survie obtient plus de succès** : La cible éteint les flammes avant qu’elles ne provoquent le moindre dommage. La figurine peut continuer à agir normalement.
 
@@ -150,7 +150,7 @@ Frag sera toujours suivi d’un chiffre à la place du (n). Par exemple, Frag (3
 
 Pour déterminer la force de l'attaque effectuez un :
 
-**test à 4+ (X) à n Dés**.
+**Test à 4+ (X) à n Dés**.
 
 Exemple
 ```
@@ -159,7 +159,7 @@ une Frag (5) provoquera un Test à 4+ (X) à 5 Dés.
 
 Les figurines dans le cube ciblé doivent effectuer un :
 
-**test de Survie (X) à 3 Dés**.
+**Test de Survie (X) à 3 Dés**.
 
 Lancez une seule fois pour l’attaque, et séparément pour chaque test de survie des cibles.
 
@@ -184,7 +184,7 @@ Toutes les Grenades sont lancées en effectuant une action de Tir. Ciblez un cub
 
 Effectuez un :
 
-**test de Tir (1) à 3 Dés**, sans modificateurs.
+**Test de Tir (1) à 3 Dés**, sans modificateurs.
 
 Un succès signifie que la Grenade tombe dans le cube ciblé. Un échec entraîne une _Dispersion_ afin de déterminer dans quel cube la Grenade explosera. Une Grenade dispersée est déplacée vers un même niveau ou inférieur (mais jamais vers un niveau supérieur).
 
@@ -212,11 +212,11 @@ Vous n’avez pas besoin de LdV vers une figurine ennemie, bien que la figurine 
 
 Si le tireur a une LdV sur une figurine ennemie dans le cube ciblé, effectuez un :
 
-**test de Tir (1) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+**Test de Tir (1) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
 
 Si le tireur n’a pas de LdV vers une figurine ennemie dans le cube ciblé, effectuez un :
 
-**test de Tir (2) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
+**Test de Tir (2) à 3 Dés**, sans aucun modificateur autorisé (pas même d’un Dé de Commandement).
 
 Un succès sur l’un des tests signifie que le tir a touché le cube ciblé. Un échec indique qu’un jet de dispersion est nécessaire pour déterminer dans quel cube le tir explose. Un tir imprécis sera dispersé (voir _Dispersion_) vers le niveau le plus haut de l’empilement sur lequel il sera déplacé.
 
@@ -224,7 +224,7 @@ Lorsqu’un tir Indirect explose, il peut blesser ou tuer toutes les figurines s
 
 Pour déterminer la force de l’attaque effectuez un :
 
-**test à 4+ (X) à n Dés**.
+**Test à 4+ (X) à n Dés**.
 
 Exemple
 ```
@@ -233,7 +233,7 @@ Une arme Indirecte (5) provoquera un Test à 4+ (X) à 5 Dés.
 
 Les figurines dans le cube devront effectuer un :
 
-**test de Survie (X) à 3 Dés**.
+**Test de Survie (X) à 3 Dés**.
 
 Lancez une seule fois pour l’attaque et séparément pour les tests de survie de chaque figurine ciblée.
 
