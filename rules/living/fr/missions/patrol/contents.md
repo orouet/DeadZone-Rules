@@ -2,10 +2,15 @@
 
 # Patrouille
 
-## Plan de déploiement
+## Introduction
+
+
+## Déploiement
 
 ![Déploiement](deployment.jpg?raw=true)
 
+
+## Conditions de victoire
 Vous devez marquer 12 PV pour remporter la mission.
 
 Vous gagnez des PV de la façon suivante :

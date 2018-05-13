@@ -2,7 +2,15 @@
 
 # Missions
 
+Ce chapitre décrit la mise en place de nouvelles missions et d'objectifs qui peuvent ajouter de la diversité dans la façon de jouer vos parties de DeadZone.
+
+Dans une DeadZone chaque faction aura ses propres priorités et ses raisons de s'y trouver, les Enforcers cherchent à obtenir des informations vitales et contenir la menace, alors que la Contagion ne cherche qu'à infecter le plus de personnes possible et échapper à la quarantaine. D'autres encore, combattent pour piller les richesses abandonnées des Corporations ou cherchent simplement à survivre.
+
+Dans le jeu de base, nous avons résumé ces préoccupations sous la forme de 4 missions principales. De futurs suppléments pourront introduire des missions spécifiques à chacune des factions.
+
+
 ## [Patrouille](patrol/contents.md)
 + Introduction
 + Déploiement
++ Conditions de victoire
 

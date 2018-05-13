@@ -11,9 +11,9 @@ Afin de mettre en place une partie de Deadzone, suivez ces étapes :
 
 
 ## Choisir une Mission
-S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_ décrite dans la section [Jouer une partie].
+S’il s’agit de votre première partie, nous vous recommandons de jouer la mission d’introduction _Patrouille_ décrite dans la section [Jouer une partie](playing.md).
 
-Lorsque vous vous serez familiarisés avec le jeu, vous trouverez les règles d’autres missions dans la section [Missions](../missions/contents.md) et les règles de campagnes dans le chapitre [Campagnes](../campaign/contents.md).
+Lorsque vous vous serez familiarisés avec le jeu, vous trouverez d’autres missions dans le chapitre [Missions](../missions/contents.md) et les règles de campagnes dans le chapitre [Campagnes](../campaign/contents.md).
 
 
 ## Sélection des Groupes de Combat
