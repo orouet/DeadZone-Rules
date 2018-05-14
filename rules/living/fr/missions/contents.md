@@ -42,9 +42,13 @@ Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre 
 |250 points|20 PV|
 |300 points|20 PV|
 
-### Résultats de Recon
+### Bonus de Recon (Optionnel)
+Si les joueurs sont d'accord pour utiliser le Bonus de Recon, le gagnant du Test de Recon obtiendra un nombre de Dés Bonus de Recon égal au nombre de Réussites obtenu.
 
-### Missions secrètes
+
+
+
+### Missions secrètes (Optionnel)
 Si les joueurs sont d'accord pour utiliser les Missions Secrètes, chaque joueur va se voir attribuer aléatoirement une Mission Secrète qui va modifier les façons de gagner les Points de Victoire (PV).
 
 Chaque Mission comporte un paragraphe Missions Secrètes qui décrit en détail les nouvelles missions.

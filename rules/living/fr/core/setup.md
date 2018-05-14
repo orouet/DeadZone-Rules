@@ -68,7 +68,7 @@ Pour comprendre comment cela fonctionne, consultez la section [Jet de Dés](test
 
 Lors du test de Reconnaissance (**Recon**), chaque joueur tente d’obtenir un résultat supérieur ou égal à la valeur de Recon de son Groupe de Combat. Les valeurs de Recon se trouvent dans chacune des listes d’armées, et peuvent varier selon le Leader que vous avez sélectionné pour votre Groupe de Combat. En cas d’égalité, relancez.
 
-Le vainqueur du test de Recon décide celui qui sera le **premier joueur**. Le premier joueur choisit sa zone de déploiement, déploie ses figurines et aura l’initiative au premier Tour.
+Le vainqueur du test de Recon décide celui qui sera le **Premier Joueur**. Le premier joueur choisit sa zone de déploiement, déploie ses figurines et aura l’initiative au premier Tour.
 
 Les figurines _Non-Véhicules_ peuvent être déployées à n’importe quel niveau. Les véhicules, quant à eux, devront être déployés au niveau 1 (au niveau du sol).
 

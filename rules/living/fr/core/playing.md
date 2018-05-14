@@ -27,10 +27,11 @@ Vous pouvez dépenser autant de dés de commandement que vous le souhaitez duran
 
 
 ## Jouer un Tour
-Le joueur qui effectue son Tour a l’_**Initiative**_.  
+Le joueur qui effectue son Tour a l’_**Initiative**_.
+
 Lors de votre Tour, vous pourrez activer une seule figurine, en suivant ces étapes :
 1) Choisissez une figurine qui n’a pas encore été activée durant ce Round.
-2) Effectuez une _**action longue**_, ou jusqu’à _**deux actions courtes**_.
+2) Effectuez une _**Action Longue**_, ou jusqu’à _**2 Actions Courtes**_.
 3) _**Marquez**_ la figurine en plaçant un pion d’activation à côté d’elle.
 
 **Cas Particuliers** :  
