@@ -27,8 +27,8 @@ Par ailleurs, si les 2 joueurs sont d'accord, une mission spécifique peut être
 
 ## Ajuster les paramètres de la mission
 
-### Conditions de victoire
-Le nombre de Points de Victoire (PV) nécessaire pour remporter la partie varient en fonction de la valeur de vos Groupes de Combat.
+### Condition de victoire
+Le nombre de Points de Victoire (PV) nécessaire pour remporter la partie varie en fonction de la valeur de vos Groupes de Combat.
 
 Les Groupes de Combat basiques comme ceux prédéfinis dans cette règle valent 100 points. Ce niveau de points permet un jeu rapide et brutal. Si vous voulez une partie plus longue, vous pouvez augmenter la valeur de vos Groupes de Combat à 150 ou même 200 points.
 
@@ -43,8 +43,22 @@ Avant de commencer, déterminer la valeur de la partie afin d'ajuster le nombre 
 |300 points|20 PV|
 
 ### Bonus de Recon (Optionnel)
-Si les joueurs sont d'accord pour utiliser le Bonus de Recon, le gagnant du Test de Recon obtiendra un nombre de Dés Bonus de Recon égal au nombre de Réussites obtenu.
+Si les joueurs sont d'accord pour utiliser le Bonus de Recon, le gagnant du Test de Recon obtiendra un nombre de Dés Bonus de Recon égal à la différence des nombres de succès obtenus.
 
+Au début de son premier Tour, le joueur pourra résoudre les effets des Dés Bonus de Recon dans l'ordre de son choix.
+
+Chaque Dé Bonus de Recon aura un effet décrit dans le tableau ci-dessous :
+
+|Résultat|Effet|
+|---|---|
+|**1**|Regardez un pion d'objet puis replacez-le, face cachée, dans son cube d'origine.|
+|**2**|Regardez jusqu'à 3 pions d'objet puis replacez-les, face cachée, dans leurs cubes d'origine.|
+|**3**|Défaussez un pion d'objet.|
+|**4**|Déplacez 1 de vos figurines vers un cube adjacent ne contenant pas de figurine ennemie. Ne la marquez pas comme activée.|
+|**5**|Déplacez 2 de vos figurines vers un cube adjacent ne contenant pas de figurine ennemie. Ne les marquez pas comme activées.|
+|**6**|Déplacez 3 de vos figurines vers un cube adjacent ne contenant pas de figurine ennemie. Ne les marquez pas comme activées.|
+|**7**|Manoeuvre de flanc : retirez une de vos figurines du champ de bataille. A la fin du premier Round, placez la figurine dans n'importe quel cube vide du bord gauche ou du bord droit de la carte.|
+|**8**|Choisissez n'importe quel résultat de ce tableau|
 
 
 
